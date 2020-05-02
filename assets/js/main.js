@@ -26,19 +26,24 @@ window.initMap = () => {
     const handleFilterPark = document.querySelector('.park');
     const handleFilterObservatory = document.querySelector('.observatory');
     const handleFilterLights = document.querySelector('.lights');
+    const handleFilterReserve = document.querySelector('.reserve');
 
     //Eventos de click de los filtros
     handleFilterPark.addEventListener('click', (e) => {
         e.preventDefault();
-        addMarkerFiltered('Birreria')
+        addMarkerFiltered('National Park');
     })
     handleFilterObservatory.addEventListener('click', (e) => {
         e.preventDefault();
-        addMarkerFiltered('Observatory')
+        addMarkerFiltered('Observatory');
     })
     handleFilterLights.addEventListener('click', (e) => {
         e.preventDefault();
-        addMarkerFiltered('Northern Lights')
+        addMarkerFiltered('Northern Lights');
+    })
+    handleFilterReserve.addEventListener('click', (e) => {
+        e.preventDefault();
+        addMarkerFiltered('Nature Reserve');
     })
 
     //Agrego los markers filtrados según filtro (markerType)
@@ -89,6 +94,7 @@ const addMarker = (map, marker) => {
         'National Park': '/assets/images/park.png',
         'Observatory': '/assets/images/space.png',
         'Northern Lights': '/assets/images/lights.png',
+        'Nature Reserve': '/assets/images/nature.png',
 
     }
     //Agrego el marker

@@ -1,26 +1,37 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <link rel="stylesheet" href="assets/css/theme.css">
-        <title>Capriquarius Stargazing Map</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Capriquarius Stargazing Map</title>
+    <link href="assets/css/theme.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Sen|Titillium+Web&display=swap" rel="stylesheet">
+</head>
 
-    </head>
-    <body>
-        
-        <div id="map"></div>
-
+<body>
+    <div class="search-box">
+        <h2 class="title">Capriquarius Stargazing Map</h2>
         <div id="menu">
-            <a href="" class="park"><img src="assets/images/park.png" alt="park"></a>
-            <a href="" class="observatory"><img src="assets/images/space.png" alt="observatory"></a>
-            <a href="" class="lights"><img src="assets/images/lights.png" alt="northern_lights"></a>
-        </div> 
-
-        <script src="assets/data/mapStyle.js"></script>
-        <script src='assets/js/main.js'></script>
-        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBeWXseIVXxPlvpniACQWgThEdPBQE1wR8&callback=initMap"></script>
-
-    </body>
+            <a href="" class="park">
+                <img src="/assets/images/park.png" alt="">
+            </a>
+            <a href="" class="observatory">
+                <img src="/assets/images/space.png" alt="">
+            </a>
+            <a href="" class="lights">
+                <img src="/assets/images/lights.png" alt="">
+            </a>
+            <a href="" class="reserve">
+                <img src="/assets/images/nature.png" alt="">
+            </a>
+        </div>
+    </div>
+    
+    <div id="map"></div>
+    
+    <script src="assets/data/mapStyle.js"></script>
+    <script src='assets/js/main.js'></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBeWXseIVXxPlvpniACQWgThEdPBQE1wR8&callback=initMap"></script>
+</body>
 </html>

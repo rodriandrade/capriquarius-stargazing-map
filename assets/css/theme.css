@@ -1,3 +1,39 @@
-body{padding:0;margin:0;}
-#map{width:100%;height:100vh;}
-#menu{position:absolute;top:0;left:0;padding:30px;background-color:#999;width: 150px;display:flex;justify-content: space-around; align-items: center;}
+body{
+    padding:0;
+    margin:0;
+}
+
+.search-box{
+    background-color: #0000006b;
+    padding: 1em;
+    width: fit-content;
+    position: absolute;
+    z-index: 2;
+    overflow: hidden;
+}
+
+.title{
+    font-family: 'Titillium Web', sans-serif;
+    padding: 1em;
+    color: white;
+}
+
+#map{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+#menu{
+    padding-top: .5em;
+    padding-bottom: .5em;
+    background-color: #0000006b;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#menu img{
+
+}
