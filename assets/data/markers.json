@@ -1,0 +1,431 @@
+[
+    {
+      "lat": 36.457111,
+      "lng": -116.865250,
+      "name": "Death Valley, California",
+      "description": "Death Valley National Park is distant enough from the large cities of the southwest so that much of the night sky above the desert floor is near pristine and, in many places, offers views close to what could be seen before the rise of cities. While Death Valley is comprised of rugged wilderness areas and is famous for its extreme climate, the night skies above the park are as fragile as the land below. The Park is largely free of its own sources of light pollution but the lights of distant Las Vegas and other cities have an impact on the park’s skies and desert nightlife.",
+      "type": "National Park"
+    },
+    {
+      "lat": -31.279540,
+      "lng": 148.989630,
+      "name": "Warrumbungle National Park",
+      "description": "Warrumbungle National Park is a 23,312-hectare park in the Orana region of New South Wales, Australia. In addition to its spectacular daytime vistas of the Warrumbungle Mountain Range, the Park has long been known for the quality of its dark night skies. In the 1950s, seeking relief from the light pollution of Canberra that negatively impacted its Mount Stromlo Observatory, the Australian government relocated major operations to a new observatory at Siding Spring. Now operated by the Research School of Astronomy & Astrophysics at the Australian National University, Siding Spring Observatory is home to the 4-meter Anglo-Australian Telescope, the largest in Australia. Lessons learned at Mount Stromlo encouraged early conservation of dark skies in the area, including at Warrumbungle, to protect the national investment in Australia’s professional astronomy infrastructure.",
+      "type": "National Park"
+    },
+    {
+      "lat": 3.111990,
+      "lng": 101.472880,
+      "name": "Yeongyang Firefly Eco Park",
+      "description": "The Park, established within the Wangpi River Basin Ecological Landscape Protected Zone, has been under legal protections since 2005. The site is significant for the conservation of fireflies, which are known to benefit from conditions of natural darkness. To this end, the Park has developed a management plan for its natural darkness in support of the local firefly population; visitors come to the site expecting low ambient light levels. In recent years, South Korean amateur astronomers have taken note of the site and flock there with increasing frequency to experience dark skies without having to travel especially far from home.",
+      "type": "National Park"
+    },
+    {
+      "lat": 37.747580,
+      "lng": -105.506280,
+      "name": "Great Sand Dunes National Park And Preserve",
+      "description": "The 603.1 sq. km. (232.9 sq. mile) Great Sand Dunes National Park and Preserve contains the tallest sand dunes in North America and is located in south-central Colorado. According to NPS monitoring data, Great Sand Dunes is one of the quietest NPS sites and enjoys extremely pristine night skies owing to its remote location. Furthermore, the Park is also well-known for the seasonal Medano Creek and beach created at the base of the dunes. Additional attractions at the Park include: the backcountry Medano Pass Primitive Road winds through a canyon toward the Sangre de Cristo mountains and ample trails which lead to forests, wetlands, and alpine lakes.",
+      "type": "National Park"
+    },
+    {
+      "lat": 34.770069,
+      "lng": -92.815208,
+      "name": "Sagarmatha National Park",
+      "description": "Encompassing the infinitely majestic snow capped peaks of the Great Himalayan Range, the chain of mountains including the world’s highest Mt. Sagarmatha (Everest) and extensive Sherpa settlements that embody the openness of SNP to the rest of the world. The carefully preserved natural heritage and the dramatic beauty of the high, geologically young mountains and glaciers were recognized by UNESCO with the inscription of the park as a world heritage site in 1979. The property hosts over 20 villages with over 6000 Sherpas who have inhabited the region for the last four centuries. Continuing their traditional practice of cultural and religion including the restriction of animal hunting and slaughtering, and reverence of all living beings. These practices combined with indigenous natural resource management practices, have been major contributing factors to the successful conservation of the SNP.",
+      "type": "National Park"
+    },
+    {
+      "lat": 32.632740,
+      "lng": -116.198360,
+      "name": "Anza-Borrego Desert State Park",
+      "description": "The Park preserves the Colorado Desert, which is itself chiefly composed of the western Sonoran Desert. The west coast Peninsular Ranges of Southern California block most eastern Pacific coastal air and storm systems, producing an arid climate. This low desert experiences intense heat in the summer and frigid conditions in winter, although its elevation usually precludes the formation of frost. The Park provides habitat for a rich biodiversity including the state’s only native palm species, the California Fan Palm (Washingtonia filifera) and a number of endangered species such as the desert bighorn sheep (Ovis canadensis nelsoni). 12 designated wilderness areas, and 180 kilometers (110 miles) of hiking trails draw over 100,000 visitors per year.",
+      "type": "National Park"
+    },
+    {
+      "lat": 26.267780,
+      "lng": -80.962930,
+      "name": "Big Cypress National Preserve",
+      "description": "Big Cypress is a center of biodiversity, hosting a variety of species including orchids, cypresses, mangroves, venomous snakes, birds, the Florida black bear and the elusive Florida panther. Together with nearby Everglades National Park, Big Cypress is an important bulwark against land development in south Florida, representing some of the last dark territory in the region. Still, it is impacted by light from the Miami and Naples/Fort Meyers metro areas. Preserve staff have recognized the value of the dark buffer that Big Cypress and Everglades place between these cities as it applies to their overall conservation mission, and have taken concrete steps to protect the resource and raise its awareness among visitors.",
+      "type": "National Park"
+    },
+    {
+      "lat": 34.503071,
+      "lng": -93.052078,
+      "name": "Cherry Springs State Park",
+      "description": "Due to its exceptionally dark skies, Cherry Springs State Park is one of the best places in the eastern U.S. for stargazing. Situated at 700 m above sea level in the largely undeveloped 106,000 hectare Susquehannock State Forest, the Park’s “Astronomy Field” offers an unobstruced 360-degree view. Cherry Springs is open year-round and 60 to 85 nights each year have ideal conditions for observing. Each year the park hosts two major star parties, which attract several hundred astronomers for several nights.,",
+      "type": "National Park"
+    },
+    {
+      "lat": 44.563179,
+      "lng": -111.356628,
+      "name": "Antelope Island State Park",
+      "description": "Antelope Island State Park consists of 11,655 ha (28,800 acres) of land on the eponymous island separating shallow Farmington Bay from the open water of the Great Salt Lake, a large terminal lake in the state of Utah, U.S. The largest in the Great Salt Lake, the island’s land area fluctuates according to the rise and fall of the lake level. The Island is a small fault-block mountain range in the Great Basin, extending from the Wasatch Front to the Sierra Nevada mountain range. It was used for ranching purposes from the arrival of the Mormon Pioneers in the area during the mid-nineteenth century until its purchase by the State of Utah in segments between 1969 and 1981, at which time it was designated a state park. Its geology, relatively unaltered landscape, sandy beaches and abundant wildlife are the Park’s main attractions.",
+      "type": "National Park"
+    },
+    {
+      "lat": 45.262550,
+      "lng": -86.987940,
+      "name": "Newport State Park",
+      "description": "Because of its geographic situation, Newport’s nights are remarkable dark. The Park’s location at the sparsely-populated end of the peninsula, separated from the mainland by 24 km (15 miles) of open water, makes its dark sky resource highly defensible in the future. Recognizing the value of its dark skies, for the past 25 years the Park has undertaken public outreach and education on astronomy and the importance of natural darkness to local wildlife. It has also brought its minimal site lighting into full compliance with IDA guidelines for parks.",
+      "type": "National Park"
+    },
+    {
+      "lat": 51.956520,
+      "lng": -3.389430,
+      "name": "Brecon Beacons National Park",
+      "description": "On a clear night in the Brecon Beacons, you can see the Milky Way, major constellations, bright nebulas and even meteor showers. It’s enough to make anyone starry eyed. The park has some of the highest quality dark skies in the whole of the UK, making it the perfect destination for stargazers. There are loads of events to enjoy stargazing.",
+      "type": "National Park"
+    },
+    {
+      "lat": 52.059792,
+      "lng": -9.506940,
+      "name": "Kerry",
+      "description": "The night sky has captivated the people of Ireland for millennia. Nearly 6,000 years ago, the Neolithic inhabitants of the Iveragh Peninsula built stone monuments incorporating alignments to track cycles of the Sun, Moon, and stars. According to some experts, ancient Ogham-language inscriptions found in the region may depict celestial observations.",
+      "type": "Nature Reserve"
+    },
+    {
+      "lat": 34.669380,
+      "lng": -80.516701,
+      "name": "NamibRand Nature Reserve",
+      "description": "Namibiaʼs NamibRand Nature Reserve, one of Africaʼs largest private nature reserves, lies in one of the naturally darkest (yet accessible) places on Earth. It was established to help protect and conserve the unique ecology and wildlife of the southwest Namib Desert, and its mission now includes preservation of the area’s starry night skies.In the core of the reserve is the Namib Desert Environmental Education Trust (NaDEET) Centre, which runs environmental education programs that teach about the Earth and sky. Overnight guests, usually groups of schoolchildren, even have the opportunity to sleep in “open air” units where they can view the night sky from the comfort of their beds. The NaDEET Centreʼs programs are open to all Namibians, and visitors from around the world.",
+      "type": "Nature Reserve"
+    },
+    {
+      "lat": -44.266730,
+      "lng": 170.097350,
+      "name": "Aoraki Mackenzie",
+      "description": "The Aoraki Mackenzie International Dark Sky Reserve is comprised of Aoraki/Mt. Cook National Park and the Mackenzie Basin of New Zealand’s South island. Outdoor lighting controls were first put into place in the area during the early 1980s. They have not only helped minimize light pollution for the nearby Mt. John Observatory, but also conserve energy, protect wildlife and make the area a popular stargazing destination for tourists. The natural night has played a critical role in the areaʼs history as its first residents, the Māori, not only used the night sky to navigate to the island but also integrated astronomy and star lore into their culture and daily lives. The reserve seeks to honor that history by keeping the night sky a protected and integral part of the areaʼs natural and cultural landscape. It is a perfect place to protect and honor those traditions as the reserveʼs Mackenzie Basin has the clearest, darkest and the most spectacular night sky in New Zealand.",
+      "type": "Nature Reserve"
+    },
+    {
+      "lat": 51.053710,
+      "lng": 4.359770,
+      "name": "Westhavelland",
+      "description": "Westhavelland Nature Park is the largest protected area in the German federal state of Brandenburg and comprises the largest contiguous wetland of any individual European country. The park is situated only 70 km west of Berlin, the most populous city in Germany, yet its sparse population and protected status put the experience of a dark night sky within easy reach of nearly six million people in the Berlin-Brandenburg Metropolitan Region. The Dark Sky Reserve consists of a mix of 750 square kilometers of public and private land within the park. Westhavelland has developed an extensive education, public outreach, and communications program including the annual WestHavelländer AstroTreff star party, dark-skies interpretive programming, the European Day of Parks event, the Kunst und Kultur (“Art and Culture”) outreach program, and partnerships with private enterprise to develop astrotourism.",
+      "type": "Nature Reserve"
+    },
+    {
+      "lat": 50.450619,
+      "lng": 9.914470,
+      "name": "Rhön",
+      "description": "The United Nations Educational, Scientific and Cultural Organization established the Rhön Biosphere Reserve, also known as Biosphärenreservat Rhön, in 1991. It comprises 1,720 square kilometers of protected lands including the entire central region of the Rhön Mountains, where the German federal states of Hesse, Bavaria and Thuringia meet. Reaching elevations of up to 950 meters, the Rhön region is often referred to as the Land der offenen Fernen (“land of endless horizons”). The darkest night skies of the reserve are in the core zone. The buffer zone, which includes more populated areas, protects the core’s dark skies through the enacting of responsible outdoor light policies by municipal councils. The Rhön Dark Sky Reserve is unique within the Dark Sky Places Program in that its “core” consists of three distinct, non-contiguous areas: Hohe Geba in the northeast, Lange Rhön in the center, and Schwarze Berge in the south.",
+      "type": "Nature Reserve"
+    },
+    {
+      "lat": 40.440690,
+      "lng": -0.720410,
+      "name": "Gúdar-Javalambre",
+      "description": "Aramón Javalambre Gúdar-Javalambre is a comarca in Aragon, Spain. The most important town is Mora de Rubielos. This comarca is located at the southern end of Aragon, bordering the Valencian Community. The area is mountainous with the summits of the Sistema Ibérico rising over towns with little or very little population in which the agricultural houses of the former villages have become summerhouses. The Sierra de Gúdar and the Sierra de Javalambre dominate the landscape and give their name to the comarca. The summits are covered in snow in the winter. The Aramón Javalambre ski resort is located in this comarca.",
+      "type": "Nature Reserve"
+    },
+    {
+      "lat": 44.044060,
+      "lng": -79.325900,
+      "name": "Cranborne Chase",
+      "description": "The Cranborne Chase Area of Outstanding Natural Beauty (AONB) is a chalk plateau in central southern England, straddling the counties Dorset, Hampshire and Wiltshire. The plateau is part of the English Chalk Formation and is adjacent to Salisbury Plain and the West Wiltshire Downs in the north, and the Dorset Downs to the south west. The scarp slope of the hills faces the Blackmore Vale to the west, and to some extent the Vale of Wardour to the north. The chalk gently slopes south and dips under clays and gravels. An area of 379 square miles (981 square kilometres) of Cranborne Chase and the West Wiltshire Downs has been designated an Area of Outstanding Natural Beauty (AONB), the sixth largest AONB in the country. The highest point is Win Green, in Wiltshire, at 910 ft (277 m).",
+      "type": "Nature Reserve"
+    },
+    {
+      "lat": 45.567100,
+      "lng": -70.877860,
+      "name": "Mont-Mégantic",
+      "description": "Mont-Mégantic, the world’s first International Dark Sky Reserve, encompasses the regional county municipalities of Granit and Haut-Saint-François and of the city of Sherbrooke, as well as Mont-Mégantic National Park, its famous observatory and a unique visitor center. The process that led to the IDA designation contributed to the development of a new regional expertise in outdoor lighting management. As a result, the reserve’s 34 municipalities developed outdoor lighting regulations that have contributed to the control and limited growth of area light pollution, which had doubled during the preceding 20 years. Approximately 2,500 light fixtures were replaced, resulting in a 25 percent reduction of area light pollution and a reduction in energy consumption of some 1.3 gigawatt-hours per year. The project is a model for many industrialized countries seeking a compromise between outdoor lighting needs and general concerns about energy efficiency and preservation of the natural nighttime environment.",
+      "type": "Nature Reserve"
+    },
+    {
+      "lat": 43.187470,
+      "lng": -0.210840,
+      "name": "Pic du Midi",
+      "description": "Pic du Midi International Dark Sky Reserve – known as Réserve Internationale de Ciel Étoilé du Pic du Midi in French – is located in a mountainous region of southern France that currently draws 1.5 million visitors per year. It encompasses both a UNESCO World Heritage Site (Pyrénées-Mont Perdu) and a French national park (Pyrénées National Park). The region is capitalizing on the IDA designation as a means of furthering research into land use policy and practices, tourism business models, and resources sustainability at the nearby University of Pau and Pays de l’Adour. A team has been designated by the University to manage the Dark Sky Reserve project and to install and maintain scientific instruments in the Pic du Midi region to monitor the quality of the night sky in the future.",
+      "type": "Observatory"
+    },
+    {
+      "lat": -31.2738468,
+      "lng": 149.06892416,
+      "name": "Siding Spring Observatory",
+      "description": "Siding Spring Observatory near Coonabarabran, New South Wales, Australia, part of the Research School of Astronomy & Astrophysics (RSAA) at the Australian National University (ANU), incorporates the Anglo-Australian Telescope along with a collection of other telescopes owned by the Australian National University, the University of New South Wales, and other institutions. The observatory is situated 1,165 metres (3,822 ft) above sea level in the Warrumbungle National Park on Mount Woorat,[1] also known as Siding Spring Mountain. Siding Spring Observatory is owned by the Australian National University (ANU) and is part of the Mount Stromlo and Siding Spring Observatories research school.",
+      "type": "Observatory"
+    },
+    {
+      "lat": -23.623110,
+      "lng": -70.377960,
+      "name": "Very Large Telescope",
+      "description": "The Very Large Telescope (VLT) is a telescope facility operated by the European Southern Observatory on Cerro Paranal in the Atacama Desert of northern Chile. The VLT consists of four individual telescopes, each with a primary mirror 8.2 m across, which are generally used separately but can be used together to achieve very high angular resolution.[1] The four separate optical telescopes are known as Antu, Kueyen, Melipal, and Yepun, which are all words for astronomical objects in the Mapuche language. The telescopes form an array which is complemented by four movable Auxiliary Telescopes (ATs) of 1.8 m aperture.",
+      "type": "Observatory"
+    },
+    {
+      "lat": 19.509710,
+      "lng": -154.922100,
+      "name": "Mauna Kei",
+      "description": "The Mauna Kea Observatories (MKO) are a number of independent astronomical research facilities and large telescope observatories that are located at the summit of Mauna Kea on the Big Island of Hawaiʻi, United States. The facilities are located in a 525-acre (212 ha) special land use zone known as the 'Astronomy Precinct', which is located within the 11,228-acre (4,544 ha) Mauna Kea Science Reserve.[1] The Astronomy Precinct was established in 1967 and is located on land protected by the Historical Preservation Act for its significance to Hawaiian culture. The presence and continued construction of telescopes is highly controversial due to Mauna Kea's centraility in native Hawaiian religion and culture, as well as for a variety of environmental reasons.",
+      "type": "Observatory"
+    },
+    {
+      "lat": 27.997910,
+      "lng": -15.399250,
+      "name": "Roque de los Muchachos Observatory",
+      "description": "At Roque de los Muchachos Observatory (ORM), on the rim of the Taburiente National Park, at 2396 metres above sea level in the municipality of Garafía (La Palma) stands one of the largest arrays of telescopes in the world. Because of the sky above La Palma, this observatory enjoys exceptional conditions for astronomical research, for this reason, it continues to attract giant telescopes of the future, as well as the new generation of Cherenkov telescopes, designed to study the Universe in very high energy gamma rays. The site currently hosts the largest optical-infrared telescope in the world, along with twenty other telescopes and instruments for various kinds of studies, including nocturnal observations, robotic observing, solar physics, and high energy astrophysics.  Great advances in the study of the Universe have been made with these telescopes, ranging from the detection of the most distant galaxy to confirmation of the existence of black holes and the accelerated expansion of the Universe.",
+      "type": "Observatory"
+    },
+    {
+      "lat": 40.191740,
+      "lng": -3.837320,
+      "name": "La Sagra Observatory",
+      "description": "La Sagra Observatory (Spanish: Observatorio Astronómico de La Sagra; OLS; observatory code: L98) is an astronomical observatory located in the province of Granada, Spain. It uses four robotic telescopes both designed and built (hardware and software) by the scientists of the Observatorio Astronómico de Mallorca (OAM) who operate them remotely by telecontrol daily, discharging data from Mallorca using the Internet, to process them by means of algorithms designed 'in house' which helped to detect asteroid 367943 Duende. Among the other 1706 asteroids, with a 12th place in the ranking of asteroid discoveries. Its activities include, as part of its La Sagra Sky Survey, tracking small Solar System bodies, particularly near-Earth objects, and space debris.",
+      "type": "Observatory"
+    },
+    {
+      "lat": -23.016605,
+      "lng": -67.77226867,
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "description": "The Atacama Large Millimeter/submillimeter Array (ALMA) is an astronomical interferometer of 66 radio telescopes in the Atacama Desert of northern Chile, which observe electromagnetic radiation at millimeter and submillimeter wavelengths. The array has been constructed on the 5,000 m (16,000 ft) elevation Chajnantor plateau - near the Llano de Chajnantor Observatory and the Atacama Pathfinder Experiment. This location was chosen for its high elevation and low humidity, factors which are crucial to reduce noise and decrease signal attenuation due to Earth's atmosphere.[1] ALMA is expected to provide insight on star birth during the early Stelliferous era and detailed imaging of local star and planet formation.",
+      "type": "Observatory"
+    },
+    {
+      "lat": -30.7593801,
+      "lng": -69.5398445,
+      "name": "El Leoncito Observatory",
+      "description": "The El Leoncito Astronomical Complex (Spanish: Complejo Astronómico El Leoncito - CASLEO) is an astronomical observatory in the San Juan Province of Argentina. CASLEO is one of two observatories located within El Leoncito National Park, which is in a part of the country which rarely sees cloud cover. The other facility in the park is the Carlos U. Cesco Astronomical Station of the Félix Aguilar Observatory. CASLEO was established in 1983 by an agreement between National Scientific and Technical Research Council (CONICET) of Argentina, the Ministry of Science, Technology and Innovation (MINCYT) of Argentina, the National University of San Juan (UNSJ), the National University of La Plata (UNLP), and the National University of Córdoba (UNC). The facility was dedicated in 1986 and regular observations began in 1987.",
+      "type": "Observatory"
+    },
+    {
+      "lat": -34.56972755,
+      "lng": -58.41172766,
+      "name": "Galileo Galilei Planetarium",
+      "description": "The 1960s-built planetarium, resembling a UFO, is located in the Parque Tres de Febrero in Palermo. It has a main projection room with a 20 meter dome and reclineable seats for viewing projections of the stars and planets, and a smaller room for exhibitions. It also has a museum, a collection of meteorites from the north of Argentina, and hosts interactive exhibits and audiovisual shows. The planetarium is built on the sight of the first recorded football match to be played in Argentina, contested between the Buenos Aires Cricket Club and the crew of British warship the Bombay on June 29, 1867",
+      "type": "Observatory"
+    },
+    {
+      "lat": 63.1831737,
+      "lng": -151.14836317,
+      "name": "Denali National Park",
+      "description": "Denali National Park and Preserve is an American national park and preserve located in Interior Alaska, centered on Denali, the highest mountain in North America. The park and contiguous preserve encompass 6,045,153 acres (9,446 sq mi; 24,464 km2) which is larger than the state of New Hampshire.[3] On December 2, 1980, 2,146,580-acre (3,354 sq mi; 8,687 km2) Denali Wilderness was established within the park. Denali's landscape is a mix of forest at the lowest elevations, including deciduous taiga, with tundra at middle elevations, and glaciers, snow, and bare rock at the highest elevations. The longest glacier is the Kahiltna Glacier. Wintertime activities include dog sledding, cross-country skiing, and snowmobiling. The park received 594,660 recreational visitors in 2018.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 67.68601595,
+      "lng": 37.09220477,
+      "name": "The Kola Peninsula",
+      "description": "The aurora season on the Kola Peninsula in northeastern Russia extends from late August until April, but winter is the best time to see the lights. This is because the region, which sits within the Arctic Circle, boasts 42 polar nights, meaning the area is shrouded in total darkness for more than 24 hours. It's also one of the more temperate and accessible regions in Russia where you can chase the aurora. The best place to view the lights on the peninsula is from the small port city of Murmansk, which is located in the northwest part of the region. To see other parts of the region, opt for an eight-day tour with Russia Discovery. This package includes viewing the northern lights, visiting the tundra and coastline of the Arctic Ocean, meeting the indigenous Sámi people, snowmobiling in the Khibiny mountains and exploring St. Petersburg.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 46.5436104,
+      "lng": -87.3962884,
+      "name": "The Upper Peninsula, Michigan",
+      "description": "The Upper Peninsula of Michigan boasts one of the top northern lights viewing locales in the U.S. during the spring and fall, and impressive astronomical shows in the warmer months. Throughout the summer, the Milky Way is visible across the sky and late summer evenings entertain visitors with meteor showers. Travelers can splurge on a stay at the Mission Point Resort on Mackinac Island at the confluence of Lake Michigan and Lake Huron. The resort's staff will notify guests of potential northern lights sightings. The Headlands International Dark Sky Park, located in Mackinaw City, is another draw situated nearby. The park was one of the first 10 International Dark Sky Parks in the world and is the perfect spot to gaze at the aurora.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": -67.009959,
+      "lng": -50.6922261,
+      "name": "Kangerlussuaq",
+      "description": "Greenland may not be the most accessible place to travel for viewing the northern lights, but those who make it there will be thrilled they did. The tundra of Kalaallit Nunaat (the Greenlandic name for the country) is one of the best places on the globe to see the aurora. The viewing window extends from September to the beginning of June, when you can then enjoy the midnight sun. The tiny town of Kangerlussuaq is located on a fjord right along the Arctic Circle. The 300 days a year of clear skies make it an ideal spot to see the lights, especially between October and April. The town, a former U.S. air force base, is also home to the Greenland Ice Cap.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 64.145981,
+      "lng": -21.9422367,
+      "name": "Reykjavik",
+      "description": "September to April is the best time to chase the aurora borealis in Iceland. For optimum viewing away from the light pollution, head to Öskjuhlið. This densely wooded area in Reykjavik has walkways and paths where you can see the nighttime show. Atop of this forest sits Perlan, which is the only planetarium in the country and a museum featuring exhibits about Iceland. Don't miss the panoramic views of the city from the observation deck on the fourth floor of Perlan. From it, visitors can see the Snæfellsjökull glacier, Keilir Volcano and the mountain of Reykjavik, Esja. While here, splurge on an overnight tour with Buubble.com. This experience includes several sightseeing spots and a night spent under the magical northern skies in a bubble at the 5 Million Star Hotel.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 67.8503783,
+      "lng": 20.6053047,
+      "name": "Jukkasjärvi",
+      "description": "The optimal time for viewing the northern lights in Sweden is during the darkest months, from December through March. In the northern part of the country, in Swedish Lapland, visitors can see the illuminated skies from late August or early September to mid-April. The small Swedish village of Jukkasjärvi sits approximately 125 miles above the Arctic Circle on the Torne River and is an ideal locale for aurora viewing. Book accommodations at the world's first ICEHOTEL in a year-round warm suite in the new ICEHOTEL 365. If you're up for an adventure, reserve one of the artist-designed cold suites with temperatures as low as -8 degrees Celsius. The rooms are sculpted of ice and include beds with reindeer hides and thermal sleeping bags. During your stay, take advantage of the guided Northern Lights Safari and late-night trek to the hotel's Camp Aurora.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 62.4710386,
+      "lng": -114.4467513,
+      "name": "Yellowknife",
+      "description": "Yellowknife is the capital of Canada's Northwest Territories. It's also known as the Aurora Capital of North America. With its position in the middle of the Auroral Oval, the city puts on one of the world's most awe-inspiring light shows from January through March. Located on the northern shore of Great Slave Lake, Yellowknife boasts winter sports such as ice fishing and cross-country skiing. At the end of March, as temperatures begin to warm, Yellowknife hosts the Long John Jamboree on Yellowknife Bay. The event's festivities include sugar shacks, ice carving and dogsled races. For a once-in-a-lifetime experience, make reservations to stay in a teepee at Aurora Village to view the lights. The property offers aurora-themed tours and packages that include activities like dog sledding and snowmobiling.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 59.01329755,
+      "lng": -3.23124029,
+      "name": "Orkney",
+      "description": "This group of captivating islands, located on Scotland's remote northern coast, is one of the best places to see the northern nights in the country. Fall and winter are the best seasons to witness the aurora, also known in local dialect as the 'Mirrie Dancers.' This time of year brings cold evenings with clear skies, which makes for ideal viewing conditions. A few places to see the spectacular light show include from the top of Wideford Hill, along the coast in Birsay or on the beach at Dingieshow. In addition to the aurora, Orkney is home to breathtaking coastal landscapes and more sheep than you can count. Travelers can also visit the Heart of Neolithic Orkney, a UNESCO World Heritage Site, which includes several monuments dating back 5,000 years. While here, plan to stay in the historic town of Kirkwall, the capital of the Orkney Islands.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 67.69291045,
+      "lng": 26.72820448,
+      "name": "Lapland",
+      "description": "Lapland is located in the Arctic Circle in Northern Europe. The northern lights are visible approximately 200 nights a year from this region in Finland. Lapland is also known as the home of Santa Claus, the Sámi people (the only indigenous people in the European Union) and as many as 190,000 reindeer. Aurora chasers can expect to see the lights every other clear night between September and March in northern Lapland, especially when the stars are out. For a bucket list experience, watch the impressive light show from a glass igloo at Santa's Hotel Aurora in Luosto. This resort town is approximately 70 miles north of the town of Rovaniemi and is set among the picturesque and hilly landscape of Pyhä-Luosto National Park.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 69.6492969,
+      "lng": 18.9548489,
+      "name": "Tromsø",
+      "description": "Located above the Arctic Circle, Tromsø is one of several top spots to view the northern lights in Norway. The northern part of the country is dark in the early afternoon until late morning, from the end of September to late March. With this extreme darkness, there are more opportunities to see the aurora. Tromsø itself is a modern city, so there's plenty to see and do when you're not looking up at the sky, including a visit to the beautiful Arctic Cathedral. In late January to early February, the city hosts the Northern Lights Festival, a 10-day music and performing arts event featuring everything from singers and ballet dancers to symphonies. Aurora chasers can view the lights on their own, opt for a guided Northern Lights Safari or go on an exhilarating husky trekking tour in the Arctic wilderness.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 64.837845,
+      "lng": -147.716675,
+      "name": "Fairbanks",
+      "description": "Fairbanks is one of the best places in the world to view the northern lights as it's located directly under the Auroral Oval. This ring-shaped zone sits over the Earth's geomagnetic north pole, where aurora activity is concentrated. Visitors can expect to see the lights on an average of four out of five clear nights during aurora season, which lasts from Aug. 21 to April 21. Other activities visitors can enjoy in late summer include a ride on the Riverboat Discovery or panning for gold. For a festive holiday experience, visit the Santa Claus House in the city of North Pole (around 13 miles southeast of Fairbanks). Travelers can also see ice sculptures in February and March at the impressive World Ice Art Championships or take a dog sledding or snowmobiling tour. For excellent chances of aurora viewing, book accommodations at the upscale Akaurora Villa.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 58.5408174,
+      "lng": 26.65285208,
+      "name": "Saadjärv",
+      "description": "Several destinations in Estonia are popular with local aurora chasers, but Saadjärv is known to have the most consistent sightings during the winter months. The town is located approximately 14 miles north of Tartu in Tartu County of central Estonia. It's situated on Lake Saadjärv, which is one of the 10 deepest and largest lakes in the country. It's also close to the Vooremaa Nature Park, so there's plenty to do in the region when you're not watching the lights dance in the sky. The lake is a major recreational area with beaches, places to stay and museums, such as The Ice Age Centre. You can also visit Alatskivi Castle, go snowshoeing in the Männikjärve bog or explore Elistvere Animal Park.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 69.2198299,
+      "lng": -51.0982705,
+      "name": "Ilulissat",
+      "description": "Ilulissat, formerly Jakobshavn or Jacobshaven, is the municipal seat and largest town of the Avannaata municipality in western Greenland, located approximately 350 km (220 mi) north of the Arctic Circle. With the population of 4,670 as of 2020,it is the third-largest city in Greenland, after Nuuk and Sisimiut. The city is home to almost as many sled-dogs as people. In direct translation, Ilulissat is the Kalaallisut word for Icebergs (Danish: Isbjerge).The nearby Ilulissat Icefjord is a UNESCO World Heritage Site, and has made Ilulissat the most popular tourist destination in Greenland. Tourism is now the town's principal industry. The city neighbours the Ilulissat Icefjord, where there are enormous icebergs from the most productive glacier in the northern hemisphere.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 63.000147,
+      "lng": -136.002502,
+      "name": "Yukon",
+      "description": "Yukon is the smallest and westernmost of Canada's three territories. It has the smallest population of any province or territory in Canada, with a population of 41,078 people. Whitehorse, the territorial capital and Yukon's only city, is the largest settlement in any of the three territories.Yukon was split from the Northwest Territories in 1898 and was originally named the Yukon Territory. The federal government's Yukon Act, which received royal assent on March 27, 2002, established Yukon as the territory's official name, though Yukon Territory is also still popular in usage and Canada Post continues to use the territory's internationally approved postal abbreviation of YT. Though officially bilingual (English and French), the Yukon government also recognizes First Nations languages.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 68.9718161,
+      "lng": 33.11603001,
+      "name": "Murmansk",
+      "description": "Murmansk is a port city and the administrative center of Murmansk Oblast in the far northwest part of Russia. It sits on both slopes and banks of a modest ria or fjord, Kola Bay, an estuarine inlet of the Barents Sea. Its bulk is on the east bank of the inlet. It is in the north of the rounded Kola Peninsula which covers most of the oblast (semi-autonomous region). The city is 108 kilometres (67 mi) from the border with Norway and 182 kilometres (113 mi) from the Finnish border. The city is named for the Murman Coast, an archaic term in Russian for Norway.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 68.3501695,
+      "lng": 18.8300059,
+      "name": "Abisko",
+      "description": "Abisko is a village in Sápmi (Lapland), in northern Sweden, roughly 250 km within the Arctic Circle, and near Abisko National Park, located 4 km west of the village. It had 85 inhabitants as of 2005. Permafrost is common around the village albeit this low altitude permafrost is disappearing because of global warming and increased snowfall.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 69.7263374,
+      "lng": 30.049768,
+      "name": "Kirkenes",
+      "description": "is a town in Sør-Varanger Municipality in Troms og Finnmark county, in the far northeastern part of Norway. The town lies on a peninsula along the Bøkfjorden, an arm of the large Varangerfjorden. The main church for Kirkenes is Kirkenes Church, located in the Haganes area of the town. The 2.14-square-kilometre (530-acre) town has a population (2018) of 3,529, which gives the town a population density of 1,649 inhabitants per square kilometre (4,270/sq mi). When the neighbouring suburban villages of Hesseng, Sandnes, and Bjørnevatn are all included with Kirkenes, the urban area reaches a total population of almost 8,000 people.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 64.0388116,
+      "lng": -22.7059293,
+      "name": "Sandgerdi",
+      "description": "Sandgerði is one of the Iceland’s major fishing communities and is located on the very northern tip of the peninsula. There are interesting things to do in the town, including birdwatching and golfing. A large variety of handmade souvenirs are on offer at the Listatorg souvenir shop and one can also take in the nature and research exhibits at the Suðurnes Science and Learning Center.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 68.9062456,
+      "lng": 27.0260771,
+      "name": "",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    },
+    {
+      "lat": 57.7227582,
+      "lng": -3.2865089,
+      "name": "Moray Coast",
+      "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
+      "type": "Northern Lights"
+    }
+  ]
+
+
+
+
+
+
+
+
+
