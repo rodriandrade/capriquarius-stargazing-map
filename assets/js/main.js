@@ -19,7 +19,10 @@ window.initMap = () => {
                 position: google.maps.ControlPosition.RIGHT_CENTER //ubico los controles de zoom
             }
         });
+        //Agrego el zoom máximo y mínimo que se pueden hacer
+        map.setOptions({ minZoom: 3, maxZoom: 17 });
     fetchMarkers(map) //Llamammos a la función que trae el json de markers
+
 
     //FILTROS
     //Traigo elementos del DOM
