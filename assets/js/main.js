@@ -31,6 +31,8 @@ window.initMap = () => {
     const handleFilterLights = document.querySelector('.lights');
     const handleFilterReserve = document.querySelector('.reserve');
     const handleResetButton = document.querySelector('.reset');
+    // Dropdown
+    const countryFilter = document.querySelector('.countriesSelector');
 
     //Eventos de click de los filtros
     handleFilterPark.addEventListener('click', (e) => {
@@ -55,6 +57,26 @@ window.initMap = () => {
             marker.setMap(map);
         });
     })
+    // Filtro para los paises
+    countryFilter.addEventListener('change', (e) => {
+        e.preventDefault();
+        console.log(countryFilter.value);
+        addMarkerFilteredByCountry(countryFilter.value);
+    })
+
+    // Agrega los markers filtrados por país
+    const addMarkerFilteredByCountry = (country) => {
+        console.log('clicked beer');
+        markersAll.forEach((marker) => {
+            //console.log(marker)
+            marker.setMap(null); //Quita todos los markers del mapa
+        })
+        const filterByCountry = markersAll.filter((markerItem) => markerItem.country === country)
+        filterByCountry.forEach((marker) => {
+            marker.setMap(map);
+        })
+    }
+
 
     //Agrego los markers filtrados según filtro (markerType)
     const addMarkerFiltered = (markerType) => {
@@ -87,7 +109,7 @@ const fetchMarkers = async (map) => {
 //Función de agregado de un marker
 const addMarker = (map, marker) => { 
     //Destructuring de la info del marker
-    const { lat, lng, name, img, description, type } = marker;
+    const { lat, lng, name, country, img, description, type } = marker;
     
     //Armo la infowindow
     const contentString = `
@@ -118,7 +140,8 @@ const addMarker = (map, marker) => {
             position: { lat: lat, lng: lng },
             icon: icons[type],
             map: map,
-            customInfo: type
+            customInfo: type,
+            country: country
         }
     );
     markerItem.setMap(map);

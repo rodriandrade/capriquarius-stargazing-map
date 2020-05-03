@@ -39,6 +39,7 @@
     "lat": 27.7106187,
     "lng": 85.3121863,
     "name": "Sagarmatha National Park",
+    "country": "Nepal",
     "img": "/assets/images/sagarmatha.jpg",
     "description": "Encompassing the infinitely majestic snow capped peaks of the Great Himalayan Range, the chain of mountains including the world’s highest Mt. Sagarmatha (Everest) and extensive Sherpa settlements that embody the openness of SNP to the rest of the world. The carefully preserved natural heritage and the dramatic beauty of the high, geologically young mountains and glaciers were recognized by UNESCO with the inscription of the park as a world heritage site in 1979. The property hosts over 20 villages with over 6000 Sherpas who have inhabited the region for the last four centuries. Continuing their traditional practice of cultural and religion including the restriction of animal hunting and slaughtering, and reverence of all living beings. These practices combined with indigenous natural resource management practices, have been major contributing factors to the successful conservation of the SNP.",
     "type": "National Park"
