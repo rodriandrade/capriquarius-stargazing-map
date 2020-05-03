@@ -279,7 +279,7 @@
     "type": "Northern Lights"
   },
   {
-    "lat": -67.009959,
+    "lat": 67.009959,
     "lng": -50.6922261,
     "name": "Kangerlussuaq",
     "country": "Greenland",
@@ -673,5 +673,203 @@
     "img": "/assets/images/Zselic.jpg",
     "description": "The Zselic Starry Sky Park at the Zselic National Landscape Protection Area began as a project between the Duna-Dráva National Park Directorate and the Hungarian Astronomical Association. Established in 1976 to protect the natural assets of the North Zselic region, the park encompasses 9,042 hectares. After the initial proposal signing, the project expanded its outreach by working with the surrounding 17 municipalities and the Lighting Society of Hungary to minimize the communities’ impacts on the park. Finally, the outdoor lighting renovation of the Hotel Kardosfa and the surrounding park recreational buildings to include dark sky friendly lighting assisted in minimizing the light pollution impacts from within the park. Zselic is one of the best places with close to unaltered dark night skies in Hungary. The Triangulum Galaxy can be seen with the naked eye on clear nights, and the zodiacal light is often visible in spring and autumn.",
     "type": "National Park"
+  },
+  {
+    "lat": 44.1894784,
+    "lng": 7.1498003,
+    "name": "Alpes Azur Mercantour",
+    "country": "France",
+    "img": "/assets/images/Alpes Azur.jpg",
+    "description": "Located at the South–West end of the Alps, where the mountains plunge to the Mediterranean Sea, the Alpes Azur Mercantour –Mont Mounier 2817m IDSR/RICE is characterized by exceptional natural heritage. It has grand landscapes, shaped by a long geological history still visible today, a great richness of biodiversity thanks to the mix of Alpine and Mediterranean influences, and the climate which has made it a favored tourist destination since the 19th century. The presence of a natural frontier made up of 3,000–meter peaks close to the coast favored the development of unique cultural, military, religious and linguistic heritage. Astronomy occupies a singular place in the character of the region. The geographical location interested astronomers at the end of the 19th century, and Mont Mounier (2817m) was one of the first mountain observatories. This interest continued throughout the 20th century, and the Calern plateau observatory is still active. The reserve is equally good for amateur astronomers to observe the unspoiled night sky.",
+    "type": "Nature Reserve"
+  },
+  {
+    "lat": 43.6447642,
+    "lng": -114.0154071,
+    "name": "Central Idaho",
+    "country": "United States",
+    "img": "/assets/images/Central Idaho.jpg",
+    "description": "The Reserve’s chief draw is its wilderness quality, with its lack of development and significant visitor services. It remains among a shrinking number of places in the lower 48 United States where visitors can have a truly ‘off-grid’ experience, with access to neither electricity nor mobile phone service across thousands of square kilometers. As the challenging topography of the Sawtooth Range has historically discouraged the development of significant infrastructure, so the land has largely resisted electrification leading to the deployment of large amounts of artificial light at night. Central Idaho is therefore one of the last large ‘pools’ of natural nighttime darkness left in the United States.",
+    "type": "Nature Reserve"
+  },
+  {
+    "lat": 48.68049515,
+    "lng": 2.17220516,
+    "name": "Cévennes",
+    "country": "France",
+    "img": "/assets/images/Cevennes.png",
+    "description": "Occupied by humans for at least the last 400,000 years, Cévennes is best known as the heart of the Camisard revolt of the early eighteenth century, in which French Calvinist Protestants rose up against religious persecutions following the Edict of Fontainebleau, issued by King Louis XIV in 1685. Despite its rebellious past, today Cévennes is the peaceful home of over 71,000 inhabitants living in 250 villages within its borders. They operate over 400 farms whose lands comprise one quarter of the park’s territory. It is, as National Geographic puts it, “not a pure wilderness park but a classic landscape of traditional French life.” The Park offers a diversity of outdoor activities such as hiking, mountain biking, fishing, kayaking, and spelunking.",
+    "type": "Nature Reserve"
+  },
+  {
+    "lat": 51.1338406,
+    "lng": -3.60399489,
+    "name": "Exmoor",
+    "country": "England",
+    "img": "/assets/images/Exmoor.png",
+    "description": "In Exmoor, the 81 square kilometers of core zone were chosen to minimize human habitation but to maximize open land access and points of interest. The mostly moorlike land core area includes Bronze Age burial mounds, a site of Special Scientific Interest at Dunkery Horner Wood National Nature Reserve, the deserted medieval settlement of Hoccombe Combe, and a recreational building used for astronomy events. In the buffer areas surrounding the core, the Exmoor National Park Authority works with park residents and management of Somerset and Devon Counties on dark-skies issues, with strong support from the national Campaign to Protect Rural England.",
+    "type": "Nature Reserve"
+  },
+  {
+    "lat": 50.2227818,
+    "lng": -5.2165225,
+    "name": "Moore’s Reserve",
+    "country": "England",
+    "img": "/assets/images/Moore.png",
+    "description": "The entirety of the Park lies within about 100 km of the edge of the greater London metropolitan area, among the most light-polluted metropolises on Earth. It is remarkable that any relatively dark areas remain between London and the south coast of England, particularly given aggressive housing development in the Sussex Downs in the nineteenth and twentieth centuries. The Park’s efforts in seeking Dark Sky Reserve status have helped establish it as an important bulwark against the creeping advance of the furthest-outlying London suburbs. Like Westhavelland IDSR, situated a similar distance from Berlin as South Downs is from London, the Park offers authentically dark nighttime outdoor experiences to over ten million people who live within a two-hour train journey of the Downs.",
+    "type": "Nature Reserve"
+  },
+  {
+    "lat": -35.2059403,
+    "lng": 143.546728,
+    "name": "River Murray",
+    "country": "Australia",
+    "img": "/assets/images/Murray.png",
+    "description": "The River Murray Dark Sky Reserve is an area of more than 3,200 square kilometers that sits entirely within the Mid Murray Council area in South Australia, roughly 100 kilometers east of the state capital, Adelaide. Established in 1970 principally to protect the endangered southern hairy-nosed wombat (Lasiorhinus latifrons), Swan Reach Conservation Park is the Reserve’s core site due to its exceptional natural darkness, its size, its protected status and its central location within the Reserve. The park comes under the control of the South Australian Ministry for Environment and Water and is managed on its behalf by the Department of Environment and Water (DEW). State government legislation and associated regulations mean that development inside the park is restricted solely to structures associated with conservation management. There are currently no facilities within the park boundaries, apart from a few rough tracks.",
+    "type": "Nature Reserve"
+  },
+  {
+    "lat": 52.739035,
+    "lng": -3.9643645,
+    "name": "Snowdonia",
+    "country": "Wales",
+    "img": "/assets/images/Snowdonia.png",
+    "description": "Snowdonia National Park is the first UK National Park named in Wales, sprawling over more than 2,100 square kilometers of territory – some ten percent of the total land area of Wales. The Park’s name traditionally applied to a smaller, upland area of northern Gwynedd around Snowdon mountain, while the Park includes a land area more than twice that size and extending to the south well into the region of Meirionnydd. The terrain of Snowdonia largely consists of the mountainous lands that run the length of Wales, although its lower reaches extend into coastal areas. The rugged interior of the Park supports little human settlement to this day, and consequently has created a naturally dark haven separate from coastal cities. Along with Dark Sky Parks Brecon Beacons National Park and the Elan Valley Estate to its south, Snowdonia is among the darkest places remaining in southern Britain.",
+    "type": "Nature Reserve"
+  },
+  {
+    "lat": 58.37484375,
+    "lng": 26.73024378,
+    "name": "Tartu Observatory",
+    "country": "Estonia",
+    "img": "/assets/images/Tartu.jpg",
+    "description": "The Tartu Observatory is the largest astronomical observatory in Estonia. On January 1, 2018, Tartu Observatory joined again to Tartu University, and the observatory is now an institute of the university. It is located on the Tõravere hill, about 20 km south-west of Tartu in Nõo Parish, Tartu County. The old Tartu Observatory located in Tartu city centre, is known internationally for its connection to Friedrich Georg Wilhelm von Struve and the Struve Geodetic Arc, of which it is the first reference point.",
+    "type": "Observatory"
+  },
+  {
+    "lat": 24.4710165,
+    "lng": 124.23850609,
+    "name": "Ishigaki-Jima",
+    "country": "Japan",
+    "img": "/assets/images/Tartu.jpg",
+    "description": "Ishigakijima Astronomical Observatory is operated through the cooperation of 6 organizations: NAOJ, Ishigaki City, Ishigaki City Education Committee, Specified Nonprofit Corporation Yaeyamahoshinokai, Okinawa Prefecture Ishigaki Youth Center, and University of the Ryukyus. Ishigakijima Astronomical Observatory is equipped with the “MURIKABUSHI Telescope,” an optical-infrared reflector telescope with a 105 cm aperture, the largest in the Kyushu-Okinawa area. It is used to conduct research observations of Solar System objects and transient astronomical objects as well as astronomy public outreach (facilities open to the public, stargazing parties, etc.).",
+    "type": "Observatory"
+  },
+  {
+    "lat": 45.4077172,
+    "lng": 11.8734455,
+    "name": "Padua Observatory",
+    "country": "Italy",
+    "img": "/assets/images/Padua.jpg",
+    "description": "Built in the 9th century as part of the medieval fortifications of Padua, the tower then known as Torlonga was used for centuries as a prison and torture hall. In the 14th century, it became part of the new castle of the ruling Carraresi family and was decorated with red and white paintings, which have sadly faded away with the centuries.",
+    "type": "Observatory"
+  },
+  {
+    "lat": 55.924576,
+    "lng": -3.1795825,
+    "name": "Royal Edinburgh Observatory",
+    "country": "Scotland",
+    "img": "/assets/images/Edinburgh.jpg",
+    "description": "The Royal Observatory, Edinburgh (ROE) is an astronomical institution located on Blackford Hill in Edinburgh. The site is owned by the Science and Technology Facilities Council (STFC). The ROE comprises the UK Astronomy Technology Centre (UK ATC) of STFC, the Institute for Astronomy of the School of Physics and Astronomy of the University of Edinburgh, and the ROE Visitor Centre. The observatory carries out astronomical research and university teaching; design, project management, and construction of instruments and telescopes for astronomical observatories; and teacher training in astronomy and outreach to the public. The ROE Library includes the Crawford Collection of books and manuscripts gifted in 1888 by James Ludovic Lindsay, 26th Earl of Crawford. Before it moved to the present site in 1896, the Royal Observatory was located on Calton Hill, close to the centre of Edinburgh, at what is now known as the City Observatory.",
+    "type": "Observatory"
+  },
+  {
+    "lat": 59.8016824,
+    "lng": 30.26764829,
+    "name": "Pulkovo",
+    "country": "Russia",
+    "img": "/assets/images/Pulkovo.jpg",
+    "description": "The Pulkovo Astronomical Observatory (Russian: Пу́лковская астрономи́ческая обсервато́рия, official name The Central Astronomical Observatory of the Russian Academy of Sciences at Pulkovo, the principal astronomical observatory of the Russian Academy of Sciences, located 19 km south of Saint Petersburg on Pulkovo Heights 75 metres (246 ft) above sea level. It is part of the UNESCO World Heritage Site Historic Centre of Saint Petersburg and Related Groups of Monuments.",
+    "type": "Observatory"
+  },
+  {
+    "lat": 35.2029594,
+    "lng": -111.6646334,
+    "name": "Lowell",
+    "country": "United States",
+    "img": "/assets/images/Lowell.jpg",
+    "description": "Lowell Observatory is an astronomical observatory in Flagstaff, Arizona, United States. Lowell Observatory was established in 1894, placing it among the oldest observatories in the United States, and was designated a National Historic Landmark in 1965. In 2011, the Observatory was named one of 'The World's 100 Most Important Places' by TIME. It was at the Lowell Observatory that the dwarf planet Pluto was discovered in 1930 by Clyde Tombaugh. The observatory was founded by astronomer Percival Lowell of Boston's Lowell family and is overseen by a sole trustee, a position historically handed down through the family. The first trustee was Lowell's third cousin Guy Lowell (1916–1927). Percival's nephew Roger Putnam served from 1927 to 1967, followed by Roger's son Michael (1967–1987), Michael's brother William Lowell Putnam III (1987–2013), and current trustee W. Lowell Putnam",
+    "type": "Observatory"
+  },
+  {
+    "lat": -40.7752221,
+    "lng": -72.2029682,
+    "name": "La Silla",
+    "country": "Chile",
+    "img": "/assets/images/La Silla.jpg",
+    "description": "La Silla Observatory is an astronomical observatory in Chile with three telescopes built and operated by the European Southern Observatory (ESO). Several other telescopes are located at the site and are partly maintained by ESO. The observatory is one of the largest in the Southern Hemisphere and was the first in Chile to be used by ESO. The La Silla telescopes and instruments are located 150 km northeast of La Serena at the outskirts of the Chilean Atacama Desert, one of the driest and most remote areas of the world. Like other observatories in this geographical area, La Silla is located far from sources of light pollution and, like the Paranal Observatory, home to the Very Large Telescope, it has one of the darkest night skies on the Earth.",
+    "type": "Observatory"
+  },
+  {
+    "lat": -33.93452235,
+    "lng": 18.47752939,
+    "name": "South African Astronomical",
+    "country": "South Africa",
+    "img": "/assets/images/South African Astronomical.jpg",
+    "description": "South African Astronomical Observatory (SAAO) is the national centre for optical and infrared astronomy in South Africa. It was established in 1972. The observatory is run by the National Research Foundation of South Africa. The facility's function is to conduct research in astronomy and astrophysics. The primary telescopes are located in Sutherland, which is 370 kilometres (230 mi) from Observatory, Cape Town, where the headquarters is located. The SAAO has links worldwide for scientific and technological collaboration. Instrumental contributions from the South African Astronomical Observatory include the development of a spherical aberration corrector and the Southern African Large Telescope (SALT).",
+    "type": "Observatory"
+  },
+  {
+    "lat": -33.8595402,
+    "lng": 151.20466712,
+    "name": "Sydney Observatory",
+    "country": "Australia",
+    "img": "/assets/images/Sydney.jpg",
+    "description": "The amazing Sydney Observatory is not only positioned to give you a clear image of the night sky but also offer you a beautiful view of the Sydney Harbor. The inside of this observatory is all about the operation of a planetarium as well as a museum that is able to house a wealth of meteorology, astronomy as well as timekeeping equipment. Once you have finished exploring and browsing this observatory during the day time, you must reserve the night time by making the most of observing one of the two telescopes of the observatory. The first one is controlled by a computer and the second telescope is an 1874 refracting telescope which is also considered to be the oldest working telescope throughout the territory of Australia. This observatory is made open from 10 am to 5 pm daily. You always get the opportunity to reserve your nighttime session in advance by the way of doing it online.",
+    "type": "Observatory"
+  },
+  {
+    "lat": -75.67219739,
+    "lng": -15.29296875,
+    "name": "South Pole Telescope",
+    "country": "Antarctica",
+    "img": "/assets/images/South Pole.jpg",
+    "description": "https://pole.uchicago.edu/",
+    "type": "Observatory"
+  },
+  {
+    "lat": 42.54625137,
+    "lng": -88.46242905,
+    "name": "Yerkes",
+    "country": "United States",
+    "img": "/assets/images/Yerkes.jpg",
+    "description": "https://www.space.com/26858-yerkes-observatory.html",
+    "type": "Observatory"
+  },
+  {
+    "lat": 31.9639671,
+    "lng": -111.5998359,
+    "name": "Kitt Peak National Observatory",
+    "country": "United States",
+    "img": "/assets/images/Kitt Peak.jpg",
+    "description": "https://www.noao.edu/kpno/",
+    "type": "Observatory"
+  },
+  {
+    "lat": 18.4702985,
+    "lng": -66.7190726,
+    "name": "Arecibo",
+    "country": "Puerto Rico",
+    "img": "/assets/images/Arecibo.jpg",
+    "description": "https://www.naic.edu/ao/",
+    "type": "Observatory"
+  },
+  {
+    "lat": -22.98873816,
+    "lng": -67.47253418,
+    "name": "University Of Tokyo Atacama Observatory",
+    "country": "Chile",
+    "img": "/assets/images/tokyo.jpeg",
+    "description": "http://www.ioa.s.u-tokyo.ac.jp/TAO/en/index.html",
+    "type": "Observatory"
+  },
+  {
+    "lat": -24.0809841,
+    "lng": -69.9181216,
+    "name": "Ckoirama",
+    "country": "Chile",
+    "img": "/assets/images/Ckoirama.jpg",
+    "description": "http://www.astro.uantof.cl/research/observatorios/observatorio-ckoirama/",
+    "type": "Observatory"
   }
 ]
