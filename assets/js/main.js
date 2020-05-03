@@ -113,7 +113,7 @@ const addMarker = (map, marker) => {
 
     //Armo la infowindow
     const contentString = `
-    <div>
+    <div class='thisWindowHook'>
     <img src="${img}">
     <h2>${name}</h2>
     <h3>${type}</h3>
@@ -145,19 +145,43 @@ const addMarker = (map, marker) => {
         }
     );
     markerItem.setMap(map);
-    //Agrego evento de click en el marker, abre infowindow y cierra los demás
+    const styleWindow = () =>{ 
+    //Styling map with jQuery
 
+        //$('.thisWindowHook').parent().parent().parent().css('background-color', 'blue');
+        const infoWindowEdit = $('.thisWindowHook').parent().parent().parent();
+        infoWindowEdit.css('background-color', 'blue');
+        
+        }
+        
+    //Agrego evento de click en el marker, abre infowindow y cierra los demás
+        
     markerItem.addListener('click', function () {
         infoWindows.forEach(infowindow => {
             infowindow.close();
         })
         infowindow.open(map, markerItem);
-    });
-    
+            styleWindow();
+        });
+            
     //Agrego mi nuevo marker (objeto marker, no json marker, a mi array para filtros)
     markersAll.push(markerItem);
-
 }
-
-
+        
+        
+//jQuery for dropdown
+        
+//search-box
+    /*
+    $('#myDropdown').ddslick({
+        data:ddData,
+        width:300,
+        selectText: "Select your preferred social network",
+        imagePosition:"right",
+        onSelected: function(selectedData){
+            //callback function: do something with selectedData;
+        }   
+    });
+    */
+        
 //That's all folks!
