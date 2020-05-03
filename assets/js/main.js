@@ -110,7 +110,7 @@ const fetchMarkers = async (map) => {
 const addMarker = (map, marker) => { 
     //Destructuring de la info del marker
     const { lat, lng, name, country, img, description, type } = marker;
-    
+
     //Armo la infowindow
     const contentString = `
     <div>

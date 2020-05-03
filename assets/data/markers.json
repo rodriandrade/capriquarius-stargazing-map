@@ -126,8 +126,8 @@
     "type": "Nature Reserve"
   },
   {
-    "lat": 51.053710,
-    "lng": 4.359770,
+    "lat": 52.659158,
+    "lng": 12.3542068,
     "name": "Westhavelland",
     "country": "Germany",
     "img": "/assets/images/Westhavelland.jpg",
@@ -291,7 +291,7 @@
     "lat": 64.145981,
     "lng": -21.9422367,
     "name": "Reykjavik",
-    "country": "Island",
+    "country": "Iceland",
     "img": "/assets/images/Reykjavik.jpg",
     "description": "September to April is the best time to chase the aurora borealis in Iceland. For optimum viewing away from the light pollution, head to Öskjuhlið. This densely wooded area in Reykjavik has walkways and paths where you can see the nighttime show. Atop of this forest sits Perlan, which is the only planetarium in the country and a museum featuring exhibits about Iceland. Don't miss the panoramic views of the city from the observation deck on the fourth floor of Perlan. From it, visitors can see the Snæfellsjökull glacier, Keilir Volcano and the mountain of Reykjavik, Esja. While here, splurge on an overnight tour with Buubble.com. This experience includes several sightseeing spots and a night spent under the magical northern skies in a bubble at the 5 Million Star Hotel.",
     "type": "Northern Lights"
@@ -483,6 +483,195 @@
     "country": "United States",
     "img": "/assets/images/dinosaur.jpg",
     "description": "Dinosaur National Monument is located on the southeast edge of the Uinta Mountains on Colorado Plateau the border between Colorado and Utah at the confluence of the Green and Yampa Rivers. The park contains over 800 paleontological sites and is home to some of the most abundant and well-preserved dinosaur fossils in the world, providing a treasure trove for visitors and scientists alike since the fossil beds were found in 1909. The region was declared a national monument on October 4, 1915. Owing to the Monument’s remote location, high elevation, and low humidity, enjoying Dinosaur National Monument’s starry night skies today is like stepping back in time.",
+    "type": "National Park"
+  },
+  {
+    "lat": 42.3046915,
+    "lng": 2.7193001,
+    "name": "Albanyà",
+    "country": "Spain",
+    "img": "/assets/images/Albanya.jpg",
+    "description": "Albanyà is a municipality in the comarca of Alt Empordà, in Girona, Catalonia, consisting of the eponymous village of Albanyà and surrounding lands containing the headwaters of the La Muga river in extreme northeastern Spain. The rural setting of Albanyà and geographic isolation near the French border have helped preserve its relatively dark night skies. In recent years, locals have begun promoting astrotourism as an antidote to the otherwise economically depressed conditions in the region. Tourists now come from around Catalonia and beyond to partake of stargazing and formal nighttime interpretive programs offered principally at Bassegoda Park. Other popular spots within the municipality for self-directed stargazing include El Casalot, El Coll de la Creu, El Pla de la Bateria and El Pla de la Teularia.",
+    "type": "National Park"
+  },
+  {
+    "lat": 38.7315573,
+    "lng": -109.56302782,
+    "name": "Arches",
+    "country": "United States",
+    "img": "/assets/images/Arches.jpg",
+    "description": "Arches National Park lies north of Moab in the state of Utah. One of Utah’s “Mighty 5” National Parks, Arches is bordered by the Colorado River in the southeast and is widely known as the site of more than 2,000 natural sandstone arches, such as the massive, red-hued Delicate Arch in the east. Long, thin Landscape Arch stands in Devils Garden to the north. Other geological formations include Balanced Rock, towering over the desert landscape in the middle of the park.",
+    "type": "National Park"
+  },
+  {
+    "lat": 54.0249605,
+    "lng": -9.82621,
+    "name": "Ballycroy National Park and Wild Nephin Wilderness",
+    "country": "Ireland",
+    "img": "/assets/images/Ballycroy.png",
+    "description": "The low population density of Mayo and a territory largely unsuitable for agriculture have left the area devoid of major cities, rendering its night skies very dark. The defensibility of the Park’s dark skies is enhanced by its situation near the Atlantic coast. The prospects for maintaining dark nighttime conditions into the future are therefore very good. The applicants have seized on the value of this local resource as a means of promoting regional tourism, and have undertaken efforts to educate residents of nearby villages on the dark sky issue and ways they can help protect the Park. They have produced very encouraging results that raised the profile of dark skies in northwest Ireland.",
+    "type": "National Park"
+  },
+  {
+    "lat": 48.0359447,
+    "lng": 20.53153093,
+    "name": "Bükk National Park",
+    "country": "Hungary",
+    "img": "/assets/images/Bukk.png",
+    "description": "Bükk is a Hungarian National Park consisting of 43,170 hectares of land in the Bükk Mountains of Northern Hungary, near the city of Miskolc. Mountainous and heavily forested, it is Hungary’s largest national park, situated among the country’s tallest peaks. The Park’s karstic landscape makes it a mecca for spelunkers, and it is home to some ninety species of nesting birds, many endangered. Visitors find a variety of outdoor and cultural activities throughout the Park. Increasingly, these offerings include experiences that bring visitors close to a dark night sky. The number of stargazing and nocturnal environment events in the Park has steadily increased since the inception of nighttime programming in 2012. People are coming from across Europe to experience the night skies in Bükk, and the Park is meeting this demand with more offerings to casual stargazers and serious amateur astronomers alike.",
+    "type": "National Park"
+  },
+  {
+    "lat": 29.33341,
+    "lng": -103.19400042,
+    "name": "Big Bend National Park",
+    "country": "United States",
+    "img": "/assets/images/Big Bend.jpg",
+    "description": "This U.S. national park renowned for its hiking and backpacking trails nestles in the “Big Bend” of the Rio Grande river, which marks the boundary between Mexico and the state of Texas. It’s the largest protected area of Chihuahuan Desert topography and ecology in the United States and also one of the largest, most remote, and least-visited national parks in the lower 48 United States. Its great distance from major urban centers renders the skies over Big Bend among the darkest in North America.",
+    "type": "National Park"
+  },
+  {
+    "lat": 38.5798065,
+    "lng": -107.74369705,
+    "name": "Black Canyon of the Gunnison National Park",
+    "country": "United States",
+    "img": "/assets/images/Gunnison.jpg",
+    "description": "The Park is composed largely of federal lands and private property used for agricultural production, helping preserve its dark skies against long-term urban encroachment. There is little artificial light at night on the property, and the fixtures that exist are 100% compliant with the Park’s lighting plan. Regular interpretive programming stresses the value of dark skies and their appreciation at the Canyon, and the Park has worked with a local amateur astronomy society since 1998 to put on nighttime events engaging thousands of visitors every year.”",
+    "type": "National Park"
+  },
+  {
+    "lat": 53.1845326,
+    "lng": -0.5943455,
+    "name": "Bodmin Moor Dark Sky Landscape",
+    "country": "England",
+    "img": "/assets/images/Bodmin.jpg",
+    "description": "Bodmin Moor describes itself as a “working agricultural landscape” where traditional land uses persist. As part of an AONB, it enjoys protections against many of the forms of large-scale development that would tend to bring new lighting to the area. Although most of the its land is privately owned, since 2000 much of Bodmin Moor has been designated open access. The landlocked Moor abounds with daytime recreation activities, including hiking, bicycling, fishing, and rock climbing. In the last decade, the local offerings have extended to the nighttime hours, as the Moor increasingly draws tourists from across the UK and Europe who come to see its dark night skies. The Cornwall Council, its governing authority, has demonstrated its commitment to protecting the night skies over Bodmin Moor, and locals have undertaken a program of education and outreach to show area residents the economic and cultural value of dark skies in this part of England.",
+    "type": "National Park"
+  },
+  {
+    "lat": 53.4039875,
+    "lng": 5.3785864,
+    "name": "De Boschplaat",
+    "country": "Netherlands",
+    "img": "/assets/images/De Boschplaat.jpg",
+    "description": "De Boschplaat, a 40 square kilometer area the eastern side of the island of Terschelling, is a “Natura 2000” Nature Reserve recognized by the European Council. It is locally managed by the conservation agency Staatsbosbeheer. Except when areas in the preserve are closed for conservation purposes, the public has unrestricted access to the entire property at all times, and eight locations within the park have been specially designated for nighttime visitors to view the stars.",
+    "type": "National Park"
+  },
+  {
+    "lat": 24.1444369,
+    "lng": 121.2835986,
+    "name": "Hehuan Mountain",
+    "country": "Taiwan",
+    "img": "/assets/images/Hehuan.jpg",
+    "description": "Hehuan Mountain (also called Joint-Joy Mountain) is situated at the west of Taroko National Park , the peak is 3,416-meter-high (11,207 ft) mountain in Central Taiwan, the 3,421-meter east peak and 3,422-meter north peak of Hehuanshan are both higher than the main peak. The peak lies on the borders of Nantou and Hualien counties and Hehuan Mountain is a popular destination in Taiwan. It is the only resort area above 3,000 meters the highway can access directly on the island. The location is far away from the glow of over-lit urban areas and the altitude is suitable for stargazing all year. ",
+    "type": "National Park"
+  },
+  {
+    "lat": 47.5826139,
+    "lng": 21.1525371,
+    "name": "Hortobagy",
+    "country": "Hungary",
+    "img": "/assets/images/Hortobagy.jpg",
+    "description": "Hortobágy, Hungary’s first national park, encompasses the largest continuous native grassland in Europe. It is recognized as a UNESCO World Heritage site and Biosphere Reserve, and a Ramsar Convention site. Largely untouched since the last ice age, Hortobágy’s ancient marshland and alkaline flats provide a haven for wildlife, especially birds. The lighting management plan focuses on avian protection. Lighting retrofits within the 10,000 hectares designated as Hortobágy Starry Sky Park minimize impact to avian wildlife. However, astronomical interests are not neglected. The park offers nighttime walks and interpretive programs that include light pollution education, and the park plans to open an observatory.",
+    "type": "National Park"
+  },
+  {
+    "lat": 24.3668346,
+    "lng": 123.746487,
+    "name": "Iriomote-Ishigaki National Park",
+    "country": "Japan",
+    "img": "/assets/images/Iriomote-Ishigaki.png",
+    "description": "It is the southernmost national park in Japan, in its southernmost prefecture, and preserves the only tropical rainforest in the country. In addition to large mangrove communities at the mouths of broad rivers, the islands are ringed by living coral reefs. The Park provides refuge for a number of threatened plant and animal species, and Iriomote Island is home to the critically endangered Iriomote cat (Prionailurus bengalensis iriomotensis), discovered only fifty years ago. The Park also represents an unusual set of circumstances for the preservation and promotion of dark skies. The Yaeyama Islands support a permanent population of about 54,000 people settled in and among the Park’s territory. They are governed by two municipalities, Ishigaki City and Taketomi Town, who along with the Japanese Ministry of the Environment are responsible for the administration of the Park. The population is heavily concentrated into Ishigaki City on Ishigaki Island, which serves as Yaeyama’s sea port, airport, and main commercial hub. Despite a city of this size within the boundaries of the Park, much of the land area of the islands routinely achieves Silver- and Gold-tier night sky quality.",
+    "type": "National Park"
+  },
+  {
+    "lat": 24.3668346,
+    "lng": 123.746487,
+    "name": "Lauwersmeer National Park",
+    "country": "Netherlands",
+    "img": "/assets/images/Lauwersmeer.jpg",
+    "description": "The reclamation history of the Park, and immediately conservation after its creation, precluded development on its marshy soil. Because the site was intended to be preserved largely in this primitive state, it was spared from the widespread deployment of artificial light. Lauwersmeer is therefore a small oasis of relative darkness at the edge of one of the world’s most light-polluted countries. Efforts to protect these conditions began as a means of providing better environmental conditions for birds and have since expanded to make the Park an attractive and convenient des- tination for residents of coastal Western Europe seeking readily accessible, Silver-tier dark skies.",
+    "type": "National Park"
+  },
+  {
+    "lat": 54.9670046,
+    "lng": 12.5484526,
+    "name": "Mon and Nyord National Park",
+    "country": "Denmark",
+    "img": "/assets/images/MonAndNyord.png",
+    "description": "Møn and Nyord are two islands in the Zealand Region of southeastern Denmark comprising 223 km2 (86 square miles) of land area. The much-larger island of Møn makes up the bulk of this area and is one of the most popular tourist destinations in Denmark. Famous for its white chalk cliffs, Møn offers visitors a slower pace of life compared to the bigger cities of Europe, complete with open countryside, sandy Baltic Sea beaches, and shopping in the market town of Stege. In 2014, residents of Møn began an effort to promote the Islands’ dark skies as a means of economic development and tourism potential, culminating in a joint effort for IDA recognition as both an International Dark Sky Community and an International Dark Sky Park. The reasoning for this approach is that it results in better protection of current nighttime conditions in both the developed and wilderness areas of both islands.",
+    "type": "National Park"
+  },
+  {
+    "lat": 55.2857632,
+    "lng": -2.11715961,
+    "name": "Northumberland National Park and Kielder Water & Forest Park",
+    "country": "England",
+    "img": "/assets/images/Northumberland.jg",
+    "description": "Once at the frontier of Roman Britain where Hadrianʼs Wall repelled Pictish invaders, Northumberland International Dark Sky Park now serves as a bulwark against the incursion of harmful light pollution into one of the darkest locations in England. A UK National Park and adjacent forestry plantation encompassing nearly 1,500 square km of public lands in northern England, Northumberland National Park and Kielder Water & Forest Park comprise the first IDA-recognized International Dark Sky Park consisting of two independent parkland units. National Parks UK and Forestry Commission England have added dark skies to their inventory of protected natural resources, including the largest manmade woodland and reservoir in northern Europe.",
+    "type": "National Park"
+  },
+  {
+    "lat": 46.1615519,
+    "lng": 16.0273181,
+    "name": "Petrova gora-Biljeg",
+    "country": "Croatia",
+    "img": "/assets/images/PetrovaGora.jpg",
+    "description": "Petrova gora is one of the most beautiful and best-preserved mountain forest landscapes in the Republic of Croatia. Due to the exceptional landscape value the area “Petrova gora Biljeg” in the central part of Petrova gora became a protected area in 1969 in the category known as “significant landscape”. The area of “Petrova Gora-Biljeg” is protected to conserve forest habitat (its integrity and the natural composition of forest communities), stream valleys, landscape, cultural and historical values for the purpose of sustainable development, and for the needs of tourism and recreation.",
+    "type": "National Park"
+  },
+  {
+    "lat": 30.5970188,
+    "lng": 34.7624812,
+    "name": "Ramon Crater",
+    "country": "Israel",
+    "img": "/assets/images/Ramon Crater.jpg",
+    "description": "The harsh climate and forbidding landscape of the Negev has largely repelled historical attempts to settle the land after it became part of an independent Israel in 1948. As a result, its night skies are considerably darker on average than in the northern, more heavily-populated areas of the country. Coupled with typically good weather and a dry climate, the Negev increasingly draws stargazers from across the Middle East and Europe. The situation of Ramon Crater within this environment offers a substantial degree of long-term protection for its night skies. The management of the site has added offerings of nighttime interpretive programs and stargazing opportunities, and has lately reached out to neighboring communities and organizations to partner with them in activities intended to help preserve the Crater’s dark skies and promote astrotourism for regional economic development.",
+    "type": "National Park"
+  },
+  {
+    "lat": 57.3118244,
+    "lng": -3.41427114,
+    "name": "Tomintoul and Glenlivet – Cairngorms",
+    "country": "Scotland",
+    "img": "/assets/images/Tomintoul and Glenlivet.jpg",
+    "description": "The National Park, the United Kingdom’s largest, is an IUCN Category V and Ramsar Convention site that protects the dramatic landscape of the Cairngorm Mountains and their associated upland plateaus. In addition to supporting Britain’s only herd of reindeer, the National Park is home to a number of species that are rare elsewhere in the British Isles. It also preserves some of the few remaining stands of trees in what was once the Caledonian Forest, Scotland’s ancient temperate rainforest. Glenlivet Estate is a mix of agricultural land, upland hill and commercial and amenity woodland alongside diversified businesses and residential properties best known for its eponymous Scotch whisky production facility.",
+    "type": "Northern Lights"
+  },
+  {
+    "lat": 45.6004418,
+    "lng": 17.3890567,
+    "name": "Vrani kamen",
+    "country": "Croatia",
+    "img": "/assets/images/Vrani kamen.jpg",
+    "description": "The etymology of the Vrani Kamenname indicates its origin in the Proto–Slavic word vorn, over the Russian and Lithuanian terms of vorin and varnas, we have the expression vran, which means the raven. Translated into English, Vrani kamen means Raven’s stone. Vrani kamen park is located in the territory of the Republic of Croatia. For the most part, it is under management of Croatian Forests, while the area of Petrov vrh is managed by the town of Daruvar. The Park is situated in the vicinity of the town of Daruvar and it stretches across 8 000 hectares of the Papuk mountain in Western Slavonia.Vrani kamen is 130 km away from the capital city of Zagreb, 140 km from Osijek, 300 km from the Adriatic coast, 65 km from Hunga-ry, and 60 km from Bosnia and Herzegovina.",
+    "type": "National Park"
+  },
+  {
+    "lat": 48.6874733,
+    "lng": -113.8051178,
+    "name": "Waterton-Glacier International Peace Park",
+    "country": "United States",
+    "img": "/assets/images/Waterton-Glacier.png",
+    "description": "Waterton Lakes National Park in Alberta, Canada, and Glacier National Park in Montana, U.S., are collectively the first IDA International Dark Sky Parks spanning both sides of an international border. At a total of 4,606 km2 (1,138,167 acres), the parks share the distinction of being the world’s first International Peace Park (1932), two UNESCO Biosphere Reserves, and a single UNESCO World Heritage Site. According to UNESCO, the parks offer “outstanding scenery,” and are “exceptionally rich in plant and mammal species as well as prairie, forest, and alpine and glacial features.” The parks occupy a unique position in the Western Cordillera of North America, resulting in the evolution of species and ecologies that exist nowhere else in the world.",
+    "type": "National Park"
+  },
+  {
+    "lat": 47.6576536,
+    "lng": 12.5822797,
+    "name": "Winklmoosalm",
+    "country": "Germany",
+    "img": "/assets/images/Winklmoosalm.jpg",
+    "description": "Its location and geographic setting also make the Winklmoosalm a remarkably dark place at night, despite the relatively short distance to Salzburg, Austria (40 km; population 150,000). Unobstructed, 360-degree views reveal a night sky largely unspoiled by light pollution where a full array of faint phenomena can be seen. Interest in stargazing at the site began over a decade ago, and has grown into an industry served by a small tourism infrastructure. Visitors can participate in weekly nighttime astronomy events led by trained local staff, and have free rein around the Alm at night. It is a largely defensible location, both due to the mountainous topography and effective outdoor lighting policies in both the municipality and the Park itself.",
+    "type": "National Park"
+  },
+  {
+    "lat": 46.2030795,
+    "lng": 17.88148478,
+    "name": "Zselic National Landscape Protection Area",
+    "country": "Hungary",
+    "img": "/assets/images/Zselic.jpg",
+    "description": "The Zselic Starry Sky Park at the Zselic National Landscape Protection Area began as a project between the Duna-Dráva National Park Directorate and the Hungarian Astronomical Association. Established in 1976 to protect the natural assets of the North Zselic region, the park encompasses 9,042 hectares. After the initial proposal signing, the project expanded its outreach by working with the surrounding 17 municipalities and the Lighting Society of Hungary to minimize the communities’ impacts on the park. Finally, the outdoor lighting renovation of the Hotel Kardosfa and the surrounding park recreational buildings to include dark sky friendly lighting assisted in minimizing the light pollution impacts from within the park. Zselic is one of the best places with close to unaltered dark night skies in Hungary. The Triangulum Galaxy can be seen with the naked eye on clear nights, and the zodiacal light is often visible in spring and autumn.",
     "type": "National Park"
   }
 ]
