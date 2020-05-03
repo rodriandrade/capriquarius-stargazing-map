@@ -114,10 +114,14 @@ const addMarker = (map, marker) => {
     //Armo la infowindow
     const contentString = `
     <div class='thisWindowHook'>
-    <img src="${img}">
-    <h2>${name}</h2>
-    <h3>${type}</h3>
-    <p>${description}</p>
+        <div class='imgCont'>
+            <img src="${img}">
+        </div>
+        <div class='infoPlace'>
+            <h2>${name}</h2>
+            <h3>${type}</h3>
+            <p>${description}</p>
+        </div>
     </div>`;
     const infowindow = new google.maps.InfoWindow({
         content: contentString
@@ -150,8 +154,18 @@ const addMarker = (map, marker) => {
 
         //$('.thisWindowHook').parent().parent().parent().css('background-color', 'blue');
         const infoWindowEdit = $('.thisWindowHook').parent().parent().parent();
-        infoWindowEdit.css('background-color', 'blue');
-        
+            infoWindowEdit.css({
+                'background-color': '#00002ad1',
+                'color' : '#ffffff',
+                'padding': '0',
+                'margin' : '0',
+                'width' : '370px'
+            });
+            infoWindowEdit.children().css({
+                'width' : '100%',
+                'overflow' : 'hidden',
+                'padding-bottom' : '10px'
+            })
         }
         
     //Agrego evento de click en el marker, abre infowindow y cierra los demás

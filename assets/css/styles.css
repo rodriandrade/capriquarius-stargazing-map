@@ -33,3 +33,34 @@ body{
     justify-content: space-around;
     align-items: center;
 }
+
+.imgCont{
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.imgCont img{
+    width: 100%;
+}
+
+.infoPlace{
+    width: 100%;
+}
+
+.infoPlace h2, h3, p{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ac0808 !important;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(14, 161, 21); 
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgb(214, 65, 5); 
+  }
