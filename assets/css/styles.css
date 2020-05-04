@@ -3,6 +3,11 @@ body{
     margin:0;
 }
 
+h1, h2, h3, p, a{
+    color: white;
+    font-family: Sen;
+}
+
 .search-box{
     background-color: #000000b5;
     padding: 1em;
@@ -15,9 +20,13 @@ body{
 
 .title{
     font-family: 'Titillium Web', sans-serif;
-    padding: 1em;
-    color: white;
     text-align: center;
+}
+
+.menuTitle{
+    margin: 0em 1em 1em 1em;
+    padding-bottom: .5em;
+    border-bottom: solid white .01em;
 }
 
 #map{
@@ -54,7 +63,6 @@ body{
 }
 
 h2, h3, a{
-    color: white;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -73,12 +81,11 @@ h2, h3, a{
 
 a{
     text-decoration: none;
-    width: 30%;
     padding: .5em;
 }
 
 #menu a p{
-    margin: 1em;
+    margin: 1em 0em 1em 0em;
 }
 
 #menu a{
@@ -86,6 +93,8 @@ a{
     font-size: 13.2px;
     flex-direction: row;
     text-align: center;
+    height: 90px;
+    width: 27%;
 }
 
 select{
