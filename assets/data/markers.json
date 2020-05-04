@@ -871,5 +871,68 @@
     "img": "/assets/images/Ckoirama.jpg",
     "description": "http://www.astro.uantof.cl/research/observatorios/observatorio-ckoirama/",
     "type": "Observatory"
+  },
+  {
+    "lat": -30.17362455,
+    "lng": -70.38116455,
+    "name": "Cielo Sur",
+    "country": "Chile",
+    "img": "/assets/images/Cielo Sur.jpg",
+    "description": "http://www.cielosur.com/",
+    "type": "Observatory"
+  },
+  {
+    "lat": 44.726667,
+    "lng": 34.015861,
+    "name": "Crimean Astrophysical Observatory",
+    "country": "Ukraine",
+    "img": "/assets/images/Crimea.jpg",
+    "description": "http://www.techprofiles.org/index.php/ukrainian-institutes/891-crimean-astrophysical-observatory",
+    "type": "Observatory"
+  },
+  {
+    "lat": -34.605003,
+    "lng": -58.43507636,
+    "name": "Asociación Argentina Amigos de la Astronomia",
+    "country": "Argentina",
+    "img": "/assets/images/AmigosAstronomia.jpg",
+    "description": "https://www.amigosdelaastronomia.org/",
+    "type": "Observatory"
+  },
+  {
+    "lat": 33.35397575,
+    "lng": -116.86137433,
+    "name": "Palomar",
+    "country": "United States",
+    "img": "/assets/images/Palomar.jpg",
+    "description": "https://www.astro.caltech.edu/palomar/homepage.html",
+    "type": "Observatory"
+  },
+  {
+    "lat": 19.7010144,
+    "lng": -155.09011117,
+    "name": "Gemini Observatory",
+    "country": "United States",
+    "img": "/assets/images/Gemini.jpg",
+    "description": "http://www.gemini.edu/",
+    "type": "Observatory"
+  },
+  {
+    "lat": -29.01915575,
+    "lng": -70.69060142,
+    "name": "Las Campanas",
+    "country": "Chile",
+    "img": "/assets/images/Las Campanas.jpg",
+    "description": "http://www.lco.cl/",
+    "type": "Observatory"
+  },
+  {
+    "lat": -26.5963173,
+    "lng": -65.8578121,
+    "name": "Ampimpa",
+    "country": "Argentina",
+    "img": "/assets/images/Ampimpa.png",
+    "description": "http://www.astrotuc.com.ar/",
+    "type": "Observatory"
   }
 ]
