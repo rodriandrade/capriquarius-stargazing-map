@@ -120,7 +120,7 @@ const addMarker = (map, marker) => {
         <div class='infoPlace'>
             <h2>${name}</h2>
             <h3>${type}</h3>
-            <p>${description}</p>
+            <a href="${description}" target="_blank">More information</a>
         </div>
     </div>`;
     const infowindow = new google.maps.InfoWindow({

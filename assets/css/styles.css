@@ -48,9 +48,13 @@ body{
     width: 100%;
 }
 
-.infoPlace h2, h3, p{
+.infoPlace h2, h3, a{
     padding-left: 20px;
     padding-right: 20px;
+}
+
+a{
+    color: white;
 }
 
 ::-webkit-scrollbar-track {
