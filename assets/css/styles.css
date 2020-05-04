@@ -52,15 +52,3 @@ body{
     padding-left: 20px;
     padding-right: 20px;
 }
-
-::-webkit-scrollbar-track {
-    background: #ac0808 !important;
-  }
-
-  ::-webkit-scrollbar-thumb:hover {
-    background: rgb(14, 161, 21); 
-  }
-
-  ::-webkit-scrollbar-thumb {
-    background: rgb(214, 65, 5); 
-  }
