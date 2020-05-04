@@ -4,18 +4,20 @@ body{
 }
 
 .search-box{
-    background-color: #0000006b;
+    background-color: #000000b5;
     padding: 1em;
-    width: fit-content;
+    width: 22%;
     position: absolute;
     z-index: 2;
-    overflow: hidden;
+    /*overflow: hidden;*/
+    height: 100vh;
 }
 
 .title{
     font-family: 'Titillium Web', sans-serif;
     padding: 1em;
     color: white;
+    text-align: center;
 }
 
 #map{
@@ -25,13 +27,15 @@ body{
 }
 
 #menu{
-    padding-top: .5em;
-    padding-bottom: .5em;
-    background-color: #0000006b;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #000000d9;
     width: 100%;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    border-radius: 10px;
 }
 
 .imgCont{
@@ -49,8 +53,84 @@ body{
     padding-bottom: 15px;
 }
 
-.infoPlace h2, h3, a{
+h2, h3, a{
     color: white;
     padding-left: 20px;
     padding-right: 20px;
 }
+
+.infoPlace a{
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+.selectorCont{
+    width: 100%;
+    text-align: center;
+    flex-direction: row;
+    padding-bottom: 1em;
+}
+
+a{
+    text-decoration: none;
+    width: 30%;
+    padding: .5em;
+}
+
+#menu a p{
+    margin: 1em;
+}
+
+#menu a{
+    font-family: sen;
+    font-size: 13.2px;
+    flex-direction: row;
+    text-align: center;
+}
+
+select{
+    padding: .8em;
+    border-radius: .5em;
+    background-color: #91b4f3;
+    color: #ffffff;
+    border: none;
+    width: 90%;
+    font-family: sen;
+    font-size: 15px;
+}
+
+option{
+    padding: 1em; /*Esto no funciona*/
+}
+
+/*Fucking scrollbar que tampoco funciona!!*/
+  .countriesSelector::-webkit-scrollbar {
+    width: .7em;
+  }
+   
+  .countriesSelector::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3) !important;
+  }
+   
+  .countriesSelector::-webkit-scrollbar-thumb {
+    background-color: #0d575a !important;
+  }
+
+  .countriesSelector::-webkit-scrollbar {
+    width: .7em !important;
+  }
+   
+   
+  .countriesSelector::-webkit-scrollbar-thumb {
+    background-color: #03a9f44f !important;
+  }
+
+
+  span{
+    position: relative;
+    color: white;
+    left: 104%;
+    background-color: #91b4f3;
+    padding: 1em;
+    border-radius: 0px 10px 10px 0px;
+  }
