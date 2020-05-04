@@ -934,5 +934,77 @@
     "img": "/assets/images/Ampimpa.png",
     "description": "http://www.astrotuc.com.ar/",
     "type": "Observatory"
+  },
+  {
+    "lat": 34.6975851,
+    "lng": -119.9128895,
+    "name": "Cachuma Lake",
+    "country": "United States",
+    "img": "/assets/images/Cachuma.jpg",
+    "description": "http://www.countyofsb.org/parks/cachuma.sbc",
+    "type": "Recreational Area"
+  },
+  {
+    "lat": -20.1361219,
+    "lng": -67.47974371,
+    "name": "Salar de Uyuni",
+    "country": "Bolivia",
+    "img": "/assets/images/Salar de Uyuni.jpg",
+    "description": "https://www.ngenespanol.com/naturaleza/revista-impresa-junio-2017-salar-de-uyuni-bolivia-deposito-de-litio/",
+    "type": "Recreational Area"
+  },
+  {
+    "lat": 35.09586715,
+    "lng": -115.53965353,
+    "name": "Mojave National Preserve",
+    "country": "United States",
+    "img": "/assets/images/Mojave.jpg",
+    "description": "https://www.nps.gov/moja/index.htm",
+    "type": "Nature Reserve"
+  },
+  {
+    "lat": 37.84054795,
+    "lng": -119.5165878,
+    "name": "Yosemite National Park",
+    "country": "United States",
+    "img": "/assets/images/Yosemite.jpg",
+    "description": "https://www.nps.gov/yose/index.htm",
+    "type": "National Park"
+  },
+  {
+    "lat": 36.49584065,
+    "lng": -118.55991938,
+    "name": "Sequoia National Park",
+    "country": "United States",
+    "img": "/assets/images/Sequioa.jpg",
+    "description": "https://www.visitsequoia.com/",
+    "type": "National Park"
+  },
+  {
+    "lat": 40.49138385,
+    "lng": -121.40433595,
+    "name": "Lassen Volcanic National Park",
+    "country": "United States",
+    "img": "/assets/images/Lassen.jpg",
+    "description": "https://www.nps.gov/lavo/index.htm",
+    "type": "National Park"
+  },
+  {
+    "lat": -30.7546652,
+    "lng": -70.9005536,
+    "name": "Elqui Valley",
+    "country": "Chile",
+    "img": "/assets/images/Elqui.jpg",
+    "description": "https://chile.travel/en/where-to-go/north-and-the-atacama-desert/elqui-valley",
+    "type": "Recreational Area"
+  },
+  {
+    "lat": -1.9987802,
+    "lng": -78.74875273,
+    "name": "Chimborazo",
+    "country": "Ecuador",
+    "img": "/assets/images/Chimborazo.jpg",
+    "description": "https://es.wikipedia.org/wiki/Volc%C3%A1n_Chimborazo",
+    "type": "Recreational Area"
   }
 ]

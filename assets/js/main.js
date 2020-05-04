@@ -30,6 +30,7 @@ window.initMap = () => {
     const handleFilterObservatory = document.querySelector('.observatory');
     const handleFilterLights = document.querySelector('.lights');
     const handleFilterReserve = document.querySelector('.reserve');
+    const handleFilterRecreational = document.querySelector('.recreational');
     const handleResetButton = document.querySelector('.reset');
     // Dropdown
     const countryFilter = document.querySelector('.countriesSelector');
@@ -50,6 +51,10 @@ window.initMap = () => {
     handleFilterReserve.addEventListener('click', (e) => {
         e.preventDefault();
         addMarkerFiltered('Nature Reserve');
+    })
+    handleFilterRecreational.addEventListener('click', (e) => {
+        e.preventDefault();
+        addMarkerFiltered('Recreational Area');
     })
     handleResetButton.addEventListener('click', (e) => {
         e.preventDefault();
@@ -136,6 +141,7 @@ const addMarker = (map, marker) => {
         'Observatory': '/assets/images/space.png',
         'Northern Lights': '/assets/images/lights.png',
         'Nature Reserve': '/assets/images/nature.png',
+        'Recreational Area': '/assets/images/recreational.png',
 
     }
     //Agrego el marker
