@@ -23,7 +23,6 @@ window.initMap = () => {
         map.setOptions({ minZoom: 3, maxZoom: 17 });
     fetchMarkers(map) //Llamammos a la función que trae el json de markers
 
-
     //FILTROS
     //Traigo elementos del DOM
     const handleFilterPark = document.querySelector('.park');
@@ -34,34 +33,45 @@ window.initMap = () => {
     const handleResetButton = document.querySelector('.reset');
     // Dropdown
     const countryFilter = document.querySelector('.countriesSelector');
+    const sideBar= document.querySelector('#control');
+    const menu = document.querySelector('.search-box');
+    const content = document.querySelector('#hide');
+    const defaultSelectorValue = document.querySelector('#default');
 
     //Eventos de click de los filtros
     handleFilterPark.addEventListener('click', (e) => {
         e.preventDefault();
         addMarkerFiltered('National Park');
+        defaultSelectorValue.selected = true;
     })
     handleFilterObservatory.addEventListener('click', (e) => {
         e.preventDefault();
         addMarkerFiltered('Observatory');
+        defaultSelectorValue.selected = true;
     })
     handleFilterLights.addEventListener('click', (e) => {
         e.preventDefault();
         addMarkerFiltered('Northern Lights');
+        defaultSelectorValue.selected = true;
     })
     handleFilterReserve.addEventListener('click', (e) => {
         e.preventDefault();
         addMarkerFiltered('Nature Reserve');
+        defaultSelectorValue.selected = true;
     })
     handleFilterRecreational.addEventListener('click', (e) => {
         e.preventDefault();
         addMarkerFiltered('Recreational Area');
+        defaultSelectorValue.selected = true;
     })
     handleResetButton.addEventListener('click', (e) => {
         e.preventDefault();
         markersAll.forEach(marker=>{
             marker.setMap(map);
         });
+        defaultSelectorValue.selected = true;
     })
+
     // Filtro para los paises
     countryFilter.addEventListener('change', (e) => {
         e.preventDefault();
@@ -82,7 +92,6 @@ window.initMap = () => {
         })
     }
 
-
     //Agrego los markers filtrados según filtro (markerType)
     const addMarkerFiltered = (markerType) => {
         console.log('clicked beer');
@@ -95,6 +104,22 @@ window.initMap = () => {
             marker.setMap(map);
         })
     }
+
+    // Abrir y cerrar panel
+    sideBar.addEventListener('click', () => {
+        if(menu.style.width === "22%"){
+            menu.style.width = "0%";
+            menu.style.padding = "0%";
+            sideBar.style.left = "0%";
+            content.style.display = "none";
+        }else{
+            menu.style.width = "22%";
+            menu.style.padding = "0 1em 0 1em";
+            sideBar.style.left = "24.4%";
+            content.style.display = "block";
+        }
+    });
+
 }
 
 //Función de asincrónica que trae los markers
@@ -155,6 +180,7 @@ const addMarker = (map, marker) => {
         }
     );
     markerItem.setMap(map);
+
     const styleWindow = () =>{ 
     //Styling map with jQuery
 

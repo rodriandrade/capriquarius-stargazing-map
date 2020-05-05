@@ -706,7 +706,7 @@
     "lng": -3.60399489,
     "name": "Exmoor",
     "country": "England",
-    "img": "/assets/images/Exmoor.png",
+    "img": "/assets/images/Exmoor.jpg",
     "description": "https://www.exmoor-nationalpark.gov.uk/",
     "type": "Nature Reserve"
   },
@@ -724,7 +724,7 @@
     "lng": 143.546728,
     "name": "River Murray",
     "country": "Australia",
-    "img": "/assets/images/Murray.png",
+    "img": "/assets/images/Murray.jpg",
     "description": "http://www.murrayriver.com.au/about-the-murray/",
     "type": "Nature Reserve"
   },
@@ -733,7 +733,7 @@
     "lng": -3.9643645,
     "name": "Snowdonia",
     "country": "Wales",
-    "img": "/assets/images/Snowdonia.png",
+    "img": "/assets/images/Snowdonia.jpg",
     "description": "https://www.snowdonia.gov.wales/home",
     "type": "Nature Reserve"
   },

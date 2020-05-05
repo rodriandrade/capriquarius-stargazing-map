@@ -9,13 +9,17 @@ h1, h2, h3, p, a{
 }
 
 .search-box{
-    background-color: #000000b5;
-    padding: 1em;
-    width: 22%;
+    background-color: #e2d8d8b5;
+    width: 0%;
     position: absolute;
     z-index: 2;
     /*overflow: hidden;*/
     height: 100vh;
+    transition: 0.5s;
+}
+
+#hide{
+    display:none;
 }
 
 .title{
@@ -136,10 +140,14 @@ option{
 
 
   span{
-    position: relative;
+    position: absolute;
+    z-index: 1;
     color: white;
-    left: 104%;
+    left:0;
+    top:46%;
     background-color: #91b4f3;
     padding: 1em;
     border-radius: 0px 10px 10px 0px;
+    transition: 0.5s;
   }
+  
