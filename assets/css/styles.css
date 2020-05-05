@@ -9,7 +9,7 @@ h1, h2, h3, p, a{
 }
 
 .search-box{
-    background-color: #e2d8d8b5;
+    background-color: #000000b5;
     width: 0%;
     position: absolute;
     z-index: 2;
