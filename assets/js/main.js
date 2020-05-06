@@ -176,22 +176,10 @@ const addMarker = (map, marker) => {
             map: map,
             customInfo: type,
             country: country,
-            draggable: true, //Added for animation
             animation: google.maps.Animation.DROP
         }
     );
     markerItem.setMap(map);
-    markerItem.addListener('click', toggleBounce); //Added for animation
-
-    //Function for Markers
-    function toggleBounce() {
-        if (markerItem.getAnimation() !== null) {
-            markerItem.setAnimation(null);
-        } else {
-            markerItem.setAnimation(google.maps.Animation.BOUNCE);
-        }
-      }
-
 
     //Styling map with jQuery
     const styleWindow = () =>{ 
