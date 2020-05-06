@@ -33,10 +33,11 @@ window.initMap = () => {
     const handleResetButton = document.querySelector('.reset');
     // Dropdown
     const countryFilter = document.querySelector('.countriesSelector');
-    const sideBar= document.querySelector('#control');
-    const menu = document.querySelector('.search-box');
-    const content = document.querySelector('#hide');
+    const sideNav = document.querySelector('.search-box');
+    const openSideNav= document.querySelector('#control');
     const defaultSelectorValue = document.querySelector('#default');
+
+    let panelState = false;
 
     //Eventos de click de los filtros
     handleFilterPark.addEventListener('click', (e) => {
@@ -106,17 +107,15 @@ window.initMap = () => {
     }
 
     // Abrir y cerrar panel
-    sideBar.addEventListener('click', () => {
-        if(menu.style.width === "22%"){
-            menu.style.width = "0%";
-            menu.style.padding = "0%";
-            sideBar.style.left = "0%";
-            content.style.display = "none";
+    openSideNav.addEventListener('click', () => {
+        if(panelState == false){
+            openSideNav.classList.add('moveSideNav');
+            sideNav.classList.add('openSideNav');
+            panelState = true;
         }else{
-            menu.style.width = "22%";
-            menu.style.padding = "0 1em 0 1em";
-            sideBar.style.left = "24.4%";
-            content.style.display = "block";
+            openSideNav.classList.remove('moveSideNav');
+            sideNav.classList.remove('openSideNav');
+            panelState = false;
         }
     });
 

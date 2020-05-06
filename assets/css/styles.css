@@ -10,12 +10,14 @@ h1, h2, h3, p, a{
 
 .search-box{
     background-color: #000000b5;
-    width: 0%;
+    width: 22%;
     position: absolute;
     z-index: 2;
     /*overflow: hidden;*/
     height: 100vh;
-    transition: 0.5s;
+    transition: 0.8s;
+    transition-timing-function: ease;
+    transform: translate(-100%, 0);
 }
 
 #hide{
@@ -148,6 +150,16 @@ option{
     background-color: #91b4f3;
     padding: 1em;
     border-radius: 0px 10px 10px 0px;
-    transition: 0.5s;
+    transition: 0.8s;
+    transition-timing-function: ease;
   }
-  
+
+.openSideNav{
+    transform: translate(0, 0);
+    padding: 0em 1em 0 1em;
+}
+
+.moveSideNav{
+    left:24.4%;
+}
+
