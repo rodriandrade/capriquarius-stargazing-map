@@ -175,14 +175,26 @@ const addMarker = (map, marker) => {
             icon: icons[type],
             map: map,
             customInfo: type,
-            country: country
+            country: country,
+            draggable: true, //Added for animation
+            animation: google.maps.Animation.DROP
         }
     );
     markerItem.setMap(map);
+    markerItem.addListener('click', toggleBounce); //Added for animation
 
-    const styleWindow = () =>{ 
+    //Function for Markers
+    function toggleBounce() {
+        if (markerItem.getAnimation() !== null) {
+            markerItem.setAnimation(null);
+        } else {
+            markerItem.setAnimation(google.maps.Animation.BOUNCE);
+        }
+      }
+
+
     //Styling map with jQuery
-
+    const styleWindow = () =>{ 
         //$('.thisWindowHook').parent().parent().parent().css('background-color', 'blue');
         const infoWindowEdit = $('.thisWindowHook').parent().parent().parent();
             infoWindowEdit.css({
