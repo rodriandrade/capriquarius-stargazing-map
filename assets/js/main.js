@@ -37,7 +37,7 @@ window.initMap = () => {
     const openSideNav= document.querySelector('#control');
     const defaultSelectorValue = document.querySelector('#default');
 
-    let panelState = false;
+    let panelState = true;
 
     //Eventos de click de los filtros
     handleFilterPark.addEventListener('click', (e) => {
@@ -108,14 +108,14 @@ window.initMap = () => {
 
     // Abrir y cerrar panel
     openSideNav.addEventListener('click', () => {
-        if(panelState == false){
+        if(panelState == true){
             openSideNav.classList.add('moveSideNav');
             sideNav.classList.add('openSideNav');
-            panelState = true;
+            panelState = false;
         }else{
             openSideNav.classList.remove('moveSideNav');
             sideNav.classList.remove('openSideNav');
-            panelState = false;
+            panelState = true;
         }
     });
 

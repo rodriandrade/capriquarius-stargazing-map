@@ -15,9 +15,10 @@ h1, h2, h3, p, a{
     z-index: 2;
     /*overflow: hidden;*/
     height: 100vh;
+    padding: 0em 1% 0 1%;
     transition: 0.8s;
     transition-timing-function: ease;
-    transform: translate(-100%, 0);
+    transform: translate(0%, 0);
 }
 
 #hide{
@@ -145,7 +146,7 @@ option{
     position: absolute;
     z-index: 1;
     color: white;
-    left:0;
+    left:24%;
     top:2%;
     background-color: #91b4f3;
     padding: 1em;
@@ -155,11 +156,10 @@ option{
   }
 
 .openSideNav{
-    transform: translate(0, 0);
-    padding: 0em 1% 0 1%;
+    transform: translate(-100%, 0);
 }
 
 .moveSideNav{
-    left: 24%;
+    left:0%;
 }
 
