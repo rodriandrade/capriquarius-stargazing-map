@@ -207,7 +207,9 @@ const addMarker = (map, marker) => {
         info.classList.remove('hide');
 
         info.innerHTML = `
-        <span id="back">back</span>
+        <div id="back" class="button backBtn">
+            <img id="backBtn" class="arrow" src="assets/images/left-arrow-01.svg">
+        </div>
         
         <div class='imgCont'>
             <img src="${img}">
