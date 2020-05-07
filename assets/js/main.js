@@ -183,7 +183,6 @@ const addMarker = (map, marker) => {
 
     //Styling map with jQuery
     const styleWindow = () =>{ 
-        //$('.thisWindowHook').parent().parent().parent().css('background-color', 'blue');
         const infoWindowEdit = $('.thisWindowHook').parent().parent().parent();
             infoWindowEdit.css({
                 'background-color': '#00002ad1',
