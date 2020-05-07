@@ -6,6 +6,7 @@
     "country": "United States",
     "img": "/assets/images/deathvalley.jpg",
     "link": "https://www.nps.gov/deva/index.htm",
+    "description": "Death Valley National Park is distant enough from the large cities of the southwest so that much of the night sky above the desert floor is near pristine and, in many places, offers views close to what could be seen before the rise of cities. While Death Valley is comprised of rugged wilderness areas and is famous for its extreme climate, the night skies above the park are as fragile as the land below. The Park is largely free of its own sources of light pollution but the lights of distant Las Vegas and other cities have an impact on the park’s skies and desert nightlife.",
     "type": "National Park"
   },
   {
@@ -15,6 +16,7 @@
     "country": "Australia",
     "img": "/assets/images/warrumbungle.jpg",
     "link": "https://www.nationalparks.nsw.gov.au/conservation-and-heritage/our-parks/dark-sky-parks",
+    "description": "Warrumbungle National Park is a 23,312-hectare park in the Orana region of New South Wales, Australia. In addition to its spectacular daytime vistas of the Warrumbungle Mountain Range, the Park has long been known for the quality of its dark night skies. In the 1950s, seeking relief from the light pollution of Canberra that negatively impacted its Mount Stromlo Observatory, the Australian government relocated major operations to a new observatory at Siding Spring. Now operated by the Research School of Astronomy & Astrophysics at the Australian National University, Siding Spring Observatory is home to the 4-meter Anglo-Australian Telescope, the largest in Australia. Lessons learned at Mount Stromlo encouraged early conservation of dark skies in the area, including at Warrumbungle, to protect the national investment in Australia’s professional astronomy infrastructure.",
     "type": "National Park"
   },
   {
@@ -24,6 +26,7 @@
     "country": "South Korea",
     "img": "/assets/images/Parque Ecológico de Luciérnagas de Yeongyang .jpg",
     "link": "http://www.yyg.go.kr/toureng/tourist_attraction/darksky_parks/international_parks",
+    "description": "The Park, established within the Wangpi River Basin Ecological Landscape Protected Zone, has been under legal protections since 2005. The site is significant for the conservation of fireflies, which are known to benefit from conditions of natural darkness. To this end, the Park has developed a management plan for its natural darkness in support of the local firefly population; visitors come to the site expecting low ambient light levels. In recent years, South Korean amateur astronomers have taken note of the site and flock there with increasing frequency to experience dark skies without having to travel especially far from home.",
     "type": "National Park"
   },
   {
@@ -33,6 +36,7 @@
     "country": "United States",
     "img": "/assets/images/sanddunes.jpg",
     "link": "https://www.nps.gov/grsa/index.htm",
+    "description": "The 603.1 sq. km. (232.9 sq. mile) Great Sand Dunes National Park and Preserve contains the tallest sand dunes in North America and is located in south-central Colorado. According to NPS monitoring data, Great Sand Dunes is one of the quietest NPS sites and enjoys extremely pristine night skies owing to its remote location. Furthermore, the Park is also well-known for the seasonal Medano Creek and beach created at the base of the dunes. Additional attractions at the Park include: the backcountry Medano Pass Primitive Road winds through a canyon toward the Sangre de Cristo mountains and ample trails which lead to forests, wetlands, and alpine lakes.",
     "type": "National Park"
   },
   {
@@ -42,6 +46,7 @@
     "country": "Nepal",
     "img": "/assets/images/sagarmatha.jpg",
     "link": "https://www.sagarmathanationalpark.gov.np/",
+    "description": "Encompassing the infinitely majestic snow capped peaks of the Great Himalayan Range, the chain of mountains including the world’s highest Mt. Sagarmatha (Everest) and extensive Sherpa settlements that embody the openness of SNP to the rest of the world. The carefully preserved natural heritage and the dramatic beauty of the high, geologically young mountains and glaciers were recognized by UNESCO with the inscription of the park as a world heritage site in 1979. The property hosts over 20 villages with over 6000 Sherpas who have inhabited the region for the last four centuries. Continuing their traditional practice of cultural and religion including the restriction of animal hunting and slaughtering, and reverence of all living beings. These practices combined with indigenous natural resource management practices, have been major contributing factors to the successful conservation of the SNP.",
     "type": "National Park"
   },
   {
@@ -51,6 +56,7 @@
     "country": "United States",
     "img": "/assets/images/anzo.jpg",
     "link": "http://www.parks.ca.gov/?page_id=638",
+    "description": "The Park preserves the Colorado Desert, which is itself chiefly composed of the western Sonoran Desert. The west coast Peninsular Ranges of Southern California block most eastern Pacific coastal air and storm systems, producing an arid climate. This low desert experiences intense heat in the summer and frigid conditions in winter, although its elevation usually precludes the formation of frost. The Park provides habitat for a rich biodiversity including the state’s only native palm species, the California Fan Palm (Washingtonia filifera) and a number of endangered species such as the desert bighorn sheep (Ovis canadensis nelsoni). 12 designated wilderness areas, and 180 kilometers (110 miles) of hiking trails draw over 100,000 visitors per year.",
     "type": "National Park"
   },
   {
@@ -60,6 +66,7 @@
     "country": "United States",
     "img": "/assets/images/cypress.jpg",
     "link": "https://www.nps.gov/bicy/index.htm",
+    "description": "Big Cypress is a center of biodiversity, hosting a variety of species including orchids, cypresses, mangroves, venomous snakes, birds, the Florida black bear and the elusive Florida panther. Together with nearby Everglades National Park, Big Cypress is an important bulwark against land development in south Florida, representing some of the last dark territory in the region. Still, it is impacted by light from the Miami and Naples/Fort Meyers metro areas. Preserve staff have recognized the value of the dark buffer that Big Cypress and Everglades place between these cities as it applies to their overall conservation mission, and have taken concrete steps to protect the resource and raise its awareness among visitors.",
     "type": "National Park"
   },
   {
@@ -69,6 +76,7 @@
     "country": "United States",
     "img": "/assets/images/cherry.jpg",
     "link": "https://cherryspringsstatepark.com/",
+    "description": "Due to its exceptionally dark skies, Cherry Springs State Park is one of the best places in the eastern U.S. for stargazing. Situated at 700 m above sea level in the largely undeveloped 106,000 hectare Susquehannock State Forest, the Park’s “Astronomy Field” offers an unobstruced 360-degree view. Cherry Springs is open year-round and 60 to 85 nights each year have ideal conditions for observing. Each year the park hosts two major star parties, which attract several hundred astronomers for several nights.",
     "type": "National Park"
   },
   {
@@ -78,6 +86,7 @@
     "country": "United States",
     "img": "/assets/images/Antelope Island State Park, Utah.jpg",
     "link": "https://utah.com/antelope-island-state-park",
+    "description": "Antelope Island State Park consists of 11,655 ha (28,800 acres) of land on the eponymous island separating shallow Farmington Bay from the open water of the Great Salt Lake, a large terminal lake in the state of Utah, U.S. The largest in the Great Salt Lake, the island’s land area fluctuates according to the rise and fall of the lake level. The Island is a small fault-block mountain range in the Great Basin, extending from the Wasatch Front to the Sierra Nevada mountain range. It was used for ranching purposes from the arrival of the Mormon Pioneers in the area during the mid-nineteenth century until its purchase by the State of Utah in segments between 1969 and 1981, at which time it was designated a state park. Its geology, relatively unaltered landscape, sandy beaches and abundant wildlife are the Park’s main attractions.",
     "type": "National Park"
   },
   {
@@ -87,6 +96,7 @@
     "country": "United States",
     "img": "/assets/images/newport.jpg",
     "link": "https://dnr.wi.gov/topic/parks/name/newport/",
+    "description": "Because of its geographic situation, Newport’s nights are remarkable dark. The Park’s location at the sparsely-populated end of the peninsula, separated from the mainland by 24 km (15 miles) of open water, makes its dark sky resource highly defensible in the future. Recognizing the value of its dark skies, for the past 25 years the Park has undertaken public outreach and education on astronomy and the importance of natural darkness to local wildlife. It has also brought its minimal site lighting into full compliance with IDA guidelines for parks.",
     "type": "National Park"
   },
   {
@@ -96,6 +106,7 @@
     "country": "Wales",
     "img": "/assets/images/brecon.jpg",
     "link": "https://www.breconbeacons.org/",
+    "description": "On a clear night in the Brecon Beacons, you can see the Milky Way, major constellations, bright nebulas and even meteor showers. It’s enough to make anyone starry eyed. The park has some of the highest quality dark skies in the whole of the UK, making it the perfect destination for stargazers. There are loads of events to enjoy stargazing.",
     "type": "National Park"
   },
   {
@@ -105,6 +116,7 @@
     "country": "Ireland",
     "img": "/assets/images/Kerry International Dark Sky Reserve.jpg",
     "link": "https://www.ireland.com/en-us/destinations/republic-of-ireland/kerry/",
+    "description": "The night sky has captivated the people of Ireland for millennia. Nearly 6,000 years ago, the Neolithic inhabitants of the Iveragh Peninsula built stone monuments incorporating alignments to track cycles of the Sun, Moon, and stars. According to some experts, ancient Ogham-language inscriptions found in the region may depict celestial observations.",
     "type": "Nature Reserve"
   },
   {
@@ -114,6 +126,7 @@
     "country": "Namibia",
     "img": "/assets/images/Namib.jpg",
     "link": "http://www.namibrand.com/tourism.html",
+    "description": "Namibiaʼs NamibRand Nature Reserve, one of Africaʼs largest private nature reserves, lies in one of the naturally darkest (yet accessible) places on Earth. It was established to help protect and conserve the unique ecology and wildlife of the southwest Namib Desert, and its mission now includes preservation of the area’s starry night skies.In the core of the reserve is the Namib Desert Environmental Education Trust (NaDEET) Centre, which runs environmental education programs that teach about the Earth and sky. Overnight guests, usually groups of schoolchildren, even have the opportunity to sleep in “open air” units where they can view the night sky from the comfort of their beds. The NaDEET Centreʼs programs are open to all Namibians, and visitors from around the world.",
     "type": "Nature Reserve"
   },
   {
@@ -123,6 +136,7 @@
     "country": "New Zealand",
     "img": "/assets/images/Aoraki Mackenzie.jpg",
     "link": "https://mackenzienz.com/scenic-highlights/dark-sky-reserve/",
+    "description": "The Aoraki Mackenzie International Dark Sky Reserve is comprised of Aoraki/Mt. Cook National Park and the Mackenzie Basin of New Zealand’s South island. Outdoor lighting controls were first put into place in the area during the early 1980s. They have not only helped minimize light pollution for the nearby Mt. John Observatory, but also conserve energy, protect wildlife and make the area a popular stargazing destination for tourists. The natural night has played a critical role in the areaʼs history as its first residents, the Māori, not only used the night sky to navigate to the island but also integrated astronomy and star lore into their culture and daily lives. The reserve seeks to honor that history by keeping the night sky a protected and integral part of the areaʼs natural and cultural landscape. It is a perfect place to protect and honor those traditions as the reserveʼs Mackenzie Basin has the clearest, darkest and the most spectacular night sky in New Zealand.",
     "type": "Nature Reserve"
   },
   {
@@ -132,6 +146,7 @@
     "country": "Germany",
     "img": "/assets/images/Westhavelland.jpg",
     "link": "https://www.westhavelland-naturpark.de/en/",
+    "description": "Westhavelland Nature Park is the largest protected area in the German federal state of Brandenburg and comprises the largest contiguous wetland of any individual European country. The park is situated only 70 km west of Berlin, the most populous city in Germany, yet its sparse population and protected status put the experience of a dark night sky within easy reach of nearly six million people in the Berlin-Brandenburg Metropolitan Region. The Dark Sky Reserve consists of a mix of 750 square kilometers of public and private land within the park. Westhavelland has developed an extensive education, public outreach, and communications program including the annual WestHavelländer AstroTreff star party, dark-skies interpretive programming, the European Day of Parks event, the Kunst und Kultur (“Art and Culture”) outreach program, and partnerships with private enterprise to develop astrotourism.",
     "type": "Nature Reserve"
   },
   {
@@ -141,6 +156,7 @@
     "country": "Germany",
     "img": "/assets/images/Rhön.jpg",
     "link": "https://www.rhoen.de/en/the-rhoen/index.html",
+    "description": "The United Nations Educational, Scientific and Cultural Organization established the Rhön Biosphere Reserve, also known as Biosphärenreservat Rhön, in 1991. It comprises 1,720 square kilometers of protected lands including the entire central region of the Rhön Mountains, where the German federal states of Hesse, Bavaria and Thuringia meet. Reaching elevations of up to 950 meters, the Rhön region is often referred to as the Land der offenen Fernen (“land of endless horizons”). The darkest night skies of the reserve are in the core zone. The buffer zone, which includes more populated areas, protects the core’s dark skies through the enacting of responsible outdoor light policies by municipal councils. The Rhön Dark Sky Reserve is unique within the Dark Sky Places Program in that its “core” consists of three distinct, non-contiguous areas: Hohe Geba in the northeast, Lange Rhön in the center, and Schwarze Berge in the south.",
     "type": "Nature Reserve"
   },
   {
@@ -150,6 +166,7 @@
     "country": "Spain",
     "img": "/assets/images/Gúdar-Javalambre en Teruel.jpg",
     "link": "https://gudarjavalambre.es/",
+    "description": "Aramón Javalambre Gúdar-Javalambre is a comarca in Aragon, Spain. The most important town is Mora de Rubielos. This comarca is located at the southern end of Aragon, bordering the Valencian Community. The area is mountainous with the summits of the Sistema Ibérico rising over towns with little or very little population in which the agricultural houses of the former villages have become summerhouses. The Sierra de Gúdar and the Sierra de Javalambre dominate the landscape and give their name to the comarca. The summits are covered in snow in the winter. The Aramón Javalambre ski resort is located in this comarca.",
     "type": "Nature Reserve"
   },
   {
@@ -159,6 +176,7 @@
     "country": "United Kingdom",
     "img": "/assets/images/Cranborne Chase.jpg",
     "link": "http://www.ccwwdaonb.org.uk/",
+    "description": "The Cranborne Chase Area of Outstanding Natural Beauty (AONB) is a chalk plateau in central southern England, straddling the counties Dorset, Hampshire and Wiltshire. The plateau is part of the English Chalk Formation and is adjacent to Salisbury Plain and the West Wiltshire Downs in the north, and the Dorset Downs to the south west. The scarp slope of the hills faces the Blackmore Vale to the west, and to some extent the Vale of Wardour to the north. The chalk gently slopes south and dips under clays and gravels. An area of 379 square miles (981 square kilometres) of Cranborne Chase and the West Wiltshire Downs has been designated an Area of Outstanding Natural Beauty (AONB), the sixth largest AONB in the country. The highest point is Win Green, in Wiltshire, at 910 ft (277 m).",
     "type": "Nature Reserve"
   },
   {
@@ -168,6 +186,7 @@
     "country": "Canada",
     "img": "/assets/images/Mont-Mégantic.jpg",
     "link": "https://www.sepaq.com/pq/mme/index.dot?language_id=1",
+    "description": "Mont-Mégantic, the world’s first International Dark Sky Reserve, encompasses the regional county municipalities of Granit and Haut-Saint-François and of the city of Sherbrooke, as well as Mont-Mégantic National Park, its famous observatory and a unique visitor center. The process that led to the IDA designation contributed to the development of a new regional expertise in outdoor lighting management. As a result, the reserve’s 34 municipalities developed outdoor lighting regulations that have contributed to the control and limited growth of area light pollution, which had doubled during the preceding 20 years. Approximately 2,500 light fixtures were replaced, resulting in a 25 percent reduction of area light pollution and a reduction in energy consumption of some 1.3 gigawatt-hours per year. The project is a model for many industrialized countries seeking a compromise between outdoor lighting needs and general concerns about energy efficiency and preservation of the natural nighttime environment.",
     "type": "Nature Reserve"
   },
   {
@@ -177,6 +196,7 @@
     "country": "France",
     "img": "/assets/images/picdumundi.jpg",
     "link": "https://picdumidi.com/",
+    "description": "Pic du Midi International Dark Sky Reserve – known as Réserve Internationale de Ciel Étoilé du Pic du Midi in French – is located in a mountainous region of southern France that currently draws 1.5 million visitors per year. It encompasses both a UNESCO World Heritage Site (Pyrénées-Mont Perdu) and a French national park (Pyrénées National Park). The region is capitalizing on the IDA designation as a means of furthering research into land use policy and practices, tourism business models, and resources sustainability at the nearby University of Pau and Pays de l’Adour. A team has been designated by the University to manage the Dark Sky Reserve project and to install and maintain scientific instruments in the Pic du Midi region to monitor the quality of the night sky in the future.",
     "type": "Observatory"
   },
   {
@@ -186,6 +206,7 @@
     "country": "Australia",
     "img": "/assets/images/sidingspring.jpg",
     "link": "https://www.sidingspringobservatory.com.au/",
+    "description": "Siding Spring Observatory near Coonabarabran, New South Wales, Australia, part of the Research School of Astronomy & Astrophysics (RSAA) at the Australian National University (ANU), incorporates the Anglo-Australian Telescope along with a collection of other telescopes owned by the Australian National University, the University of New South Wales, and other institutions. The observatory is situated 1,165 metres (3,822 ft) above sea level in the Warrumbungle National Park on Mount Woorat,[1] also known as Siding Spring Mountain. Siding Spring Observatory is owned by the Australian National University (ANU) and is part of the Mount Stromlo and Siding Spring Observatories research school.",
     "type": "Observatory"
   },
   {
@@ -195,6 +216,7 @@
     "country": "Chile",
     "img": "/assets/images/verylargetelescope.jpg",
     "link": "https://www.space.com/40736-very-large-telescope.html",
+    "description": "The Very Large Telescope (VLT) is a telescope facility operated by the European Southern Observatory on Cerro Paranal in the Atacama Desert of northern Chile. The VLT consists of four individual telescopes, each with a primary mirror 8.2 m across, which are generally used separately but can be used together to achieve very high angular resolution.[1] The four separate optical telescopes are known as Antu, Kueyen, Melipal, and Yepun, which are all words for astronomical objects in the Mapuche language. The telescopes form an array which is complemented by four movable Auxiliary Telescopes (ATs) of 1.8 m aperture.",
     "type": "Observatory"
   },
   {
@@ -204,6 +226,7 @@
     "country": "United States",
     "img": "/assets/images/maunakea.jpg",
     "link": "https://www.gohawaii.com/es/islands/hawaii-big-island/things-to-do/land-activities/Stargazing",
+    "description": "The Mauna Kea Observatories (MKO) are a number of independent astronomical research facilities and large telescope observatories that are located at the summit of Mauna Kea on the Big Island of Hawaiʻi, United States. The facilities are located in a 525-acre (212 ha) special land use zone known as the 'Astronomy Precinct', which is located within the 11,228-acre (4,544 ha) Mauna Kea Science Reserve. The Astronomy Precinct was established in 1967 and is located on land protected by the Historical Preservation Act for its significance to Hawaiian culture. The presence and continued construction of telescopes is highly controversial due to Mauna Kea's centraility in native Hawaiian religion and culture, as well as for a variety of environmental reasons.",
     "type": "Observatory"
   },
   {
@@ -213,6 +236,7 @@
     "country": "Spain",
     "img": "/assets/images/roquedelosmuchachos.jpg",
     "link": "https://www.iac.es/es/observatorios-de-canarias/observatorio-del-roque-de-los-muchachos",
+    "description": "At Roque de los Muchachos Observatory (ORM), on the rim of the Taburiente National Park, at 2396 metres above sea level in the municipality of Garafía (La Palma) stands one of the largest arrays of telescopes in the world. Because of the sky above La Palma, this observatory enjoys exceptional conditions for astronomical research, for this reason, it continues to attract giant telescopes of the future, as well as the new generation of Cherenkov telescopes, designed to study the Universe in very high energy gamma rays. The site currently hosts the largest optical-infrared telescope in the world, along with twenty other telescopes and instruments for various kinds of studies, including nocturnal observations, robotic observing, solar physics, and high energy astrophysics.  Great advances in the study of the Universe have been made with these telescopes, ranging from the detection of the most distant galaxy to confirmation of the existence of black holes and the accelerated expansion of the Universe.",
     "type": "Observatory"
   },
   {
@@ -222,6 +246,7 @@
     "country": "Spain",
     "img": "/assets/images/sagra.jpg",
     "link": "http://www.observatoriodelasagra.com/",
+    "description": "La Sagra Observatory (Spanish: Observatorio Astronómico de La Sagra; OLS; observatory code: L98) is an astronomical observatory located in the province of Granada, Spain. It uses four robotic telescopes both designed and built (hardware and software) by the scientists of the Observatorio Astronómico de Mallorca (OAM) who operate them remotely by telecontrol daily, discharging data from Mallorca using the Internet, to process them by means of algorithms designed 'in house' which helped to detect asteroid 367943 Duende. Among the other 1706 asteroids, with a 12th place in the ranking of asteroid discoveries. Its activities include, as part of its La Sagra Sky Survey, tracking small Solar System bodies, particularly near-Earth objects, and space debris.",
     "type": "Observatory"
   },
   {
@@ -231,6 +256,7 @@
     "country": "Chile",
     "img": "/assets/images/alma.jpg",
     "link": "https://www.almaobservatory.org/es/inicio/",
+    "description": "The Atacama Large Millimeter/submillimeter Array (ALMA) is an astronomical interferometer of 66 radio telescopes in the Atacama Desert of northern Chile, which observe electromagnetic radiation at millimeter and submillimeter wavelengths. The array has been constructed on the 5,000 m (16,000 ft) elevation Chajnantor plateau - near the Llano de Chajnantor Observatory and the Atacama Pathfinder Experiment. This location was chosen for its high elevation and low humidity, factors which are crucial to reduce noise and decrease signal attenuation due to Earth's atmosphere. ALMA is expected to provide insight on star birth during the early Stelliferous era and detailed imaging of local star and planet formation.",
     "type": "Observatory"
   },
   {
@@ -240,6 +266,7 @@
     "country": "Spain",
     "img": "/assets/images/leoncito.jpg",
     "link": "https://casleo.conicet.gov.ar/",
+    "description": "The El Leoncito Astronomical Complex (Spanish: Complejo Astronómico El Leoncito - CASLEO) is an astronomical observatory in the San Juan Province of Argentina. CASLEO is one of two observatories located within El Leoncito National Park, which is in a part of the country which rarely sees cloud cover. The other facility in the park is the Carlos U. Cesco Astronomical Station of the Félix Aguilar Observatory. CASLEO was established in 1983 by an agreement between National Scientific and Technical Research Council (CONICET) of Argentina, the Ministry of Science, Technology and Innovation (MINCYT) of Argentina, the National University of San Juan (UNSJ), the National University of La Plata (UNLP), and the National University of Córdoba (UNC). The facility was dedicated in 1986 and regular observations began in 1987.",
     "type": "Observatory"
   },
   {
@@ -249,6 +276,7 @@
     "country": "Argentina",
     "img": "/assets/images/planetario.jpg",
     "link": "https://planetario.buenosaires.gob.ar/",
+    "description": "The 1960s-built planetarium, resembling a UFO, is located in the Parque Tres de Febrero in Palermo. It has a main projection room with a 20 meter dome and reclineable seats for viewing projections of the stars and planets, and a smaller room for exhibitions. It also has a museum, a collection of meteorites from the north of Argentina, and hosts interactive exhibits and audiovisual shows. The planetarium is built on the sight of the first recorded football match to be played in Argentina, contested between the Buenos Aires Cricket Club and the crew of British warship the Bombay on June 29, 1867",
     "type": "Observatory"
   },
   {
@@ -258,6 +286,7 @@
     "country": "United States",
     "img": "/assets/images/The Kola Peninsula.jpg",
     "link": "https://www.nps.gov/dena/index.htm",
+    "description": "Denali National Park and Preserve is an American national park and preserve located in    Interior Alaska, centered on Denali, the highest mountain in North America. The park and contiguous preserve encompass 6,045,153 acres (9,446 sq mi; 24,464 km2) which is larger than the state of New Hampshire.[3] On December 2, 1980, 2,146,580-acre (3,354 sq mi; 8,687 km2) Denali Wilderness was established within the park. Denali's landscape is a mix of forest at the lowest elevations, including deciduous taiga, with tundra at middle elevations, and glaciers, snow, and bare rock at the highest elevations. The longest glacier is the Kahiltna Glacier. Wintertime activities include dog sledding, cross-country skiing, and snowmobiling. The park received 594,660 recreational visitors in 2018.",
     "type": "Northern Lights"
   },
   {
@@ -267,6 +296,7 @@
     "country": "Russia",
     "img": "/assets/images/The Kola Peninsula.jpg",
     "link": "https://www.lonelyplanet.com/russia/kola-peninsula",
+    "description": "The aurora season on the Kola Peninsula in northeastern Russia extends from late August until April, but winter is the best time to see the lights. This is because the region, which sits within the Arctic Circle, boasts 42 polar nights, meaning the area is shrouded in total darkness for more than 24 hours. It's also one of the more temperate and accessible regions in Russia where you can chase the aurora. The best place to view the lights on the peninsula is from the small port city of Murmansk, which is located in the northwest part of the region. To see other parts of the region, opt for an eight-day tour with Russia Discovery. This package includes viewing the northern lights, visiting the tundra and coastline of the Arctic Ocean, meeting the indigenous Sámi people, snowmobiling in the Khibiny mountains and exploring St. Petersburg.",
     "type": "Northern Lights"
   },
   {
@@ -276,6 +306,7 @@
     "country": "United States",
     "img": "/assets/images/Upper Peninsula.jpg",
     "link": "https://www.michigan.org/hot-spots/upper-peninsula",
+    "description": "The Upper Peninsula of Michigan boasts one of the top northern lights viewing locales in the U.S. during the spring and fall, and impressive astronomical shows in the warmer months. Throughout the summer, the Milky Way is visible across the sky and late summer evenings entertain visitors with meteor showers. Travelers can splurge on a stay at the Mission Point Resort on Mackinac Island at the confluence of Lake Michigan and Lake Huron. The resort's staff will notify guests of potential northern lights sightings. The Headlands International Dark Sky Park, located in Mackinaw City, is another draw situated nearby. The park was one of the first 10 International Dark Sky Parks in the world and is the perfect spot to gaze at the aurora.",
     "type": "Northern Lights"
   },
   {
@@ -285,6 +316,7 @@
     "country": "Greenland",
     "img": "/assets/images/Kangerlussuaq.jpg",
     "link": "https://visitgreenland.com/destinations/kangerlussuaq/",
+    "description": "Greenland may not be the most accessible place to travel for viewing the northern lights, but those who make it there will be thrilled they did. The tundra of Kalaallit Nunaat (the Greenlandic name for the country) is one of the best places on the globe to see the aurora. The viewing window extends from September to the beginning of June, when you can then enjoy the midnight sun. The tiny town of Kangerlussuaq is located on a fjord right along the Arctic Circle. The 300 days a year of clear skies make it an ideal spot to see the lights, especially between October and April. The town, a former U.S. air force base, is also home to the Greenland Ice Cap.",
     "type": "Northern Lights"
   },
   {
@@ -294,6 +326,7 @@
     "country": "Iceland",
     "img": "/assets/images/Reykjavik.jpg",
     "link": "https://visitreykjavik.is/",
+    "description": "September to April is the best time to chase the aurora borealis in Iceland. For optimum viewing away from the light pollution, head to Öskjuhlið. This densely wooded area in Reykjavik has walkways and paths where you can see the nighttime show. Atop of this forest sits Perlan, which is the only planetarium in the country and a museum featuring exhibits about Iceland. Don't miss the panoramic views of the city from the observation deck on the fourth floor of Perlan. From it, visitors can see the Snæfellsjökull glacier, Keilir Volcano and the mountain of Reykjavik, Esja. While here, splurge on an overnight tour with Buubble.com. This experience includes several sightseeing spots and a night spent under the magical northern skies in a bubble at the 5 Million Star Hotel.",
     "type": "Northern Lights"
   },
   {
@@ -303,6 +336,7 @@
     "country": "Sweden",
     "img": "/assets/images/Jukkasjärvi.jpg",
     "link": "https://www.kirunalapland.se/en/see-do/jukkasjarvi-2/",
+    "description": "The optimal time for viewing the northern lights in Sweden is during the darkest months, from December through March. In the northern part of the country, in Swedish Lapland, visitors can see the illuminated skies from late August or early September to mid-April. The small Swedish village of Jukkasjärvi sits approximately 125 miles above the Arctic Circle on the Torne River and is an ideal locale for aurora viewing. Book accommodations at the world's first ICEHOTEL in a year-round warm suite in the new ICEHOTEL 365. If you're up for an adventure, reserve one of the artist-designed cold suites with temperatures as low as -8 degrees Celsius. The rooms are sculpted of ice and include beds with reindeer hides and thermal sleeping bags. During your stay, take advantage of the guided Northern Lights Safari and late-night trek to the hotel's Camp Aurora.",
     "type": "Northern Lights"
   },
   {
@@ -312,6 +346,7 @@
     "country": "Canada",
     "img": "/assets/images/Yellowknife.jpg",
     "link": "https://www.yellowknife.ca/en/index.asp",
+    "description": "Yellowknife is the capital of Canada's Northwest Territories. It's also known as the Aurora Capital of North America. With its position in the middle of the Auroral Oval, the city puts on one of the world's most awe-inspiring light shows from January through March. Located on the northern shore of Great Slave Lake, Yellowknife boasts winter sports such as ice fishing and cross-country skiing. At the end of March, as temperatures begin to warm, Yellowknife hosts the Long John Jamboree on Yellowknife Bay. The event's festivities include sugar shacks, ice carving and dogsled races. For a once-in-a-lifetime experience, make reservations to stay in a teepee at Aurora Village to view the lights. The property offers aurora-themed tours and packages that include activities like dog sledding and snowmobiling.",
     "type": "Northern Lights"
   },
   {
@@ -321,6 +356,7 @@
     "country": "Scotland",
     "img": "/assets/images/Orkney.jpg",
     "link": "https://www.orkney.com/",
+    "description": "This group of captivating islands, located on Scotland's remote northern coast, is one of the best places to see the northern nights in the country. Fall and winter are the best seasons to witness the aurora, also known in local dialect as the 'Mirrie Dancers.' This time of year brings cold evenings with clear skies, which makes for ideal viewing conditions. A few places to see the spectacular light show include from the top of Wideford Hill, along the coast in Birsay or on the beach at Dingieshow. In addition to the aurora, Orkney is home to breathtaking coastal landscapes and more sheep than you can count. Travelers can also visit the Heart of Neolithic Orkney, a UNESCO World Heritage Site, which includes several monuments dating back 5,000 years. While here, plan to stay in the historic town of Kirkwall, the capital of the Orkney Islands.",
     "type": "Northern Lights"
   },
   {
@@ -330,6 +366,7 @@
     "country": "Finland",
     "img": "/assets/images/Lapland.jpg",
     "link": "https://www.visitfinland.com/lapland/",
+    "description": "Lapland is located in the Arctic Circle in Northern Europe. The northern lights are visible approximately 200 nights a year from this region in Finland. Lapland is also known as the home of Santa Claus, the Sámi people (the only indigenous people in the European Union) and as many as 190,000 reindeer. Aurora chasers can expect to see the lights every other clear night between September and March in northern Lapland, especially when the stars are out. For a bucket list experience, watch the impressive light show from a glass igloo at Santa's Hotel Aurora in Luosto. This resort town is approximately 70 miles north of the town of Rovaniemi and is set among the picturesque and hilly landscape of Pyhä-Luosto National Park.",
     "type": "Northern Lights"
   },
   {
@@ -339,6 +376,7 @@
     "country": "Norway",
     "img": "/assets/images/Tromso-norway.jpg",
     "link": "https://www.visitnorway.es/que-ver-en-noruega/norte-de-noruega/tromso/",
+    "description": "Located above the Arctic Circle, Tromsø is one of several top spots to view the northern lights in Norway. The northern part of the country is dark in the early afternoon until late morning, from the end of September to late March. With this extreme darkness, there are more opportunities to see the aurora. Tromsø itself is a modern city, so there's plenty to see and do when you're not looking up at the sky, including a visit to the beautiful Arctic Cathedral. In late January to early February, the city hosts the Northern Lights Festival, a 10-day music and performing arts event featuring everything from singers and ballet dancers to symphonies. Aurora chasers can view the lights on their own, opt for a guided Northern Lights Safari or go on an exhilarating husky trekking tour in the Arctic wilderness.",
     "type": "Northern Lights"
   },
   {
@@ -348,6 +386,7 @@
     "country": "United States",
     "img": "/assets/images/Fairbanks.jpg",
     "link": "https://www.explorefairbanks.com/spanish/",
+    "description": "Fairbanks is one of the best places in the world to view the northern lights as it's located directly under the Auroral Oval. This ring-shaped zone sits over the Earth's geomagnetic north pole, where aurora activity is concentrated. Visitors can expect to see the lights on an average of four out of five clear nights during aurora season, which lasts from Aug. 21 to April 21. Other activities visitors can enjoy in late summer include a ride on the Riverboat Discovery or panning for gold. For a festive holiday experience, visit the Santa Claus House in the city of North Pole (around 13 miles southeast of Fairbanks). Travelers can also see ice sculptures in February and March at the impressive World Ice Art Championships or take a dog sledding or snowmobiling tour. For excellent chances of aurora viewing, book accommodations at the upscale Akaurora Villa.",
     "type": "Northern Lights"
   },
   {
@@ -357,6 +396,7 @@
     "country": "Estonia",
     "img": "/assets/images/Saadjärv.jpg",
     "link": "https://www.visitestonia.com/en/lake-saadjarv",
+    "description": "Several destinations in Estonia are popular with local aurora chasers, but Saadjärv is known to have the most consistent sightings during the winter months. The town is located approximately 14 miles north of Tartu in Tartu County of central Estonia. It's situated on Lake Saadjärv, which is one of the 10 deepest and largest lakes in the country. It's also close to the Vooremaa Nature Park, so there's plenty to do in the region when you're not watching the lights dance in the sky. The lake is a major recreational area with beaches, places to stay and museums, such as The Ice Age Centre. You can also visit Alatskivi Castle, go snowshoeing in the Männikjärve bog or explore Elistvere Animal Park.",
     "type": "Northern Lights"
   },
   {
@@ -366,6 +406,7 @@
     "country": "Greenland",
     "img": "/assets/images/Ilulissat.jpg",
     "link": "https://visitgreenland.com/destinations/ilulissat/",
+    "description": "Ilulissat, formerly Jakobshavn or Jacobshaven, is the municipal seat and largest town of the Avannaata municipality in western Greenland, located approximately 350 km (220 mi) north of the Arctic Circle. With the population of 4,670 as of 2020,it is the third-largest city in Greenland, after Nuuk and Sisimiut. The city is home to almost as many sled-dogs as people. In direct translation, Ilulissat is the Kalaallisut word for Icebergs (Danish: Isbjerge).The nearby Ilulissat Icefjord is a UNESCO World Heritage Site, and has made Ilulissat the most popular tourist destination in Greenland. Tourism is now the town's principal industry. The city neighbours the Ilulissat Icefjord, where there are enormous icebergs from the most productive glacier in the northern hemisphere.",
     "type": "Northern Lights"
   },
   {
@@ -375,6 +416,7 @@
     "country": "Canada",
     "img": "/assets/images/yukon.jpg",
     "link": "https://www.travelyukon.com/",
+    "description": "Yukon is the smallest and westernmost of Canada's three territories. It has the smallest population of any province or territory in Canada, with a population of 41,078 people. Whitehorse, the territorial capital and Yukon's only city, is the largest settlement in any of the three territories.Yukon was split from the Northwest Territories in 1898 and was originally named the Yukon Territory. The federal government's Yukon Act, which received royal assent on March 27, 2002, established Yukon as the territory's official name, though Yukon Territory is also still popular in usage and Canada Post continues to use the territory's internationally approved postal abbreviation of YT. Though officially bilingual (English and French), the Yukon government also recognizes First Nations languages.",
     "type": "Northern Lights"
   },
   {
@@ -384,6 +426,7 @@
     "country": "Russia",
     "img": "/assets/images/Murmansk.jpg",
     "link": "http://www.goingrussia.com/portfolio-item/murmansk/?lang=es",
+    "description": "Murmansk is a port city and the administrative center of Murmansk Oblast in the far northwest part of Russia. It sits on both slopes and banks of a modest ria or fjord, Kola Bay, an estuarine inlet of the Barents Sea. Its bulk is on the east bank of the inlet. It is in the north of the rounded Kola Peninsula which covers most of the oblast (semi-autonomous region). The city is 108 kilometres (67 mi) from the border with Norway and 182 kilometres (113 mi) from the Finnish border. The city is named for the Murman Coast, an archaic term in Russian for Norway.",
     "type": "Northern Lights"
   },
   {
@@ -393,6 +436,7 @@
     "country": "Sweden",
     "img": "/assets/images/Abisko.jpg",
     "link": "https://www.visitabisko.com/",
+    "description": "Abisko is a village in Sápmi (Lapland), in northern Sweden, roughly 250 km within the Arctic Circle, and near Abisko National Park, located 4 km west of the village. It had 85 inhabitants as of 2005. Permafrost is common around the village albeit this low altitude permafrost is disappearing because of global warming and increased snowfall.",
     "type": "Northern Lights"
   },
   {
@@ -402,6 +446,7 @@
     "country": "Norway",
     "img": "/assets/images/Kirkenes.jpg",
     "link": "https://www.visitnorway.es/que-ver-en-noruega/norte-de-noruega/kirkenes-este-finnmark/",
+    "description": "is a town in Sør-Varanger Municipality in Troms og Finnmark county, in the far northeastern part of Norway. The town lies on a peninsula along the Bøkfjorden, an arm of the large Varangerfjorden. The main church for Kirkenes is Kirkenes Church, located in the Haganes area of the town. The 2.14-square-kilometre (530-acre) town has a population (2018) of 3,529, which gives the town a population density of 1,649 inhabitants per square kilometre (4,270/sq mi). When the neighbouring suburban villages of Hesseng, Sandnes, and Bjørnevatn are all included with Kirkenes, the urban area reaches a total population of almost 8,000 people.",
     "type": "Northern Lights"
   },
   {
@@ -411,6 +456,7 @@
     "country": "Scotland",
     "img": "/assets/images/Moray Coast.jpg",
     "link": "https://www.thechaoticscot.com/moray-coast/",
+    "description": "The Moray Firth is a roughly triangular inlet (or firth) of the North Sea, north and east of Inverness, which is in the Highland council area of north of Scotland. It is the largest firth in Scotland, stretching from Duncansby Head (near John o' Groats) in the north, in the Highland council area, and Fraserburgh in the east, in the Aberdeenshire council area, to Inverness and the Beauly Firth in the west. Therefore, three council areas have Moray Firth coastline: Highland to the west and north of the Moray Firth and Highland, Moray and Aberdeenshire to the south. The firth has more than 800 kilometres (about 500 miles) of coastline, much of which is cliff.",
     "type": "Northern Lights"
   },
   {
@@ -420,6 +466,7 @@
     "country": "Iceland",
     "img": "/assets/images/sandgerdi.jpg",
     "link": "https://www.visitreykjanes.is/en/moya/toy/index/town/sandgerdi",
+    "description": "Sandgerði is one of the Iceland’s major fishing communities and is located on the very northern tip of the peninsula. There are interesting things to do in the town, including birdwatching and golfing. A large variety of handmade souvenirs are on offer at the Listatorg souvenir shop and one can also take in the nature and research exhibits at the Suðurnes Science and Learning Center.",
     "type": "Northern Lights"
   },
   {
@@ -429,6 +476,7 @@
     "country": "Finland",
     "img": "/assets/images/inari.jpg",
     "link": "https://visitinari.fi/",
+    "description": "Inari is Finland's largest municipality (but one of the most sparsely populated), with four official languages, more than any other in the country. Its major sources of income are tourism, service industry and cold climate testing. With the Siida museum in the village of Inari, it is a center of Sami culture. The airport in Ivalo and the country's key north-south European Route E75 (Finland's National Road 4) bring summer and winter vacationers seeking resorts with access to a well-preserved, uncrowded natural environment.",
     "type": "Northern Lights"
   },
   {
@@ -438,6 +486,7 @@
     "country": "Ireland",
     "img": "/assets/images/donegal.jpg",
     "link": "https://www.ireland.com/en-gb/articles/destinations/donegal/county-donegal/",
+    "description": "This remote and unspoiled landscape is Ireland’s most northerly point, and visitors to Malin Head on Inishowen Peninsula won’t be disappointed with the light display. Clear skies to the north and no light pollution make it ideal, although you may have to go out more than once in order to see the Aurora.",
     "type": "Northern Lights"
   },
   {
@@ -447,6 +496,7 @@
     "country": "Russia",
     "img": "/assets/images/naryan-mar.jpg",
     "link": "https://www.britannica.com/place/Naryan-Mar",
+    "description": "Naryan-Mar is a sea and river port town and the administrative center of Nenets Autonomous Okrug, Russia. The town is situated on the right bank of the Pechora River, 110 kilometers (68 mi) upstream from the river's mouth, on the Barents Sea. Naryan-Mar lies north of the Arctic Circle. Population: 21,658 (2010 Census); 18,611 (2002 Census);[6] 20,182 (1989 Census); 17,000 (1973).",
     "type": "Northern Lights"
   },
   {
@@ -456,6 +506,7 @@
     "country": "Australia",
     "img": "/assets/images/tasmania.jpg",
     "link": "https://www.discovertasmania.com.au/",
+    "description": "Tasmania, an isolated island state off Australia’s south coast, has breathtaking views of the Southern Lights. Mount Wellington’s 4,100-foot peak is the perfect front-row seat to wait for the magical lights to appear.",
     "type": "Northern Lights"
   },
   {
@@ -465,6 +516,7 @@
     "country": "Argentina",
     "img": "/assets/images/ushuaia.jpg",
     "link": "http://turismoushuaia.com/zonas/ciudad-ushuaia/",
+    "description": "Ushuaia is located at the southernmost tip of South America, nicknamed the “End of the World.” It’s closer to the Antarctic Circle than Tasmania, South Georgia and Stewart Island, and in the winter season, you can expect up to 17 hours of darkness.",
     "type": "Northern Lights"
   },
   {
@@ -474,6 +526,7 @@
     "country": "New Zealand",
     "img": "/assets/images/rakiura.jpg",
     "link": "https://www.newzealand.com/ar/feature/national-parks-rakiura/",
+    "description": "Rakiura National Park is located on Stewart Island/Rakiura. It encompasses a network of former nature reserves, scenic reserves, and state forest areas. Although the island lies only 30 km south west of Bluff, between latitudes 46 and 47 degrees south, it exudes all the charm of a world on its own.",
     "type": "Northern Lights"
   },
   {
@@ -483,6 +536,7 @@
     "country": "United States",
     "img": "/assets/images/dinosaur.jpg",
     "link": "https://www.nps.gov/dino/index.htm",
+    "description": "Dinosaur National Monument is located on the southeast edge of the Uinta Mountains on Colorado Plateau the border between Colorado and Utah at the confluence of the Green and Yampa Rivers. The park contains over 800 paleontological sites and is home to some of the most abundant and well-preserved dinosaur fossils in the world, providing a treasure trove for visitors and scientists alike since the fossil beds were found in 1909. The region was declared a national monument on October 4, 1915. Owing to the Monument’s remote location, high elevation, and low humidity, enjoying Dinosaur National Monument’s starry night skies today is like stepping back in time.",
     "type": "National Park"
   },
   {
@@ -492,6 +546,7 @@
     "country": "Spain",
     "img": "/assets/images/Albanya.jpg",
     "link": "http://www.albanya.cat/",
+    "description": "Albanyà is a municipality in the comarca of Alt Empordà, in Girona, Catalonia, consisting of the eponymous village of Albanyà and surrounding lands containing the headwaters of the La Muga river in extreme northeastern Spain. The rural setting of Albanyà and geographic isolation near the French border have helped preserve its relatively dark night skies. In recent years, locals have begun promoting astrotourism as an antidote to the otherwise economically depressed conditions in the region. Tourists now come from around Catalonia and beyond to partake of stargazing and formal nighttime interpretive programs offered principally at Bassegoda Park. Other popular spots within the municipality for self-directed stargazing include El Casalot, El Coll de la Creu, El Pla de la Bateria and El Pla de la Teularia.",
     "type": "National Park"
   },
   {
@@ -501,6 +556,7 @@
     "country": "United States",
     "img": "/assets/images/Arches.jpg",
     "link": "https://www.nps.gov/arch/index.htm",
+    "description": "Arches National Park lies north of Moab in the state of Utah. One of Utah’s “Mighty 5” National Parks, Arches is bordered by the Colorado River in the southeast and is widely known as the site of more than 2,000 natural sandstone arches, such as the massive, red-hued Delicate Arch in the east. Long, thin Landscape Arch stands in Devils Garden to the north. Other geological formations include Balanced Rock, towering over the desert landscape in the middle of the park.",
     "type": "National Park"
   },
   {
@@ -510,6 +566,7 @@
     "country": "Ireland",
     "img": "/assets/images/Ballycroy.png",
     "link": "https://www.wildnephinnationalpark.ie/",
+    "description": "The low population density of Mayo and a territory largely unsuitable for agriculture have left the area devoid of major cities, rendering its night skies very dark. The defensibility of the Park’s dark skies is enhanced by its situation near the Atlantic coast. The prospects for maintaining dark nighttime conditions into the future are therefore very good. The applicants have seized on the value of this local resource as a means of promoting regional tourism, and have undertaken efforts to educate residents of nearby villages on the dark sky issue and ways they can help protect the Park. They have produced very encouraging results that raised the profile of dark skies in northwest Ireland.",
     "type": "National Park"
   },
   {
@@ -519,6 +576,7 @@
     "country": "Hungary",
     "img": "/assets/images/Bukk.png",
     "link": "https://ourwanders.com/bukk-national-park-hungary/",
+    "description": "Bükk is a Hungarian National Park consisting of 43,170 hectares of land in the Bükk Mountains of Northern Hungary, near the city of Miskolc. Mountainous and heavily forested, it is Hungary’s largest national park, situated among the country’s tallest peaks. The Park’s karstic landscape makes it a mecca for spelunkers, and it is home to some ninety species of nesting birds, many endangered. Visitors find a variety of outdoor and cultural activities throughout the Park. Increasingly, these offerings include experiences that bring visitors close to a dark night sky. The number of stargazing and nocturnal environment events in the Park has steadily increased since the inception of nighttime programming in 2012. People are coming from across Europe to experience the night skies in Bükk, and the Park is meeting this demand with more offerings to casual stargazers and serious amateur astronomers alike.",
     "type": "National Park"
   },
   {
@@ -528,6 +586,7 @@
     "country": "United States",
     "img": "/assets/images/Big Bend.jpg",
     "link": "https://www.nps.gov/bibe/index.htm",
+    "description": "This U.S. national park renowned for its hiking and backpacking trails nestles in the “Big Bend” of the Rio Grande river, which marks the boundary between Mexico and the state of Texas. It’s the largest protected area of Chihuahuan Desert topography and ecology in the United States and also one of the largest, most remote, and least-visited national parks in the lower 48 United States. Its great distance from major urban centers renders the skies over Big Bend among the darkest in North America.",
     "type": "National Park"
   },
   {
@@ -537,6 +596,7 @@
     "country": "United States",
     "img": "/assets/images/Gunnison.jpg",
     "link": "https://www.nps.gov/blca/index.htm",
+    "description": "The Park is composed largely of federal lands and private property used for agricultural production, helping preserve its dark skies against long-term urban encroachment. There is little artificial light at night on the property, and the fixtures that exist are 100% compliant with the Park’s lighting plan. Regular interpretive programming stresses the value of dark skies and their appreciation at the Canyon, and the Park has worked with a local amateur astronomy society since 1998 to put on nighttime events engaging thousands of visitors every year.”",
     "type": "National Park"
   },
   {
@@ -546,6 +606,7 @@
     "country": "England",
     "img": "/assets/images/Bodmin.jpg",
     "link": "https://www.darksky.org/our-work/conservation/idsp/parks/bodminmoor/",
+    "description": "Bodmin Moor describes itself as a “working agricultural landscape” where traditional land uses persist. As part of an AONB, it enjoys protections against many of the forms of large-scale development that would tend to bring new lighting to the area. Although most of the its land is privately owned, since 2000 much of Bodmin Moor has been designated open access. The landlocked Moor abounds with daytime recreation activities, including hiking, bicycling, fishing, and rock climbing. In the last decade, the local offerings have extended to the nighttime hours, as the Moor increasingly draws tourists from across the UK and Europe who come to see its dark night skies. The Cornwall Council, its governing authority, has demonstrated its commitment to protecting the night skies over Bodmin Moor, and locals have undertaken a program of education and outreach to show area residents the economic and cultural value of dark skies in this part of England.",
     "type": "National Park"
   },
   {
@@ -555,6 +616,7 @@
     "country": "Netherlands",
     "img": "/assets/images/De Boschplaat.jpg",
     "link": "https://www.darksky.org/our-work/conservation/idsp/parks/deboschplaat/",
+    "description": "De Boschplaat, a 40 square kilometer area the eastern side of the island of Terschelling, is a “Natura 2000” Nature Reserve recognized by the European Council. It is locally managed by the conservation agency Staatsbosbeheer. Except when areas in the preserve are closed for conservation purposes, the public has unrestricted access to the entire property at all times, and eight locations within the park have been specially designated for nighttime visitors to view the stars.",
     "type": "National Park"
   },
   {
@@ -564,6 +626,7 @@
     "country": "Taiwan",
     "img": "/assets/images/Hehuan.jpg",
     "link": "https://www.taroko.gov.tw/en/Tourism/TrailDetail?id=131",
+    "description": "Hehuan Mountain (also called Joint-Joy Mountain) is situated at the west of Taroko National Park , the peak is 3,416-meter-high (11,207 ft) mountain in Central Taiwan, the 3,421-meter east peak and 3,422-meter north peak of Hehuanshan are both higher than the main peak. The peak lies on the borders of Nantou and Hualien counties and Hehuan Mountain is a popular destination in Taiwan. It is the only resort area above 3,000 meters the highway can access directly on the island. The location is far away from the glow of over-lit urban areas and the altitude is suitable for stargazing all year. ",
     "type": "National Park"
   },
   {
@@ -573,6 +636,7 @@
     "country": "Hungary",
     "img": "/assets/images/Hortobagy.jpg",
     "link": "https://www.hnp.hu/en",
+    "description": "Hortobágy, Hungary’s first national park, encompasses the largest continuous native grassland in Europe. It is recognized as a UNESCO World Heritage site and Biosphere Reserve, and a Ramsar Convention site. Largely untouched since the last ice age, Hortobágy’s ancient marshland and alkaline flats provide a haven for wildlife, especially birds. The lighting management plan focuses on avian protection. Lighting retrofits within the 10,000 hectares designated as Hortobágy Starry Sky Park minimize impact to avian wildlife. However, astronomical interests are not neglected. The park offers nighttime walks and interpretive programs that include light pollution education, and the park plans to open an observatory.",
     "type": "National Park"
   },
   {
@@ -582,6 +646,7 @@
     "country": "Japan",
     "img": "/assets/images/Iriomote-Ishigaki.png",
     "link": "https://www.env.go.jp/en/nature/nps/park/iriomote/index.html",
+    "description": "It is the southernmost national park in Japan, in its southernmost prefecture, and preserves the only tropical rainforest in the country. In addition to large mangrove communities at the mouths of broad rivers, the islands are ringed by living coral reefs. The Park provides refuge for a number of threatened plant and animal species, and Iriomote Island is home to the critically endangered Iriomote cat (Prionailurus bengalensis iriomotensis), discovered only fifty years ago. The Park also represents an unusual set of circumstances for the preservation and promotion of dark skies. The Yaeyama Islands support a permanent population of about 54,000 people settled in and among the Park’s territory. They are governed by two municipalities, Ishigaki City and Taketomi Town, who along with the Japanese Ministry of the Environment are responsible for the administration of the Park. The population is heavily concentrated into Ishigaki City on Ishigaki Island, which serves as Yaeyama’s sea port, airport, and main commercial hub. Despite a city of this size within the boundaries of the Park, much of the land area of the islands routinely achieves Silver- and Gold-tier night sky quality.",
     "type": "National Park"
   },
   {
@@ -591,6 +656,7 @@
     "country": "Netherlands",
     "img": "/assets/images/Lauwersmeer.jpg",
     "link": "https://www.np-lauwersmeer.nl/english-information/",
+    "description": "The reclamation history of the Park, and immediately conservation after its creation, precluded development on its marshy soil. Because the site was intended to be preserved largely in this primitive state, it was spared from the widespread deployment of artificial light. Lauwersmeer is therefore a small oasis of relative darkness at the edge of one of the world’s most light-polluted countries. Efforts to protect these conditions began as a means of providing better environmental conditions for birds and have since expanded to make the Park an attractive and convenient des- tination for residents of coastal Western Europe seeking readily accessible, Silver-tier dark skies.",
     "type": "National Park"
   },
   {
@@ -600,6 +666,7 @@
     "country": "Denmark",
     "img": "/assets/images/MonAndNyord.png",
     "link": "https://www.visitdenmark.com/denmark/explore/dark-sky-mon-and-nyord-gdk1102186",
+    "description": "Møn and Nyord are two islands in the Zealand Region of southeastern Denmark comprising 223 km2 (86 square miles) of land area. The much-larger island of Møn makes up the bulk of this area and is one of the most popular tourist destinations in Denmark. Famous for its white chalk cliffs, Møn offers visitors a slower pace of life compared to the bigger cities of Europe, complete with open countryside, sandy Baltic Sea beaches, and shopping in the market town of Stege. In 2014, residents of Møn began an effort to promote the Islands’ dark skies as a means of economic development and tourism potential, culminating in a joint effort for IDA recognition as both an International Dark Sky Community and an International Dark Sky Park. The reasoning for this approach is that it results in better protection of current nighttime conditions in both the developed and wilderness areas of both islands.",
     "type": "National Park"
   },
   {
@@ -609,6 +676,7 @@
     "country": "England",
     "img": "/assets/images/Northumberland.jpg",
     "link": "https://www.visitnorthumberland.com/kielder-water-forest-park",
+    "description": "Once at the frontier of Roman Britain where Hadrianʼs Wall repelled Pictish invaders, Northumberland International Dark Sky Park now serves as a bulwark against the incursion of harmful light pollution into one of the darkest locations in England. A UK National Park and adjacent forestry plantation encompassing nearly 1,500 square km of public lands in northern England, Northumberland National Park and Kielder Water & Forest Park comprise the first IDA-recognized International Dark Sky Park consisting of two independent parkland units. National Parks UK and Forestry Commission England have added dark skies to their inventory of protected natural resources, including the largest manmade woodland and reservoir in northern Europe.",
     "type": "National Park"
   },
   {
@@ -618,6 +686,7 @@
     "country": "Croatia",
     "img": "/assets/images/PetrovaGora.jpg",
     "link": "https://www.croatiaweek.com/petrova-gora-in-croatia-proclaimed-an-international-dark-sky-park/",
+    "description": "Petrova gora is one of the most beautiful and best-preserved mountain forest landscapes in the Republic of Croatia. Due to the exceptional landscape value the area “Petrova gora Biljeg” in the central part of Petrova gora became a protected area in 1969 in the category known as “significant landscape”. The area of “Petrova Gora-Biljeg” is protected to conserve forest habitat (its integrity and the natural composition of forest communities), stream valleys, landscape, cultural and historical values for the purpose of sustainable development, and for the needs of tourism and recreation.",
     "type": "National Park"
   },
   {
@@ -627,6 +696,7 @@
     "country": "Israel",
     "img": "/assets/images/Ramon Crater.jpg",
     "link": "https://www.touristisrael.com/the-ramon-crater-makhtesh-ramon/2303/",
+    "description": "The harsh climate and forbidding landscape of the Negev has largely repelled historical attempts to settle the land after it became part of an independent Israel in 1948. As a result, its night skies are considerably darker on average than in the northern, more heavily-populated areas of the country. Coupled with typically good weather and a dry climate, the Negev increasingly draws stargazers from across the Middle East and Europe. The situation of Ramon Crater within this environment offers a substantial degree of long-term protection for its night skies. The management of the site has added offerings of nighttime interpretive programs and stargazing opportunities, and has lately reached out to neighboring communities and organizations to partner with them in activities intended to help preserve the Crater’s dark skies and promote astrotourism for regional economic development.",
     "type": "National Park"
   },
   {
@@ -636,6 +706,7 @@
     "country": "Scotland",
     "img": "/assets/images/Tomintoul and Glenlivet.jpg",
     "link": "https://cairngorms.co.uk/working-together/supporting-communities/tomintoul-and-glenlivet/",
+    "description": "The National Park, the United Kingdom’s largest, is an IUCN Category V and Ramsar Convention site that protects the dramatic landscape of the Cairngorm Mountains and their associated upland plateaus. In addition to supporting Britain’s only herd of reindeer, the National Park is home to a number of species that are rare elsewhere in the British Isles. It also preserves some of the few remaining stands of trees in what was once the Caledonian Forest, Scotland’s ancient temperate rainforest. Glenlivet Estate is a mix of agricultural land, upland hill and commercial and amenity woodland alongside diversified businesses and residential properties best known for its eponymous Scotch whisky production facility.",
     "type": "Northern Lights"
   },
   {
@@ -645,6 +716,7 @@
     "country": "Croatia",
     "img": "/assets/images/Vrani kamen.jpg",
     "link": "https://www.darksky.org/our-work/conservation/idsp/parks/vrani-kamen-croatia/",
+    "description": "The etymology of the Vrani Kamenname indicates its origin in the Proto–Slavic word vorn, over the Russian and Lithuanian terms of vorin and varnas, we have the expression vran, which means the raven. Translated into English, Vrani kamen means Raven’s stone. Vrani kamen park is located in the territory of the Republic of Croatia. For the most part, it is under management of Croatian Forests, while the area of Petrov vrh is managed by the town of Daruvar. The Park is situated in the vicinity of the town of Daruvar and it stretches across 8 000 hectares of the Papuk mountain in Western Slavonia.Vrani kamen is 130 km away from the capital city of Zagreb, 140 km from Osijek, 300 km from the Adriatic coast, 65 km from Hunga-ry, and 60 km from Bosnia and Herzegovina.",
     "type": "National Park"
   },
   {
@@ -654,6 +726,7 @@
     "country": "United States",
     "img": "/assets/images/Waterton-Glacier.png",
     "link": "https://www.pc.gc.ca/en/culture/spm-whs/sites-canada/sec02l",
+    "description": "Waterton Lakes National Park in Alberta, Canada, and Glacier National Park in Montana, U.S., are collectively the first IDA International Dark Sky Parks spanning both sides of an international border. At a total of 4,606 km2 (1,138,167 acres), the parks share the distinction of being the world’s first International Peace Park (1932), two UNESCO Biosphere Reserves, and a single UNESCO World Heritage Site. According to UNESCO, the parks offer “outstanding scenery,” and are “exceptionally rich in plant and mammal species as well as prairie, forest, and alpine and glacial features.” The parks occupy a unique position in the Western Cordillera of North America, resulting in the evolution of species and ecologies that exist nowhere else in the world.",
     "type": "National Park"
   },
   {
@@ -663,6 +736,7 @@
     "country": "Germany",
     "img": "/assets/images/Winklmoosalm.jpg",
     "link": "http://www.winklmoosalm.de/",
+    "description": "Its location and geographic setting also make the Winklmoosalm a remarkably dark place at night, despite the relatively short distance to Salzburg, Austria (40 km; population 150,000). Unobstructed, 360-degree views reveal a night sky largely unspoiled by light pollution where a full array of faint phenomena can be seen. Interest in stargazing at the site began over a decade ago, and has grown into an industry served by a small tourism infrastructure. Visitors can participate in weekly nighttime astronomy events led by trained local staff, and have free rein around the Alm at night. It is a largely defensible location, both due to the mountainous topography and effective outdoor lighting policies in both the municipality and the Park itself.",
     "type": "National Park"
   },
   {
@@ -672,6 +746,7 @@
     "country": "Hungary",
     "img": "/assets/images/Zselic.jpg",
     "link": "https://zselicicsillagpark.hu/en.php",
+    "description": "The Zselic Starry Sky Park at the Zselic National Landscape Protection Area began as a project between the Duna-Dráva National Park Directorate and the Hungarian Astronomical Association. Established in 1976 to protect the natural assets of the North Zselic region, the park encompasses 9,042 hectares. After the initial proposal signing, the project expanded its outreach by working with the surrounding 17 municipalities and the Lighting Society of Hungary to minimize the communities’ impacts on the park. Finally, the outdoor lighting renovation of the Hotel Kardosfa and the surrounding park recreational buildings to include dark sky friendly lighting assisted in minimizing the light pollution impacts from within the park. Zselic is one of the best places with close to unaltered dark night skies in Hungary. The Triangulum Galaxy can be seen with the naked eye on clear nights, and the zodiacal light is often visible in spring and autumn.",
     "type": "National Park"
   },
   {
@@ -681,6 +756,7 @@
     "country": "France",
     "img": "/assets/images/Alpes Azur.jpg",
     "link": "https://www.darksky.org/our-work/conservation/idsp/reserves/alpes-azur-mercantour-france/",
+    "description": "Located at the South–West end of the Alps, where the mountains plunge to the Mediterranean Sea, the Alpes Azur Mercantour –Mont Mounier 2817m IDSR/RICE is characterized by exceptional natural heritage. It has grand landscapes, shaped by a long geological history still visible today, a great richness of biodiversity thanks to the mix of Alpine and Mediterranean influences, and the climate which has made it a favored tourist destination since the 19th century. The presence of a natural frontier made up of 3,000–meter peaks close to the coast favored the development of unique cultural, military, religious and linguistic heritage. Astronomy occupies a singular place in the character of the region. The geographical location interested astronomers at the end of the 19th century, and Mont Mounier (2817m) was one of the first mountain observatories. This interest continued throughout the 20th century, and the Calern plateau observatory is still active. The reserve is equally good for amateur astronomers to observe the unspoiled night sky.",
     "type": "Nature Reserve"
   },
   {
@@ -690,6 +766,7 @@
     "country": "United States",
     "img": "/assets/images/Central Idaho.jpg",
     "link": "https://idahodarksky.org/",
+    "description": "The Reserve’s chief draw is its wilderness quality, with its lack of development and significant visitor services. It remains among a shrinking number of places in the lower 48 United States where visitors can have a truly ‘off-grid’ experience, with access to neither electricity nor mobile phone service across thousands of square kilometers. As the challenging topography of the Sawtooth Range has historically discouraged the development of significant infrastructure, so the land has largely resisted electrification leading to the deployment of large amounts of artificial light at night. Central Idaho is therefore one of the last large ‘pools’ of natural nighttime darkness left in the United States.",
     "type": "Nature Reserve"
   },
   {
@@ -699,6 +776,7 @@
     "country": "France",
     "img": "/assets/images/Cevennes.png",
     "link": "http://www.causses-et-cevennes.fr/en/i-discovered/natural-parks-and-large-sites/the-cevennes-national-park/",
+    "description": "Occupied by humans for at least the last 400,000 years, Cévennes is best known as the heart of the Camisard revolt of the early eighteenth century, in which French Calvinist Protestants rose up against religious persecutions following the Edict of Fontainebleau, issued by King Louis XIV in 1685. Despite its rebellious past, today Cévennes is the peaceful home of over 71,000 inhabitants living in 250 villages within its borders. They operate over 400 farms whose lands comprise one quarter of the park’s territory. It is, as National Geographic puts it, “not a pure wilderness park but a classic landscape of traditional French life.” The Park offers a diversity of outdoor activities such as hiking, mountain biking, fishing, kayaking, and spelunking.",
     "type": "Nature Reserve"
   },
   {
@@ -708,6 +786,7 @@
     "country": "England",
     "img": "/assets/images/Exmoor.jpg",
     "link": "https://www.exmoor-nationalpark.gov.uk/",
+    "description": "In Exmoor, the 81 square kilometers of core zone were chosen to minimize human habitation but to maximize open land access and points of interest. The mostly moorlike land core area includes Bronze Age burial mounds, a site of Special Scientific Interest at Dunkery Horner Wood National Nature Reserve, the deserted medieval settlement of Hoccombe Combe, and a recreational building used for astronomy events. In the buffer areas surrounding the core, the Exmoor National Park Authority works with park residents and management of Somerset and Devon Counties on dark-skies issues, with strong support from the national Campaign to Protect Rural England.",
     "type": "Nature Reserve"
   },
   {
@@ -717,6 +796,7 @@
     "country": "England",
     "img": "/assets/images/Moore.png",
     "link": "https://www.darksky.org/our-work/conservation/idsp/reserves/southdowns/",
+    "description": "The entirety of the Park lies within about 100 km of the edge of the greater London metropolitan area, among the most light-polluted metropolises on Earth. It is remarkable that any relatively dark areas remain between London and the south coast of England, particularly given aggressive housing development in the Sussex Downs in the nineteenth and twentieth centuries. The Park’s efforts in seeking Dark Sky Reserve status have helped establish it as an important bulwark against the creeping advance of the furthest-outlying London suburbs. Like Westhavelland IDSR, situated a similar distance from Berlin as South Downs is from London, the Park offers authentically dark nighttime outdoor experiences to over ten million people who live within a two-hour train journey of the Downs.",
     "type": "Nature Reserve"
   },
   {
@@ -726,6 +806,7 @@
     "country": "Australia",
     "img": "/assets/images/Murray.jpg",
     "link": "http://www.murrayriver.com.au/about-the-murray/",
+    "description": "The River Murray Dark Sky Reserve is an area of more than 3,200 square kilometers that sits entirely within the Mid Murray Council area in South Australia, roughly 100 kilometers east of the state capital, Adelaide. Established in 1970 principally to protect the endangered southern hairy-nosed wombat (Lasiorhinus latifrons), Swan Reach Conservation Park is the Reserve’s core site due to its exceptional natural darkness, its size, its protected status and its central location within the Reserve. The park comes under the control of the South Australian Ministry for Environment and Water and is managed on its behalf by the Department of Environment and Water (DEW). State government legislation and associated regulations mean that development inside the park is restricted solely to structures associated with conservation management. There are currently no facilities within the park boundaries, apart from a few rough tracks.",
     "type": "Nature Reserve"
   },
   {
@@ -735,6 +816,7 @@
     "country": "Wales",
     "img": "/assets/images/Snowdonia.jpg",
     "link": "https://www.snowdonia.gov.wales/home",
+    "description": "Snowdonia National Park is the first UK National Park named in Wales, sprawling over more than 2,100 square kilometers of territory – some ten percent of the total land area of Wales. The Park’s name traditionally applied to a smaller, upland area of northern Gwynedd around Snowdon mountain, while the Park includes a land area more than twice that size and extending to the south well into the region of Meirionnydd. The terrain of Snowdonia largely consists of the mountainous lands that run the length of Wales, although its lower reaches extend into coastal areas. The rugged interior of the Park supports little human settlement to this day, and consequently has created a naturally dark haven separate from coastal cities. Along with Dark Sky Parks Brecon Beacons National Park and the Elan Valley Estate to its south, Snowdonia is among the darkest places remaining in southern Britain.",
     "type": "Nature Reserve"
   },
   {
@@ -744,6 +826,7 @@
     "country": "Estonia",
     "img": "/assets/images/Tartu.jpg",
     "link": "https://www.to.ee/eng/",
+    "description": "The Tartu Observatory is the largest astronomical observatory in Estonia. On January 1, 2018, Tartu Observatory joined again to Tartu University, and the observatory is now an institute of the university. It is located on the Tõravere hill, about 20 km south-west of Tartu in Nõo Parish, Tartu County. The old Tartu Observatory located in Tartu city centre, is known internationally for its connection to Friedrich Georg Wilhelm von Struve and the Struve Geodetic Arc, of which it is the first reference point.",
     "type": "Observatory"
   },
   {
@@ -753,6 +836,7 @@
     "country": "Japan",
     "img": "/assets/images/Ishigaki.jpg",
     "link": "https://www.nao.ac.jp/en/access/ishigakijima.html",
+    "description": "Ishigakijima Astronomical Observatory is operated through the cooperation of 6 organizations: NAOJ, Ishigaki City, Ishigaki City Education Committee, Specified Nonprofit Corporation Yaeyamahoshinokai, Okinawa Prefecture Ishigaki Youth Center, and University of the Ryukyus. Ishigakijima Astronomical Observatory is equipped with the “MURIKABUSHI Telescope,” an optical-infrared reflector telescope with a 105 cm aperture, the largest in the Kyushu-Okinawa area. It is used to conduct research observations of Solar System objects and transient astronomical objects as well as astronomy public outreach (facilities open to the public, stargazing parties, etc.).",
     "type": "Observatory"
   },
   {
@@ -762,6 +846,7 @@
     "country": "Italy",
     "img": "/assets/images/Padua.jpg",
     "link": "https://www.atlasobscura.com/places/la-specola-observatory",
+    "description": "Built in the 9th century as part of the medieval fortifications of Padua, the tower then known as Torlonga was used for centuries as a prison and torture hall. In the 14th century, it became part of the new castle of the ruling Carraresi family and was decorated with red and white paintings, which have sadly faded away with the centuries.",
     "type": "Observatory"
   },
   {
@@ -771,6 +856,7 @@
     "country": "Scotland",
     "img": "/assets/images/Edinburgh.jpg",
     "link": "https://www.roe.ac.uk/",
+    "description": "The Royal Observatory, Edinburgh (ROE) is an astronomical institution located on Blackford Hill in Edinburgh. The site is owned by the Science and Technology Facilities Council (STFC). The ROE comprises the UK Astronomy Technology Centre (UK ATC) of STFC, the Institute for Astronomy of the School of Physics and Astronomy of the University of Edinburgh, and the ROE Visitor Centre. The observatory carries out astronomical research and university teaching; design, project management, and construction of instruments and telescopes for astronomical observatories; and teacher training in astronomy and outreach to the public. The ROE Library includes the Crawford Collection of books and manuscripts gifted in 1888 by James Ludovic Lindsay, 26th Earl of Crawford. Before it moved to the present site in 1896, the Royal Observatory was located on Calton Hill, close to the centre of Edinburgh, at what is now known as the City Observatory.",
     "type": "Observatory"
   },
   {
@@ -780,6 +866,7 @@
     "country": "Russia",
     "img": "/assets/images/Pulkovo.jpg",
     "link": "https://www.britannica.com/topic/Pulkovo-Observatory",
+    "description": "The Pulkovo Astronomical Observatory (Russian: Пу́лковская астрономи́ческая обсервато́рия, official name The Central Astronomical Observatory of the Russian Academy of Sciences at Pulkovo, the principal astronomical observatory of the Russian Academy of Sciences, located 19 km south of Saint Petersburg on Pulkovo Heights 75 metres (246 ft) above sea level. It is part of the UNESCO World Heritage Site Historic Centre of Saint Petersburg and Related Groups of Monuments.",
     "type": "Observatory"
   },
   {
@@ -789,6 +876,7 @@
     "country": "United States",
     "img": "/assets/images/Lowell.jpg",
     "link": "https://lowell.edu/visit/",
+    "description": "Lowell Observatory is an astronomical observatory in Flagstaff, Arizona, United States. Lowell Observatory was established in 1894, placing it among the oldest observatories in the United States, and was designated a National Historic Landmark in 1965. In 2011, the Observatory was named one of 'The World's 100 Most Important Places' by TIME. It was at the Lowell Observatory that the dwarf planet Pluto was discovered in 1930 by Clyde Tombaugh. The observatory was founded by astronomer Percival Lowell of Boston's Lowell family and is overseen by a sole trustee, a position historically handed down through the family. The first trustee was Lowell's third cousin Guy Lowell (1916–1927). Percival's nephew Roger Putnam served from 1927 to 1967, followed by Roger's son Michael (1967–1987), Michael's brother William Lowell Putnam III (1987–2013), and current trustee W. Lowell Putnam",
     "type": "Observatory"
   },
   {
@@ -798,6 +886,7 @@
     "country": "Chile",
     "img": "/assets/images/La Silla.jpg",
     "link": "https://www.eso.org/public/spain/teles-instr/lasilla/",
+    "description": "La Silla Observatory is an astronomical observatory in Chile with three telescopes built and operated by the European Southern Observatory (ESO). Several other telescopes are located at the site and are partly maintained by ESO. The observatory is one of the largest in the Southern Hemisphere and was the first in Chile to be used by ESO. The La Silla telescopes and instruments are located 150 km northeast of La Serena at the outskirts of the Chilean Atacama Desert, one of the driest and most remote areas of the world. Like other observatories in this geographical area, La Silla is located far from sources of light pollution and, like the Paranal Observatory, home to the Very Large Telescope, it has one of the darkest night skies on the Earth.",
     "type": "Observatory"
   },
   {
@@ -807,6 +896,7 @@
     "country": "South Africa",
     "img": "/assets/images/South African Astronomical.jpg",
     "link": "https://www.saao.ac.za/",
+    "description": "South African Astronomical Observatory (SAAO) is the national centre for optical and infrared astronomy in South Africa. It was established in 1972. The observatory is run by the National Research Foundation of South Africa. The facility's function is to conduct research in astronomy and astrophysics. The primary telescopes are located in Sutherland, which is 370 kilometres (230 mi) from Observatory, Cape Town, where the headquarters is located. The SAAO has links worldwide for scientific and technological collaboration. Instrumental contributions from the South African Astronomical Observatory include the development of a spherical aberration corrector and the Southern African Large Telescope (SALT).",
     "type": "Observatory"
   },
   {
@@ -816,6 +906,7 @@
     "country": "Australia",
     "img": "/assets/images/Sydney.jpg",
     "link": "https://maas.museum/sydney-observatory/",
+    "description": "The amazing Sydney Observatory is not only positioned to give you a clear image of the night sky but also offer you a beautiful view of the Sydney Harbor. The inside of this observatory is all about the operation of a planetarium as well as a museum that is able to house a wealth of meteorology, astronomy as well as timekeeping equipment. Once you have finished exploring and browsing this observatory during the day time, you must reserve the night time by making the most of observing one of the two telescopes of the observatory. The first one is controlled by a computer and the second telescope is an 1874 refracting telescope which is also considered to be the oldest working telescope throughout the territory of Australia. This observatory is made open from 10 am to 5 pm daily. You always get the opportunity to reserve your nighttime session in advance by the way of doing it online.",
     "type": "Observatory"
   },
   {
@@ -825,6 +916,7 @@
     "country": "Antarctica",
     "img": "/assets/images/South Pole.jpg",
     "link": "https://pole.uchicago.edu/",
+    "description": "The South Pole Telescope (SPT) is a 10-meter (394 in) diameter telescope located at the Amundsen–Scott South Pole Station, Antarctica. The telescope is designed for observations in the microwave, millimeter-wave, and submillimeter-wave regions of the electromagnetic spectrum, with the particular design goal of measuring the faint, diffuse emission from the cosmic microwave background (CMB). The first major survey with the SPT–designed to find distant, massive, clusters of galaxies through their interaction with the CMB, with the goal of constraining the dark energy equation of state–was completed in October 2011. In early 2012, a new camera (SPTpol) was installed on the SPT with even greater sensitivity and the capability to measure the polarization of incoming light. This camera operated from 2012–2016 and was used to make unprecedentedly deep high-resolution maps of hundreds of square degrees of the Southern sky. In 2017, the third-generation camera SPT-3G was installed on the telescope, providing nearly an order-of-magnitude increase in mapping speed over SPTpol.",
     "type": "Observatory"
   },
   {
@@ -834,6 +926,7 @@
     "country": "United States",
     "img": "/assets/images/Yerkes.jpg",
     "link": "https://www.space.com/26858-yerkes-observatory.html",
+    "description": "The observatory is a facility of the University of Chicago and is housed in an ornate Romanesque-style building located on a 77-acre park-like site near Lake Geneva, Wisconsin, about a two-hour drive northwest of downtown Chicago. It opened in 1897 and was closed to almost all activity in 2018. The Yerkes refracting telescope was gigantic for its time, with a main tube that's 60 feet long (18 m). A refracting telescope is one of the two main types of astronomical telescopes. A refractor has the familiar spyglass design, which operates by gathering light through a large lens at one end of a long tube and focusing the light on an eyepiece, camera or other instrument at the opposite end. (The other type of telescope is the reflector, which uses a large mirror to gather light.) Including lenses, plus the usual attachments and other parts, the complete moving portion of the Yerkes telescope weighs 20 tons.",
     "type": "Observatory"
   },
   {
@@ -843,6 +936,7 @@
     "country": "United States",
     "img": "/assets/images/Kitt Peak.jpg",
     "link": "https://www.noao.edu/kpno/",
+    "description": "Kitt Peak National Observatory (KPNO), part of the National Optical Astronomy Observatory (NOAO), supports the most diverse collection of astronomical observatories on Earth for nighttime optical and infrared astronomy and daytime study of the Sun. Sharing the mountaintop site with the National Solar Observatory, KPNO, founded in 1958, operates three major nighttime telescopes and hosts the facilities of consortia which operate 22 optical telescopes and two radio telescopes. (See the Tenant Observatories list.) Kitt Peak is located 56 miles southwest of Tucson, AZ, in the Schuk Toak District on the Tohono O'odham Nation and has a Visitor Center open daily to the public.",
     "type": "Observatory"
   },
   {
@@ -852,6 +946,7 @@
     "country": "Puerto Rico",
     "img": "/assets/images/Arecibo.jpg",
     "link": "https://www.naic.edu/ao/",
+    "description": "The Arecibo Observatory is a radio telescope in the municipality of Arecibo, Puerto Rico. As of 2018, the observatory is operated by University of Central Florida, Yang Enterprises and UMET, under cooperative agreement with the US National Science Foundation (NSF). The observatory is the sole facility of the National Astronomy and Ionosphere Center (NAIC), which is the formal name of the observatory. From its construction in the 1960s until 2011, the observatory was managed by Cornell University. For more than 50 years, from its completion in 1963 until July 2016 when the Five hundred meter Aperture Spherical Telescope (FAST) in China was completed, the Arecibo Observatory's 1,000-foot (305-meter) radio telescope was the world's largest single-aperture telescope. It is used in three major areas of research: radio astronomy, atmospheric science, and radar astronomy. Scientists who want to use the observatory submit proposals that are evaluated by an independent scientific board.",
     "type": "Observatory"
   },
   {
@@ -861,6 +956,7 @@
     "country": "Chile",
     "img": "/assets/images/tokyo.jpeg",
     "link": "http://www.ioa.s.u-tokyo.ac.jp/TAO/en/index.html",
+    "description": "",
     "type": "Observatory"
   },
   {
@@ -870,6 +966,7 @@
     "country": "Chile",
     "img": "/assets/images/Ckoirama.jpg",
     "link": "http://www.astro.uantof.cl/research/observatorios/observatorio-ckoirama/",
+    "description": "The University of Tokyo Atacama Observatory (TAO) is an astronomical observatory located on the summit of Cerro Chajnantor, at an altitude of 5,640 m (18,500 ft) within a lava dome in the Atacama Desert of northern Chile. The site is located less than 5 km (3.1 mi) north-northeast of the Llano de Chajnantor Observatory, where the Atacama Large Millimeter Array (ALMA) is located, but is over 580 m (1,900 ft) higher in elevation. The eventual goal of the project is to construct the TAO telescope (or TAO 6.5m telescope), a 6.5 m (260 in) optical-infrared telescope at the site. A first step towards that goal has been the construction and installation of a 1.0 m (39 in) pilot telescope, called miniTAO, completed in 2009. With first light achieved in March 2009 in the visible region, and in June 2009 for the infrared region, the observatory has become the highest permanent astronomical observatory in the world. The high altitude of the observatory is essential for its mission, for it is an infrared light observatory, and infrared light is absorbed by the water vapor in the atmosphere making it imperative that an infrared observatory is located in high altitude where the atmosphere is sparse.",
     "type": "Observatory"
   },
   {
@@ -879,6 +976,7 @@
     "country": "Chile",
     "img": "/assets/images/Cielo Sur.jpg",
     "link": "http://www.cielosur.com/",
+    "description": "These facilities are part of a tourist complex located on 6 ha of land, it is located in the highest part of the Elqui Valley, in the town of Alcohuaz, Pisco Elqui. The domes houses telescopes that allow observation in the dark skies of the place and they are designed to harmonize with the environment and the architecture that characterizes the complex. In this way, passengers can enjoy the landscape and rest at the edge of the estuary that runs through the place, and you can enjoy the complementary activities associated with the observation of the stars. Visitors can take a tour that lasts between 60 and 90 minutes, observing the firmament with naked eye and with the use of instruments, a tour that is offered in Spanish, French or English.",
     "type": "Observatory"
   },
   {
@@ -888,6 +986,7 @@
     "country": "Ukraine",
     "img": "/assets/images/Crimea.jpg",
     "link": "http://www.techprofiles.org/index.php/ukrainian-institutes/891-crimean-astrophysical-observatory",
+    "description": "The Crimean Astrophysical Observatory (CrAO) is located at Nauchnij research campus, near the Central Crimean city of Bakhchysarai, on the Crimean peninsula. CrAO is often called simply by its location and campus name, Crimea–Nauchnij, still ranks among the worldwide most prolific discovery sites for minor planets. CrAO has also been publishing the Bulletin of the Crimean Astrophysical Observatory since 1947, in English since 1977. The observatory facilities are located on territory of settlement of Nauchny since the mid-1950s; before that, they were further south, near Simeiz. The latter facilities still see some use, and are referred to as the Crimean Astrophysical Observatory–Simeiz.",
     "type": "Observatory"
   },
   {
@@ -897,6 +996,7 @@
     "country": "Argentina",
     "img": "/assets/images/AmigosAstronomia.jpg",
     "link": "https://www.amigosdelaastronomia.org/",
+    "description": "Asociación Argentina Amigos de la Astronomía (AAAA, A.A.A.A. or asaramas; the Argentinian Association of the Friends of Astronomy; obs code: 834) is an amateur astronomy civil association based on Buenos Aires, Argentina, with the aim of spreading astronomy.[1] It was founded on January 4, 1929 and its field courses are held on related subjects, research in collaboration with professional bodies and printed publications or multimedia, and recreational activities for the general public. The main-belt asteroid 4756 Asaramas was named in honor of the observatory.",
     "type": "Observatory"
   },
   {
@@ -906,6 +1006,7 @@
     "country": "United States",
     "img": "/assets/images/Palomar.jpg",
     "link": "https://www.astro.caltech.edu/palomar/homepage.html",
+    "description": "Palomar Observatory is an astronomical observatory located in San Diego County, California, United States, 145 kilometers (90 mi) southeast of Los Angeles, California, in the Palomar Mountain Range. It is owned and operated by the California Institute of Technology (Caltech) located in Pasadena, California. Research time at the observatory is granted to Caltech and its research partners, which include the Jet Propulsion Laboratory (JPL) and Cornell University. The observatory operates several telescopes, including the 200-inch (5.1 m) Hale Telescope and the 48-inch (1.2 m) Samuel Oschin Telescope. In addition, other instruments and projects have been hosted at the observatory, such as the Palomar Testbed Interferometer and the historic 18-inch (0.46 m) Schmidt telescope, Palomar Observatory's first telescope, dating from 1936.",
     "type": "Observatory"
   },
   {
@@ -915,6 +1016,7 @@
     "country": "United States",
     "img": "/assets/images/Gemini.jpg",
     "link": "http://www.gemini.edu/",
+    "description": "The Gemini Observatory is an astronomical observatory consisting of two 8.1-metre (26.6 ft) telescopes, Gemini North and Gemini South, which are located at two separate sites in Hawaii and Chile, respectively. The twin Gemini telescopes provide almost complete coverage of both the northern and southern skies. They are currently among the largest and most advanced optical/infrared telescopes available to astronomers. The National Science Foundation (NSF) of the United States, the National Research Council of Canada, CONICYT of Chile, MCTI of Brazil, and MCTIP of Argentina own and operate the Gemini Observatory. The NSF is currently (2017) the majority partner, contributing approximately 70% of the funding needed to operate and maintain both telescopes. The operations and maintenance of the observatory is managed by the Association of Universities for Research in Astronomy (AURA), through a cooperative agreement with NSF. NSF acts as the Executive Agency on behalf of the international partners.",
     "type": "Observatory"
   },
   {
@@ -924,6 +1026,7 @@
     "country": "Chile",
     "img": "/assets/images/Las Campanas.jpg",
     "link": "http://www.lco.cl/",
+    "description": "Las Campanas Observatory (LCO) is an astronomical observatory owned and operated by the Carnegie Institution for Science (CIS). It is in the southern Atacama Desert of Chile in the Atacama Region approximately 100 kilometres (62 mi) northeast of the city of La Serena. The LCO telescopes and other facilities are near the north end of a 7 km (4.3 mi) long mountain ridge. Cerro Las Campanas, near the southern end and over 2,500 m (8,200 ft) high, is the future home of the Giant Magellan Telescope. LCO was established in 1969 and is the primary observing facility of CIS. It supplanted Mount Wilson Observatory in that role due to increasing light pollution in the Los Angeles area. The headquarters of Carnegie Observatories is located in Pasadena, California, while the main office in Chile is in La Serena next to the University of La Serena and a short distance from the Association of Universities for Research in Astronomy facility.",
     "type": "Observatory"
   },
   {
@@ -933,6 +1036,7 @@
     "country": "Argentina",
     "img": "/assets/images/Ampimpa.png",
     "link": "http://www.astrotuc.com.ar/",
+    "description": "The Observatory is located in Ampimpa, natural balcony to the Santa María Valley, facing Quilmes mountain range and simultaneously looking to the provinces of Tucumán, Catamarca y Salta.",
     "type": "Observatory"
   },
   {
@@ -942,6 +1046,7 @@
     "country": "United States",
     "img": "/assets/images/Cachuma.jpg",
     "link": "http://www.countyofsb.org/parks/cachuma.sbc",
+    "description": "Cachuma Lake is a reservoir in the Santa Ynez Valley of central Santa Barbara County, California on the Santa Ynez River adjoining the north side of California State Route 154. The artificial lake was created by the construction of Bradbury Dam, a 201 ft (61 m) earth-fill structure built by the U.S. Bureau of Reclamation in 1953. Its surface area covers 3,100 acres (1,300 ha), with a maximum design capacity of 205,000 acre⋅ft (253,000,000 m3), but it is currently limited to 188,000 acre⋅ft (232,000,000 m3) due to sediment accumulation. As of May 23, 2019, it is at 80.8% of capacity.",
     "type": "Recreational Area"
   },
   {
@@ -951,6 +1056,7 @@
     "country": "Bolivia",
     "img": "/assets/images/Salar de Uyuni.jpg",
     "link": "https://www.ngenespanol.com/naturaleza/revista-impresa-junio-2017-salar-de-uyuni-bolivia-deposito-de-litio/",
+    "description": "Salar de Uyuni (or Salar de Tunupa)[1] is the world's largest salt flat, at 10,582 square kilometers (4,086 sq mi). It is in the Daniel Campos Province in Potosí in southwest Bolivia, near the crest of the Andes at an elevation of 3,656 meters (11,995 ft) above sea level. The Salar was formed as a result of transformations between several prehistoric lakes. It is covered by a few meters of salt crust, which has an extraordinary flatness with the average elevation variations within one meter over the entire area of the Salar. The crust serves as a source of salt and covers a pool of brine, which is exceptionally rich in lithium. It contains 50% to 70% of the world's known lithium reserves according to a 2009 Foreign Policy article by Joshua Keating. The large area, clear skies, and exceptional flatness of the surface make the Salar ideal for calibrating the altimeters of Earth observation satellites.Following rain, a thin layer of dead calm water transforms the flat into the world's largest mirror, 129 kilometres (80 miles) across.",
     "type": "Recreational Area"
   },
   {
@@ -960,6 +1066,7 @@
     "country": "United States",
     "img": "/assets/images/Mojave.jpg",
     "link": "https://www.nps.gov/moja/index.htm",
+    "description": "Mojave National Preserve is a United States National Preserve located in the Mojave Desert of San Bernardino County, California, USA, between Interstate 15 and Interstate 40. The preserve was established October 31, 1994, with the passage of the California Desert Protection Act by the US Congress. Previously, it was the East Mojave National Scenic Area, under the jurisdiction of the Bureau of Land Management. At 1,542,776 acres (6,243 km2), it is the third largest unit of the National Park System in the contiguous United States. Natural features include the Kelso Dunes, the Marl Mountains and the Cima Dome, as well as volcanic formations such as Hole-in-the-Wall and the Cinder Cone Lava Beds. The preserve encloses Providence Mountains State Recreation Area and Mitchell Caverns Natural Preserve, which are both managed by the California Department of Parks and Recreation.",
     "type": "Nature Reserve"
   },
   {
@@ -969,6 +1076,7 @@
     "country": "United States",
     "img": "/assets/images/Yosemite.jpg",
     "link": "https://www.nps.gov/yose/index.htm",
+    "description": "Yosemite National Park is an American national park located in the western Sierra Nevada of Central California, bounded on the southeast by Sierra National Forest and on the northwest by Stanislaus National Forest. The park is managed by the National Park Service and covers an area of 748,436 acres (1,169 sq mi; 3,029 km2) and sits in four counties: centered in Tuolumne and Mariposa, extending north and east to Mono and south to Madera County. Designated a World Heritage site in 1984, Yosemite is internationally recognized for its granite cliffs, waterfalls, clear streams, giant sequoia groves, lakes, mountains, meadows, glaciers, and biological diversity. Almost 95% of the park is designated wilderness.",
     "type": "National Park"
   },
   {
@@ -978,6 +1086,7 @@
     "country": "United States",
     "img": "/assets/images/Sequioa.jpg",
     "link": "https://www.visitsequoia.com/",
+    "description": "Sequoia National Park is an American national park in the southern Sierra Nevada east of Visalia, California. The park was established on September 25, 1890 to protect 404,064 acres (631 sq mi; 163,519 ha; 1,635 km2) of forested mountainous terrain. Encompassing a vertical relief of nearly 13,000 feet (4,000 m), the park contains the highest point in the contiguous United States, Mount Whitney, at 14,505 feet (4,421 m) above sea level. The park is south of, and contiguous with, Kings Canyon National Park; both parks are administered by the National Park Service together as the Sequoia and Kings Canyon National Parks. UNESCO designated the areas as Sequoia-Kings Canyon Biosphere Reserve in 1976.",
     "type": "National Park"
   },
   {
@@ -987,6 +1096,7 @@
     "country": "United States",
     "img": "/assets/images/Lassen.jpg",
     "link": "https://www.nps.gov/lavo/index.htm",
+    "description": "Lassen Volcanic National Park is an American national park in northeastern California. The dominant feature of the park is Lassen Peak, the largest plug dome volcano in the world and the southernmost volcano in the Cascade Range. Lassen Volcanic National Park started as two separate national monuments designated by President Theodore Roosevelt in 1907: Cinder Cone National Monument and Lassen Peak National Monument. The source of heat for the volcanism in the Lassen area is subduction of the Gorda Plate diving below the North American Plate off the Northern California coast. The area surrounding Lassen Peak is still active with boiling mud pots, fumaroles, and hot springs. Lassen Volcanic National Park is one of the few areas in the world where all four types of volcano can be found—plug dome, shield, cinder cone, and stratovolcano.",
     "type": "National Park"
   },
   {
@@ -996,6 +1106,7 @@
     "country": "Chile",
     "img": "/assets/images/Elqui.jpg",
     "link": "https://chile.travel/en/where-to-go/north-and-the-atacama-desert/elqui-valley",
+    "description": "The Atacama desert may be the driest non-polar place on Earth but on its southern fringe is a stretch of vineyard-lined hills – the Elqui valley. This streak of green in arid northern Chile wiggles inland from the Pacific near the nation’s second-oldest city, La Serena. Historically the domain of agriculturists, it’s now increasingly visited by people with a different profession: astronomy. The International Dark-Sky Association declared Elqui valley the world’s first International Dark Sky Sanctuary in 2015 due to the unrivalled purity of its skies. On 2 July 2019, the same cloudless sky that makes Elqui ideal for stargazing will be all but guaranteed when the moon blocks out the sun to create a total solar eclipse.",
     "type": "Recreational Area"
   },
   {
@@ -1005,6 +1116,7 @@
     "country": "Ecuador",
     "img": "/assets/images/Chimborazo.jpg",
     "link": "https://es.wikipedia.org/wiki/Volc%C3%A1n_Chimborazo",
+    "description": "Chimborazo (Spanish pronunciation: [tʃimboˈɾaso] (About this soundlisten)) is a currently inactive stratovolcano in the Cordillera Occidental range of the Andes. Its last known eruption is believed to have occurred around 550 A.D. Chimborazo’s summit is also the farthest point on the Earth’s surface from the Earth’s center given that it is located along the planet’s equatorial bulge. Chimborazo’s summit, therefore, is at a higher point than the summit of Mount Everest which is measured from sea level. Despite this, it is only the 39th highest peak in its own range. Like Everest, Chimborazo is also known for climbing. Chimborazo’s climb demands skill and is often on black ice in which crampons and other high tech climbing equipment are required.",
     "type": "Recreational Area"
   }
 ]

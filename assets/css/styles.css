@@ -177,3 +177,13 @@ option{
     display:none;
     padding: 0;
 }
+
+button{
+    margin-left:60%;
+    margin-top:10%;
+    background-color: #91b4f3;
+    padding: 1em;
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+    border:none;
+}

@@ -151,6 +151,7 @@ const addMarker = (map, marker) => {
             <h3>${type}</h3>
             <a href="${link}" target="_blank">More information</a>
         </div>
+        <button>More Information</button>
     </div>`;
     const infowindow = new google.maps.InfoWindow({
         content: contentString
