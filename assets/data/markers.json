@@ -5,7 +5,7 @@
     "name": "Death Valley",
     "country": "United States",
     "img": "/assets/images/deathvalley.jpg",
-    "description": "https://www.nps.gov/deva/index.htm",
+    "link": "https://www.nps.gov/deva/index.htm",
     "type": "National Park"
   },
   {
@@ -14,7 +14,7 @@
     "name": "Warrumbungle National Park",
     "country": "Australia",
     "img": "/assets/images/warrumbungle.jpg",
-    "description": "https://www.nationalparks.nsw.gov.au/conservation-and-heritage/our-parks/dark-sky-parks",
+    "link": "https://www.nationalparks.nsw.gov.au/conservation-and-heritage/our-parks/dark-sky-parks",
     "type": "National Park"
   },
   {
@@ -23,7 +23,7 @@
     "name": "Yeongyang Firefly Eco Park",
     "country": "South Korea",
     "img": "/assets/images/Parque Ecológico de Luciérnagas de Yeongyang .jpg",
-    "description": "http://www.yyg.go.kr/toureng/tourist_attraction/darksky_parks/international_parks",
+    "link": "http://www.yyg.go.kr/toureng/tourist_attraction/darksky_parks/international_parks",
     "type": "National Park"
   },
   {
@@ -32,7 +32,7 @@
     "name": "Great Sand Dunes National Park And Preserve",
     "country": "United States",
     "img": "/assets/images/sanddunes.jpg",
-    "description": "https://www.nps.gov/grsa/index.htm",
+    "link": "https://www.nps.gov/grsa/index.htm",
     "type": "National Park"
   },
   {
@@ -41,7 +41,7 @@
     "name": "Sagarmatha National Park",
     "country": "Nepal",
     "img": "/assets/images/sagarmatha.jpg",
-    "description": "https://www.sagarmathanationalpark.gov.np/",
+    "link": "https://www.sagarmathanationalpark.gov.np/",
     "type": "National Park"
   },
   {
@@ -50,7 +50,7 @@
     "name": "Anza-Borrego Desert State Park",
     "country": "United States",
     "img": "/assets/images/anzo.jpg",
-    "description": "http://www.parks.ca.gov/?page_id=638",
+    "link": "http://www.parks.ca.gov/?page_id=638",
     "type": "National Park"
   },
   {
@@ -59,7 +59,7 @@
     "name": "Big Cypress National Preserve",
     "country": "United States",
     "img": "/assets/images/cypress.jpg",
-    "description": "https://www.nps.gov/bicy/index.htm",
+    "link": "https://www.nps.gov/bicy/index.htm",
     "type": "National Park"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Cherry Springs State Park",
     "country": "United States",
     "img": "/assets/images/cherry.jpg",
-    "description": "https://cherryspringsstatepark.com/",
+    "link": "https://cherryspringsstatepark.com/",
     "type": "National Park"
   },
   {
@@ -77,7 +77,7 @@
     "name": "Antelope Island State Park",
     "country": "United States",
     "img": "/assets/images/Antelope Island State Park, Utah.jpg",
-    "description": "https://utah.com/antelope-island-state-park",
+    "link": "https://utah.com/antelope-island-state-park",
     "type": "National Park"
   },
   {
@@ -86,7 +86,7 @@
     "name": "Newport State Park",
     "country": "United States",
     "img": "/assets/images/newport.jpg",
-    "description": "https://dnr.wi.gov/topic/parks/name/newport/",
+    "link": "https://dnr.wi.gov/topic/parks/name/newport/",
     "type": "National Park"
   },
   {
@@ -95,7 +95,7 @@
     "name": "Brecon Beacons National Park",
     "country": "Wales",
     "img": "/assets/images/brecon.jpg",
-    "description": "https://www.breconbeacons.org/",
+    "link": "https://www.breconbeacons.org/",
     "type": "National Park"
   },
   {
@@ -104,7 +104,7 @@
     "name": "Kerry",
     "country": "Ireland",
     "img": "/assets/images/Kerry International Dark Sky Reserve.jpg",
-    "description": "https://www.ireland.com/en-us/destinations/republic-of-ireland/kerry/",
+    "link": "https://www.ireland.com/en-us/destinations/republic-of-ireland/kerry/",
     "type": "Nature Reserve"
   },
   {
@@ -113,7 +113,7 @@
     "name": "NamibRand Nature Reserve",
     "country": "Namibia",
     "img": "/assets/images/Namib.jpg",
-    "description": "http://www.namibrand.com/tourism.html",
+    "link": "http://www.namibrand.com/tourism.html",
     "type": "Nature Reserve"
   },
   {
@@ -122,7 +122,7 @@
     "name": "Aoraki Mackenzie",
     "country": "New Zealand",
     "img": "/assets/images/Aoraki Mackenzie.jpg",
-    "description": "https://mackenzienz.com/scenic-highlights/dark-sky-reserve/",
+    "link": "https://mackenzienz.com/scenic-highlights/dark-sky-reserve/",
     "type": "Nature Reserve"
   },
   {
@@ -131,7 +131,7 @@
     "name": "Westhavelland",
     "country": "Germany",
     "img": "/assets/images/Westhavelland.jpg",
-    "description": "https://www.westhavelland-naturpark.de/en/",
+    "link": "https://www.westhavelland-naturpark.de/en/",
     "type": "Nature Reserve"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Rhön",
     "country": "Germany",
     "img": "/assets/images/Rhön.jpg",
-    "description": "https://www.rhoen.de/en/the-rhoen/index.html",
+    "link": "https://www.rhoen.de/en/the-rhoen/index.html",
     "type": "Nature Reserve"
   },
   {
@@ -149,7 +149,7 @@
     "name": "Gúdar-Javalambre",
     "country": "Spain",
     "img": "/assets/images/Gúdar-Javalambre en Teruel.jpg",
-    "description": "https://gudarjavalambre.es/",
+    "link": "https://gudarjavalambre.es/",
     "type": "Nature Reserve"
   },
   {
@@ -158,7 +158,7 @@
     "name": "Cranborne Chase",
     "country": "United Kingdom",
     "img": "/assets/images/Cranborne Chase.jpg",
-    "description": "http://www.ccwwdaonb.org.uk/",
+    "link": "http://www.ccwwdaonb.org.uk/",
     "type": "Nature Reserve"
   },
   {
@@ -167,7 +167,7 @@
     "name": "Mont-Mégantic",
     "country": "Canada",
     "img": "/assets/images/Mont-Mégantic.jpg",
-    "description": "https://www.sepaq.com/pq/mme/index.dot?language_id=1",
+    "link": "https://www.sepaq.com/pq/mme/index.dot?language_id=1",
     "type": "Nature Reserve"
   },
   {
@@ -176,7 +176,7 @@
     "name": "Pic du Midi",
     "country": "France",
     "img": "/assets/images/picdumundi.jpg",
-    "description": "https://picdumidi.com/",
+    "link": "https://picdumidi.com/",
     "type": "Observatory"
   },
   {
@@ -185,7 +185,7 @@
     "name": "Siding Spring Observatory",
     "country": "Australia",
     "img": "/assets/images/sidingspring.jpg",
-    "description": "https://www.sidingspringobservatory.com.au/",
+    "link": "https://www.sidingspringobservatory.com.au/",
     "type": "Observatory"
   },
   {
@@ -194,7 +194,7 @@
     "name": "Very Large Telescope",
     "country": "Chile",
     "img": "/assets/images/verylargetelescope.jpg",
-    "description": "https://www.space.com/40736-very-large-telescope.html",
+    "link": "https://www.space.com/40736-very-large-telescope.html",
     "type": "Observatory"
   },
   {
@@ -203,7 +203,7 @@
     "name": "Mauna Kea",
     "country": "United States",
     "img": "/assets/images/maunakea.jpg",
-    "description": "https://www.gohawaii.com/es/islands/hawaii-big-island/things-to-do/land-activities/Stargazing",
+    "link": "https://www.gohawaii.com/es/islands/hawaii-big-island/things-to-do/land-activities/Stargazing",
     "type": "Observatory"
   },
   {
@@ -212,7 +212,7 @@
     "name": "Roque de los Muchachos Observatory",
     "country": "Spain",
     "img": "/assets/images/roquedelosmuchachos.jpg",
-    "description": "https://www.iac.es/es/observatorios-de-canarias/observatorio-del-roque-de-los-muchachos",
+    "link": "https://www.iac.es/es/observatorios-de-canarias/observatorio-del-roque-de-los-muchachos",
     "type": "Observatory"
   },
   {
@@ -221,7 +221,7 @@
     "name": "La Sagra Observatory",
     "country": "Spain",
     "img": "/assets/images/sagra.jpg",
-    "description": "http://www.observatoriodelasagra.com/",
+    "link": "http://www.observatoriodelasagra.com/",
     "type": "Observatory"
   },
   {
@@ -230,7 +230,7 @@
     "name": "Atacama Large Millimeter/submillimeter Array",
     "country": "Chile",
     "img": "/assets/images/alma.jpg",
-    "description": "https://www.almaobservatory.org/es/inicio/",
+    "link": "https://www.almaobservatory.org/es/inicio/",
     "type": "Observatory"
   },
   {
@@ -239,7 +239,7 @@
     "name": "El Leoncito Observatory",
     "country": "Spain",
     "img": "/assets/images/leoncito.jpg",
-    "description": "https://casleo.conicet.gov.ar/",
+    "link": "https://casleo.conicet.gov.ar/",
     "type": "Observatory"
   },
   {
@@ -248,7 +248,7 @@
     "name": "Galileo Galilei Planetarium",
     "country": "Argentina",
     "img": "/assets/images/planetario.jpg",
-    "description": "https://planetario.buenosaires.gob.ar/",
+    "link": "https://planetario.buenosaires.gob.ar/",
     "type": "Observatory"
   },
   {
@@ -257,7 +257,7 @@
     "name": "Denali National Park",
     "country": "United States",
     "img": "/assets/images/The Kola Peninsula.jpg",
-    "description": "https://www.nps.gov/dena/index.htm",
+    "link": "https://www.nps.gov/dena/index.htm",
     "type": "Northern Lights"
   },
   {
@@ -266,7 +266,7 @@
     "name": "The Kola Peninsula",
     "country": "Russia",
     "img": "/assets/images/The Kola Peninsula.jpg",
-    "description": "https://www.lonelyplanet.com/russia/kola-peninsula",
+    "link": "https://www.lonelyplanet.com/russia/kola-peninsula",
     "type": "Northern Lights"
   },
   {
@@ -275,7 +275,7 @@
     "name": "The Upper Peninsula, Michigan",
     "country": "United States",
     "img": "/assets/images/Upper Peninsula.jpg",
-    "description": "https://www.michigan.org/hot-spots/upper-peninsula",
+    "link": "https://www.michigan.org/hot-spots/upper-peninsula",
     "type": "Northern Lights"
   },
   {
@@ -284,7 +284,7 @@
     "name": "Kangerlussuaq",
     "country": "Greenland",
     "img": "/assets/images/Kangerlussuaq.jpg",
-    "description": "https://visitgreenland.com/destinations/kangerlussuaq/",
+    "link": "https://visitgreenland.com/destinations/kangerlussuaq/",
     "type": "Northern Lights"
   },
   {
@@ -293,7 +293,7 @@
     "name": "Reykjavik",
     "country": "Iceland",
     "img": "/assets/images/Reykjavik.jpg",
-    "description": "https://visitreykjavik.is/",
+    "link": "https://visitreykjavik.is/",
     "type": "Northern Lights"
   },
   {
@@ -302,7 +302,7 @@
     "name": "Jukkasjärvi",
     "country": "Sweden",
     "img": "/assets/images/Jukkasjärvi.jpg",
-    "description": "https://www.kirunalapland.se/en/see-do/jukkasjarvi-2/",
+    "link": "https://www.kirunalapland.se/en/see-do/jukkasjarvi-2/",
     "type": "Northern Lights"
   },
   {
@@ -311,7 +311,7 @@
     "name": "Yellowknife",
     "country": "Canada",
     "img": "/assets/images/Yellowknife.jpg",
-    "description": "https://www.yellowknife.ca/en/index.asp",
+    "link": "https://www.yellowknife.ca/en/index.asp",
     "type": "Northern Lights"
   },
   {
@@ -320,7 +320,7 @@
     "name": "Orkney",
     "country": "Scotland",
     "img": "/assets/images/Orkney.jpg",
-    "description": "https://www.orkney.com/",
+    "link": "https://www.orkney.com/",
     "type": "Northern Lights"
   },
   {
@@ -329,7 +329,7 @@
     "name": "Lapland",
     "country": "Finland",
     "img": "/assets/images/Lapland.jpg",
-    "description": "https://www.visitfinland.com/lapland/",
+    "link": "https://www.visitfinland.com/lapland/",
     "type": "Northern Lights"
   },
   {
@@ -338,7 +338,7 @@
     "name": "Tromsø",
     "country": "Norway",
     "img": "/assets/images/Tromso-norway.jpg",
-    "description": "https://www.visitnorway.es/que-ver-en-noruega/norte-de-noruega/tromso/",
+    "link": "https://www.visitnorway.es/que-ver-en-noruega/norte-de-noruega/tromso/",
     "type": "Northern Lights"
   },
   {
@@ -347,7 +347,7 @@
     "name": "Fairbanks",
     "country": "United States",
     "img": "/assets/images/Fairbanks.jpg",
-    "description": "https://www.explorefairbanks.com/spanish/",
+    "link": "https://www.explorefairbanks.com/spanish/",
     "type": "Northern Lights"
   },
   {
@@ -356,7 +356,7 @@
     "name": "Saadjärv",
     "country": "Estonia",
     "img": "/assets/images/Saadjärv.jpg",
-    "description": "https://www.visitestonia.com/en/lake-saadjarv",
+    "link": "https://www.visitestonia.com/en/lake-saadjarv",
     "type": "Northern Lights"
   },
   {
@@ -365,7 +365,7 @@
     "name": "Ilulissat",
     "country": "Greenland",
     "img": "/assets/images/Ilulissat.jpg",
-    "description": "https://visitgreenland.com/destinations/ilulissat/",
+    "link": "https://visitgreenland.com/destinations/ilulissat/",
     "type": "Northern Lights"
   },
   {
@@ -374,7 +374,7 @@
     "name": "Yukon",
     "country": "Canada",
     "img": "/assets/images/yukon.jpg",
-    "description": "https://www.travelyukon.com/",
+    "link": "https://www.travelyukon.com/",
     "type": "Northern Lights"
   },
   {
@@ -383,7 +383,7 @@
     "name": "Murmansk",
     "country": "Russia",
     "img": "/assets/images/Murmansk.jpg",
-    "description": "http://www.goingrussia.com/portfolio-item/murmansk/?lang=es",
+    "link": "http://www.goingrussia.com/portfolio-item/murmansk/?lang=es",
     "type": "Northern Lights"
   },
   {
@@ -392,7 +392,7 @@
     "name": "Abisko",
     "country": "Sweden",
     "img": "/assets/images/Abisko.jpg",
-    "description": "https://www.visitabisko.com/",
+    "link": "https://www.visitabisko.com/",
     "type": "Northern Lights"
   },
   {
@@ -401,7 +401,7 @@
     "name": "Kirkenes",
     "country": "Norway",
     "img": "/assets/images/Kirkenes.jpg",
-    "description": "https://www.visitnorway.es/que-ver-en-noruega/norte-de-noruega/kirkenes-este-finnmark/",
+    "link": "https://www.visitnorway.es/que-ver-en-noruega/norte-de-noruega/kirkenes-este-finnmark/",
     "type": "Northern Lights"
   },
   {
@@ -410,7 +410,7 @@
     "name": "Moray Coast",
     "country": "Scotland",
     "img": "/assets/images/Moray Coast.jpg",
-    "description": "https://www.thechaoticscot.com/moray-coast/",
+    "link": "https://www.thechaoticscot.com/moray-coast/",
     "type": "Northern Lights"
   },
   {
@@ -419,7 +419,7 @@
     "name": "Sandgerdi",
     "country": "Iceland",
     "img": "/assets/images/sandgerdi.jpg",
-    "description": "https://www.visitreykjanes.is/en/moya/toy/index/town/sandgerdi",
+    "link": "https://www.visitreykjanes.is/en/moya/toy/index/town/sandgerdi",
     "type": "Northern Lights"
   },
   {
@@ -428,7 +428,7 @@
     "name": "Inari",
     "country": "Finland",
     "img": "/assets/images/inari.jpg",
-    "description": "https://visitinari.fi/",
+    "link": "https://visitinari.fi/",
     "type": "Northern Lights"
   },
   {
@@ -437,7 +437,7 @@
     "name": "Donegal",
     "country": "Ireland",
     "img": "/assets/images/donegal.jpg",
-    "description": "https://www.ireland.com/en-gb/articles/destinations/donegal/county-donegal/",
+    "link": "https://www.ireland.com/en-gb/articles/destinations/donegal/county-donegal/",
     "type": "Northern Lights"
   },
   {
@@ -446,7 +446,7 @@
     "name": "Naryan-Mar",
     "country": "Russia",
     "img": "/assets/images/naryan-mar.jpg",
-    "description": "https://www.britannica.com/place/Naryan-Mar",
+    "link": "https://www.britannica.com/place/Naryan-Mar",
     "type": "Northern Lights"
   },
   {
@@ -455,7 +455,7 @@
     "name": "Tasmania",
     "country": "Australia",
     "img": "/assets/images/tasmania.jpg",
-    "description": "https://www.discovertasmania.com.au/",
+    "link": "https://www.discovertasmania.com.au/",
     "type": "Northern Lights"
   },
   {
@@ -464,7 +464,7 @@
     "name": "Ushuaia",
     "country": "Argentina",
     "img": "/assets/images/ushuaia.jpg",
-    "description": "http://turismoushuaia.com/zonas/ciudad-ushuaia/",
+    "link": "http://turismoushuaia.com/zonas/ciudad-ushuaia/",
     "type": "Northern Lights"
   },
   {
@@ -473,7 +473,7 @@
     "name": "Rakiura",
     "country": "New Zealand",
     "img": "/assets/images/rakiura.jpg",
-    "description": "https://www.newzealand.com/ar/feature/national-parks-rakiura/",
+    "link": "https://www.newzealand.com/ar/feature/national-parks-rakiura/",
     "type": "Northern Lights"
   },
   {
@@ -482,7 +482,7 @@
     "name": "Dinosaur National Monument",
     "country": "United States",
     "img": "/assets/images/dinosaur.jpg",
-    "description": "https://www.nps.gov/dino/index.htm",
+    "link": "https://www.nps.gov/dino/index.htm",
     "type": "National Park"
   },
   {
@@ -491,7 +491,7 @@
     "name": "Albanyà",
     "country": "Spain",
     "img": "/assets/images/Albanya.jpg",
-    "description": "http://www.albanya.cat/",
+    "link": "http://www.albanya.cat/",
     "type": "National Park"
   },
   {
@@ -500,7 +500,7 @@
     "name": "Arches",
     "country": "United States",
     "img": "/assets/images/Arches.jpg",
-    "description": "https://www.nps.gov/arch/index.htm",
+    "link": "https://www.nps.gov/arch/index.htm",
     "type": "National Park"
   },
   {
@@ -509,7 +509,7 @@
     "name": "Ballycroy National Park and Wild Nephin Wilderness",
     "country": "Ireland",
     "img": "/assets/images/Ballycroy.png",
-    "description": "https://www.wildnephinnationalpark.ie/",
+    "link": "https://www.wildnephinnationalpark.ie/",
     "type": "National Park"
   },
   {
@@ -518,7 +518,7 @@
     "name": "Bükk National Park",
     "country": "Hungary",
     "img": "/assets/images/Bukk.png",
-    "description": "https://ourwanders.com/bukk-national-park-hungary/",
+    "link": "https://ourwanders.com/bukk-national-park-hungary/",
     "type": "National Park"
   },
   {
@@ -527,7 +527,7 @@
     "name": "Big Bend National Park",
     "country": "United States",
     "img": "/assets/images/Big Bend.jpg",
-    "description": "https://www.nps.gov/bibe/index.htm",
+    "link": "https://www.nps.gov/bibe/index.htm",
     "type": "National Park"
   },
   {
@@ -536,7 +536,7 @@
     "name": "Black Canyon of the Gunnison National Park",
     "country": "United States",
     "img": "/assets/images/Gunnison.jpg",
-    "description": "https://www.nps.gov/blca/index.htm",
+    "link": "https://www.nps.gov/blca/index.htm",
     "type": "National Park"
   },
   {
@@ -545,7 +545,7 @@
     "name": "Bodmin Moor Dark Sky Landscape",
     "country": "England",
     "img": "/assets/images/Bodmin.jpg",
-    "description": "https://www.darksky.org/our-work/conservation/idsp/parks/bodminmoor/",
+    "link": "https://www.darksky.org/our-work/conservation/idsp/parks/bodminmoor/",
     "type": "National Park"
   },
   {
@@ -554,7 +554,7 @@
     "name": "De Boschplaat",
     "country": "Netherlands",
     "img": "/assets/images/De Boschplaat.jpg",
-    "description": "https://www.darksky.org/our-work/conservation/idsp/parks/deboschplaat/",
+    "link": "https://www.darksky.org/our-work/conservation/idsp/parks/deboschplaat/",
     "type": "National Park"
   },
   {
@@ -563,7 +563,7 @@
     "name": "Hehuan Mountain",
     "country": "Taiwan",
     "img": "/assets/images/Hehuan.jpg",
-    "description": "https://www.taroko.gov.tw/en/Tourism/TrailDetail?id=131",
+    "link": "https://www.taroko.gov.tw/en/Tourism/TrailDetail?id=131",
     "type": "National Park"
   },
   {
@@ -572,7 +572,7 @@
     "name": "Hortobagy",
     "country": "Hungary",
     "img": "/assets/images/Hortobagy.jpg",
-    "description": "https://www.hnp.hu/en",
+    "link": "https://www.hnp.hu/en",
     "type": "National Park"
   },
   {
@@ -581,7 +581,7 @@
     "name": "Iriomote-Ishigaki National Park",
     "country": "Japan",
     "img": "/assets/images/Iriomote-Ishigaki.png",
-    "description": "https://www.env.go.jp/en/nature/nps/park/iriomote/index.html",
+    "link": "https://www.env.go.jp/en/nature/nps/park/iriomote/index.html",
     "type": "National Park"
   },
   {
@@ -590,7 +590,7 @@
     "name": "Lauwersmeer National Park",
     "country": "Netherlands",
     "img": "/assets/images/Lauwersmeer.jpg",
-    "description": "https://www.np-lauwersmeer.nl/english-information/",
+    "link": "https://www.np-lauwersmeer.nl/english-information/",
     "type": "National Park"
   },
   {
@@ -599,7 +599,7 @@
     "name": "Mon and Nyord National Park",
     "country": "Denmark",
     "img": "/assets/images/MonAndNyord.png",
-    "description": "https://www.visitdenmark.com/denmark/explore/dark-sky-mon-and-nyord-gdk1102186",
+    "link": "https://www.visitdenmark.com/denmark/explore/dark-sky-mon-and-nyord-gdk1102186",
     "type": "National Park"
   },
   {
@@ -608,7 +608,7 @@
     "name": "Northumberland National Park and Kielder Water & Forest Park",
     "country": "England",
     "img": "/assets/images/Northumberland.jpg",
-    "description": "https://www.visitnorthumberland.com/kielder-water-forest-park",
+    "link": "https://www.visitnorthumberland.com/kielder-water-forest-park",
     "type": "National Park"
   },
   {
@@ -617,7 +617,7 @@
     "name": "Petrova gora-Biljeg",
     "country": "Croatia",
     "img": "/assets/images/PetrovaGora.jpg",
-    "description": "https://www.croatiaweek.com/petrova-gora-in-croatia-proclaimed-an-international-dark-sky-park/",
+    "link": "https://www.croatiaweek.com/petrova-gora-in-croatia-proclaimed-an-international-dark-sky-park/",
     "type": "National Park"
   },
   {
@@ -626,7 +626,7 @@
     "name": "Ramon Crater",
     "country": "Israel",
     "img": "/assets/images/Ramon Crater.jpg",
-    "description": "https://www.touristisrael.com/the-ramon-crater-makhtesh-ramon/2303/",
+    "link": "https://www.touristisrael.com/the-ramon-crater-makhtesh-ramon/2303/",
     "type": "National Park"
   },
   {
@@ -635,7 +635,7 @@
     "name": "Tomintoul and Glenlivet – Cairngorms",
     "country": "Scotland",
     "img": "/assets/images/Tomintoul and Glenlivet.jpg",
-    "description": "https://cairngorms.co.uk/working-together/supporting-communities/tomintoul-and-glenlivet/",
+    "link": "https://cairngorms.co.uk/working-together/supporting-communities/tomintoul-and-glenlivet/",
     "type": "Northern Lights"
   },
   {
@@ -644,7 +644,7 @@
     "name": "Vrani kamen",
     "country": "Croatia",
     "img": "/assets/images/Vrani kamen.jpg",
-    "description": "https://www.darksky.org/our-work/conservation/idsp/parks/vrani-kamen-croatia/",
+    "link": "https://www.darksky.org/our-work/conservation/idsp/parks/vrani-kamen-croatia/",
     "type": "National Park"
   },
   {
@@ -653,7 +653,7 @@
     "name": "Waterton-Glacier International Peace Park",
     "country": "United States",
     "img": "/assets/images/Waterton-Glacier.png",
-    "description": "https://www.pc.gc.ca/en/culture/spm-whs/sites-canada/sec02l",
+    "link": "https://www.pc.gc.ca/en/culture/spm-whs/sites-canada/sec02l",
     "type": "National Park"
   },
   {
@@ -662,7 +662,7 @@
     "name": "Winklmoosalm",
     "country": "Germany",
     "img": "/assets/images/Winklmoosalm.jpg",
-    "description": "http://www.winklmoosalm.de/",
+    "link": "http://www.winklmoosalm.de/",
     "type": "National Park"
   },
   {
@@ -671,7 +671,7 @@
     "name": "Zselic National Landscape Protection Area",
     "country": "Hungary",
     "img": "/assets/images/Zselic.jpg",
-    "description": "https://zselicicsillagpark.hu/en.php",
+    "link": "https://zselicicsillagpark.hu/en.php",
     "type": "National Park"
   },
   {
@@ -680,7 +680,7 @@
     "name": "Alpes Azur Mercantour",
     "country": "France",
     "img": "/assets/images/Alpes Azur.jpg",
-    "description": "https://www.darksky.org/our-work/conservation/idsp/reserves/alpes-azur-mercantour-france/",
+    "link": "https://www.darksky.org/our-work/conservation/idsp/reserves/alpes-azur-mercantour-france/",
     "type": "Nature Reserve"
   },
   {
@@ -689,7 +689,7 @@
     "name": "Central Idaho",
     "country": "United States",
     "img": "/assets/images/Central Idaho.jpg",
-    "description": "https://idahodarksky.org/",
+    "link": "https://idahodarksky.org/",
     "type": "Nature Reserve"
   },
   {
@@ -698,7 +698,7 @@
     "name": "Cévennes",
     "country": "France",
     "img": "/assets/images/Cevennes.png",
-    "description": "http://www.causses-et-cevennes.fr/en/i-discovered/natural-parks-and-large-sites/the-cevennes-national-park/",
+    "link": "http://www.causses-et-cevennes.fr/en/i-discovered/natural-parks-and-large-sites/the-cevennes-national-park/",
     "type": "Nature Reserve"
   },
   {
@@ -707,7 +707,7 @@
     "name": "Exmoor",
     "country": "England",
     "img": "/assets/images/Exmoor.jpg",
-    "description": "https://www.exmoor-nationalpark.gov.uk/",
+    "link": "https://www.exmoor-nationalpark.gov.uk/",
     "type": "Nature Reserve"
   },
   {
@@ -716,7 +716,7 @@
     "name": "Moore’s Reserve",
     "country": "England",
     "img": "/assets/images/Moore.png",
-    "description": "https://www.darksky.org/our-work/conservation/idsp/reserves/southdowns/",
+    "link": "https://www.darksky.org/our-work/conservation/idsp/reserves/southdowns/",
     "type": "Nature Reserve"
   },
   {
@@ -725,7 +725,7 @@
     "name": "River Murray",
     "country": "Australia",
     "img": "/assets/images/Murray.jpg",
-    "description": "http://www.murrayriver.com.au/about-the-murray/",
+    "link": "http://www.murrayriver.com.au/about-the-murray/",
     "type": "Nature Reserve"
   },
   {
@@ -734,7 +734,7 @@
     "name": "Snowdonia",
     "country": "Wales",
     "img": "/assets/images/Snowdonia.jpg",
-    "description": "https://www.snowdonia.gov.wales/home",
+    "link": "https://www.snowdonia.gov.wales/home",
     "type": "Nature Reserve"
   },
   {
@@ -743,7 +743,7 @@
     "name": "Tartu Observatory",
     "country": "Estonia",
     "img": "/assets/images/Tartu.jpg",
-    "description": "https://www.to.ee/eng/",
+    "link": "https://www.to.ee/eng/",
     "type": "Observatory"
   },
   {
@@ -752,7 +752,7 @@
     "name": "Ishigaki-Jima",
     "country": "Japan",
     "img": "/assets/images/Ishigaki.jpg",
-    "description": "https://www.nao.ac.jp/en/access/ishigakijima.html",
+    "link": "https://www.nao.ac.jp/en/access/ishigakijima.html",
     "type": "Observatory"
   },
   {
@@ -761,7 +761,7 @@
     "name": "Padua Observatory",
     "country": "Italy",
     "img": "/assets/images/Padua.jpg",
-    "description": "https://www.atlasobscura.com/places/la-specola-observatory",
+    "link": "https://www.atlasobscura.com/places/la-specola-observatory",
     "type": "Observatory"
   },
   {
@@ -770,7 +770,7 @@
     "name": "Royal Edinburgh Observatory",
     "country": "Scotland",
     "img": "/assets/images/Edinburgh.jpg",
-    "description": "https://www.roe.ac.uk/",
+    "link": "https://www.roe.ac.uk/",
     "type": "Observatory"
   },
   {
@@ -779,7 +779,7 @@
     "name": "Pulkovo",
     "country": "Russia",
     "img": "/assets/images/Pulkovo.jpg",
-    "description": "https://www.britannica.com/topic/Pulkovo-Observatory",
+    "link": "https://www.britannica.com/topic/Pulkovo-Observatory",
     "type": "Observatory"
   },
   {
@@ -788,7 +788,7 @@
     "name": "Lowell",
     "country": "United States",
     "img": "/assets/images/Lowell.jpg",
-    "description": "https://lowell.edu/visit/",
+    "link": "https://lowell.edu/visit/",
     "type": "Observatory"
   },
   {
@@ -797,7 +797,7 @@
     "name": "La Silla",
     "country": "Chile",
     "img": "/assets/images/La Silla.jpg",
-    "description": "https://www.eso.org/public/spain/teles-instr/lasilla/",
+    "link": "https://www.eso.org/public/spain/teles-instr/lasilla/",
     "type": "Observatory"
   },
   {
@@ -806,7 +806,7 @@
     "name": "South African Astronomical",
     "country": "South Africa",
     "img": "/assets/images/South African Astronomical.jpg",
-    "description": "https://www.saao.ac.za/",
+    "link": "https://www.saao.ac.za/",
     "type": "Observatory"
   },
   {
@@ -815,7 +815,7 @@
     "name": "Sydney Observatory",
     "country": "Australia",
     "img": "/assets/images/Sydney.jpg",
-    "description": "https://maas.museum/sydney-observatory/",
+    "link": "https://maas.museum/sydney-observatory/",
     "type": "Observatory"
   },
   {
@@ -824,7 +824,7 @@
     "name": "South Pole Telescope",
     "country": "Antarctica",
     "img": "/assets/images/South Pole.jpg",
-    "description": "https://pole.uchicago.edu/",
+    "link": "https://pole.uchicago.edu/",
     "type": "Observatory"
   },
   {
@@ -833,7 +833,7 @@
     "name": "Yerkes",
     "country": "United States",
     "img": "/assets/images/Yerkes.jpg",
-    "description": "https://www.space.com/26858-yerkes-observatory.html",
+    "link": "https://www.space.com/26858-yerkes-observatory.html",
     "type": "Observatory"
   },
   {
@@ -842,7 +842,7 @@
     "name": "Kitt Peak National Observatory",
     "country": "United States",
     "img": "/assets/images/Kitt Peak.jpg",
-    "description": "https://www.noao.edu/kpno/",
+    "link": "https://www.noao.edu/kpno/",
     "type": "Observatory"
   },
   {
@@ -851,7 +851,7 @@
     "name": "Arecibo",
     "country": "Puerto Rico",
     "img": "/assets/images/Arecibo.jpg",
-    "description": "https://www.naic.edu/ao/",
+    "link": "https://www.naic.edu/ao/",
     "type": "Observatory"
   },
   {
@@ -860,7 +860,7 @@
     "name": "University Of Tokyo Atacama Observatory",
     "country": "Chile",
     "img": "/assets/images/tokyo.jpeg",
-    "description": "http://www.ioa.s.u-tokyo.ac.jp/TAO/en/index.html",
+    "link": "http://www.ioa.s.u-tokyo.ac.jp/TAO/en/index.html",
     "type": "Observatory"
   },
   {
@@ -869,7 +869,7 @@
     "name": "Ckoirama",
     "country": "Chile",
     "img": "/assets/images/Ckoirama.jpg",
-    "description": "http://www.astro.uantof.cl/research/observatorios/observatorio-ckoirama/",
+    "link": "http://www.astro.uantof.cl/research/observatorios/observatorio-ckoirama/",
     "type": "Observatory"
   },
   {
@@ -878,7 +878,7 @@
     "name": "Cielo Sur",
     "country": "Chile",
     "img": "/assets/images/Cielo Sur.jpg",
-    "description": "http://www.cielosur.com/",
+    "link": "http://www.cielosur.com/",
     "type": "Observatory"
   },
   {
@@ -887,7 +887,7 @@
     "name": "Crimean Astrophysical Observatory",
     "country": "Ukraine",
     "img": "/assets/images/Crimea.jpg",
-    "description": "http://www.techprofiles.org/index.php/ukrainian-institutes/891-crimean-astrophysical-observatory",
+    "link": "http://www.techprofiles.org/index.php/ukrainian-institutes/891-crimean-astrophysical-observatory",
     "type": "Observatory"
   },
   {
@@ -896,7 +896,7 @@
     "name": "Asociación Argentina Amigos de la Astronomia",
     "country": "Argentina",
     "img": "/assets/images/AmigosAstronomia.jpg",
-    "description": "https://www.amigosdelaastronomia.org/",
+    "link": "https://www.amigosdelaastronomia.org/",
     "type": "Observatory"
   },
   {
@@ -905,7 +905,7 @@
     "name": "Palomar",
     "country": "United States",
     "img": "/assets/images/Palomar.jpg",
-    "description": "https://www.astro.caltech.edu/palomar/homepage.html",
+    "link": "https://www.astro.caltech.edu/palomar/homepage.html",
     "type": "Observatory"
   },
   {
@@ -914,7 +914,7 @@
     "name": "Gemini Observatory",
     "country": "United States",
     "img": "/assets/images/Gemini.jpg",
-    "description": "http://www.gemini.edu/",
+    "link": "http://www.gemini.edu/",
     "type": "Observatory"
   },
   {
@@ -923,7 +923,7 @@
     "name": "Las Campanas",
     "country": "Chile",
     "img": "/assets/images/Las Campanas.jpg",
-    "description": "http://www.lco.cl/",
+    "link": "http://www.lco.cl/",
     "type": "Observatory"
   },
   {
@@ -932,7 +932,7 @@
     "name": "Ampimpa",
     "country": "Argentina",
     "img": "/assets/images/Ampimpa.png",
-    "description": "http://www.astrotuc.com.ar/",
+    "link": "http://www.astrotuc.com.ar/",
     "type": "Observatory"
   },
   {
@@ -941,7 +941,7 @@
     "name": "Cachuma Lake",
     "country": "United States",
     "img": "/assets/images/Cachuma.jpg",
-    "description": "http://www.countyofsb.org/parks/cachuma.sbc",
+    "link": "http://www.countyofsb.org/parks/cachuma.sbc",
     "type": "Recreational Area"
   },
   {
@@ -950,7 +950,7 @@
     "name": "Salar de Uyuni",
     "country": "Bolivia",
     "img": "/assets/images/Salar de Uyuni.jpg",
-    "description": "https://www.ngenespanol.com/naturaleza/revista-impresa-junio-2017-salar-de-uyuni-bolivia-deposito-de-litio/",
+    "link": "https://www.ngenespanol.com/naturaleza/revista-impresa-junio-2017-salar-de-uyuni-bolivia-deposito-de-litio/",
     "type": "Recreational Area"
   },
   {
@@ -959,7 +959,7 @@
     "name": "Mojave National Preserve",
     "country": "United States",
     "img": "/assets/images/Mojave.jpg",
-    "description": "https://www.nps.gov/moja/index.htm",
+    "link": "https://www.nps.gov/moja/index.htm",
     "type": "Nature Reserve"
   },
   {
@@ -968,7 +968,7 @@
     "name": "Yosemite National Park",
     "country": "United States",
     "img": "/assets/images/Yosemite.jpg",
-    "description": "https://www.nps.gov/yose/index.htm",
+    "link": "https://www.nps.gov/yose/index.htm",
     "type": "National Park"
   },
   {
@@ -977,7 +977,7 @@
     "name": "Sequoia National Park",
     "country": "United States",
     "img": "/assets/images/Sequioa.jpg",
-    "description": "https://www.visitsequoia.com/",
+    "link": "https://www.visitsequoia.com/",
     "type": "National Park"
   },
   {
@@ -986,7 +986,7 @@
     "name": "Lassen Volcanic National Park",
     "country": "United States",
     "img": "/assets/images/Lassen.jpg",
-    "description": "https://www.nps.gov/lavo/index.htm",
+    "link": "https://www.nps.gov/lavo/index.htm",
     "type": "National Park"
   },
   {
@@ -995,7 +995,7 @@
     "name": "Elqui Valley",
     "country": "Chile",
     "img": "/assets/images/Elqui.jpg",
-    "description": "https://chile.travel/en/where-to-go/north-and-the-atacama-desert/elqui-valley",
+    "link": "https://chile.travel/en/where-to-go/north-and-the-atacama-desert/elqui-valley",
     "type": "Recreational Area"
   },
   {
@@ -1004,7 +1004,7 @@
     "name": "Chimborazo",
     "country": "Ecuador",
     "img": "/assets/images/Chimborazo.jpg",
-    "description": "https://es.wikipedia.org/wiki/Volc%C3%A1n_Chimborazo",
+    "link": "https://es.wikipedia.org/wiki/Volc%C3%A1n_Chimborazo",
     "type": "Recreational Area"
   }
 ]

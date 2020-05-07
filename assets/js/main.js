@@ -138,7 +138,7 @@ const fetchMarkers = async (map) => {
 //Función de agregado de un marker
 const addMarker = (map, marker) => { 
     //Destructuring de la info del marker
-    const { lat, lng, name, country, img, description, type } = marker;
+    const { lat, lng, name, country, img, link, type } = marker;
 
     //Armo la infowindow
     const contentString = `
@@ -149,7 +149,7 @@ const addMarker = (map, marker) => {
         <div class='infoPlace'>
             <h2>${name}</h2>
             <h3>${type}</h3>
-            <a href="${description}" target="_blank">More information</a>
+            <a href="${link}" target="_blank">More information</a>
         </div>
     </div>`;
     const infowindow = new google.maps.InfoWindow({
@@ -197,6 +197,36 @@ const addMarker = (map, marker) => {
                 'padding-bottom' : '10px'
             })
         }
+
+    const locationInfo = () =>{
+        const filters = document.querySelector('#filtersMenu');
+        const info = document.querySelector('#locationInfo');
+        
+        
+        filters.classList.add('hide');
+        info.classList.remove('hide');
+
+        info.innerHTML = `
+        <span id="back">back</span>
+        
+        <div class='imgCont'>
+            <img src="${img}">
+        </div>
+        <div class='infoPlace'>
+            <h2>${name}</h2>
+            <h3>${type}</h3>
+            <a href="${link}" target="_blank">More information</a>
+        </div>
+
+        `;
+
+        const back = document.querySelector('#back');
+
+        back.addEventListener('click', () => {
+            filters.classList.remove('hide');
+            info.classList.add('hide');
+        });
+    }
         
     //Agrego evento de click en el marker, abre infowindow y cierra los demás
         
@@ -206,6 +236,7 @@ const addMarker = (map, marker) => {
         })
         infowindow.open(map, markerItem);
             styleWindow();
+            locationInfo();
         });
             
     //Agrego mi nuevo marker (objeto marker, no json marker, a mi array para filtros)

@@ -21,10 +21,6 @@ h1, h2, h3, p, a{
     transform: translate(0%, 0);
 }
 
-#hide{
-    display:none;
-}
-
 .title{
     font-family: 'Titillium Web', sans-serif;
     text-align: center;
@@ -163,3 +159,7 @@ option{
     left:0%;
 }
 
+.hide{
+    display:none;
+    padding: 0;
+}
