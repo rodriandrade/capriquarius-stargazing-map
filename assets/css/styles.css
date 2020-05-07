@@ -156,10 +156,10 @@ option{
 
 .openSideNav{
     transform: translate(0, 0);
-    padding: 0em 1em 0 1em;
+    padding: 0em 1% 0 1%;
 }
 
 .moveSideNav{
-    left:24.4%;
+    left: 24%;
 }
 
