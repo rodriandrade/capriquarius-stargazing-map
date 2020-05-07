@@ -124,7 +124,7 @@ window.initMap = () => {
 //Función de asincrónica que trae los markers
 const fetchMarkers = async (map) => { 
     try {
-        const response = await fetch('assets/data/markers.json');
+        const response = await fetch('https://stargazing-map-api-rest.now.sh/locations');
         const json = await response.json();
         json.forEach(marker => {
             addMarker(map, marker);
@@ -172,7 +172,7 @@ const addMarker = (map, marker) => {
     //Agrego el marker
     const markerItem = new google.maps.Marker(
         {
-            position: { lat: lat, lng: lng },
+            position: { lat: parseFloat(lat), lng: parseFloat(lng) },
             icon: icons[type],
             map: map,
             customInfo: type,
