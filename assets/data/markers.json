@@ -112,7 +112,7 @@
     "lng": 15.98124979,
     "name": "NamibRand Nature Reserve",
     "country": "Namibia",
-    "img": "/assets/images/Aoraki Mackenzie.jpg",
+    "img": "/assets/images/Namib.jpg",
     "description": "http://www.namibrand.com/tourism.html",
     "type": "Nature Reserve"
   },
@@ -751,7 +751,7 @@
     "lng": 124.23850609,
     "name": "Ishigaki-Jima",
     "country": "Japan",
-    "img": "/assets/images/Tartu.jpg",
+    "img": "/assets/images/Ishigaki.jpg",
     "description": "https://www.nao.ac.jp/en/access/ishigakijima.html",
     "type": "Observatory"
   },
