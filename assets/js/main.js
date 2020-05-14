@@ -149,10 +149,10 @@ const addMarker = (map, marker) => {
         <div class='infoPlace'>
             <h2>${name}</h2>
             <h3>${type}</h3>
-            <a href="${link}" target="_blank">More information</a>
+            <a href="${link}" target="_blank">Website</a>
         </div>
-        <button>More Information</button>
     </div>`;
+    
     const infowindow = new google.maps.InfoWindow({
         content: contentString
     });
@@ -183,6 +183,7 @@ const addMarker = (map, marker) => {
     markerItem.setMap(map);
 
     //Styling map with jQuery
+    
     const styleWindow = () =>{ 
         const infoWindowEdit = $('.thisWindowHook').parent().parent().parent();
             infoWindowEdit.css({
@@ -198,6 +199,7 @@ const addMarker = (map, marker) => {
                 'padding-bottom' : '10px'
             })
         }
+        
         
     //Agrego evento de click en el marker, abre infowindow y cierra los demás
         
@@ -233,18 +235,27 @@ const locationInfo = (marker) =>{
     </div>
     <div class='infoPlace'>
         <h2 id="placeTitle">${name}</h2>
-        <div id="selectHour">
-            <select id="pickHour" onchange="showData(${lat}, ${lng})">
-                <option value="0" selected>00:00hs</option>
-                <option value="1">03:00hs</option>
-                <option value="2">06:00hs</option>
-                <option value="6">18:00hs</option>
-                <option value="7">21:00hs</option>
-            </select>
+        <div id="filterWeather">
+            <h3 id="weatherConditionSub" class="subtitle">Weather condition</h3>
+            <div id="selectHour">
+                <select id="pickHour" onchange="showData(${lat}, ${lng})">
+                    <option value="0" selected>00:00hs</option>
+                    <option value="1">03:00hs</option>
+                    <option value="2">06:00hs</option>
+                    <option value="3">09:00hs</option>
+                    <option value="4">12:00hs</option>
+                    <option value="5">15:00hs</option>
+                    <option value="6">18:00hs</option>
+                    <option value="7">21:00hs</option>
+                </select>
+            </div>
         </div>
-        <div id="weatherCondition"></div>
+        <div id="weatherCondition">
+            <img src="assets/images/loading.gif" width="70px">
+        </div>
+        <h3 class="subtitle" id="desc">Description</h3>
         <p id="placeDescription">${description}</p>
-        <a href="${link}" target="_blank" id="placeLink">More information</a>
+        <a href="${link}" target="_blank" id="placeLink">Website</a>
     </div>
    
 
@@ -267,6 +278,7 @@ const fetchForecast = async (lat, lng) => {
     const response = await fetch(proxyurl + url);
     const json = await response.json();
     const {list} = json;
+    console.log(url);
     return list
 }
 
@@ -303,7 +315,7 @@ const showData = async (lat, lng) =>{
     </div>
     <div>
         <p class="weatherValue">${transparencySky[timeValue]} %</p>
-        <p class="weatherData">Transparency</p>
+        <p class="weatherData">Humidity</p>
     </div>
     <div>
         <p class="weatherValue">${temperature[timeValue]} C°</p>
